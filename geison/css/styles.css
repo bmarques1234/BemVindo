@@ -17,12 +17,12 @@ html, body, #header{width:100%;}
 #infoPess #txtInfoPess p{line-height:5px; margin-bottom:22px;}
 
 #infoCont h2, #infoProf h2, #infoAdic h2{margin:0 0 0 10px;}
-#infoCont p, #infoProf p, #infoAdic ul{margin-left:30px;}
+#infoCont p, #infoProf p, #infoAdic ul{margin-left:10px; list-style:none;}
 
 #infoAdic h4{margin-left:15px;}
 
 #backtoindex {text-align:center; margin:20px 0 20px 0;}
 #backtoindex a{text-decoration:none; color:#4DB920; font-weight:bold;}
 
-ul.italic li{margin:0 0 30px -35px; font-style:italic; list-style:none;}
+ul.italic li{margin:0 0 30px -35px; font-style:italic;}
 ul.center li{text-align:center;}
