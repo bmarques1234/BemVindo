@@ -1,1 +1,40 @@
 /*stylesheet*/
+body{
+	background-color: #6C6D6F;
+}
+#pessoal{
+	border-radius:20px;
+	border: 2px solid black;
+	width:100%;
+	height:20%;
+	background-color:white;
+	position:absolute;
+	clear:both;
+}
+#profissional{
+	border-radius:20px;
+	border: 2px solid black;
+	width:100%;
+	height:20%;
+	background-color:white;
+	position:absolute;
+	clear:both;
+}
+#hobby{
+	border-radius:20px;
+	border: 2px solid black;
+	width:100%;
+	height:20%;
+	background-color:white;
+	position:absolute;
+	clear:both;
+}
+#contato{
+	border-radius:20px;
+	border: 2px solid black;
+	width:100%;
+	height:20%;
+	background-color:white;
+	position:absolute;
+	clear:both;
+}
