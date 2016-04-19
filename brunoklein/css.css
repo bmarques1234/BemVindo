@@ -8,16 +8,12 @@ background-color:#EFEFEF ;
 	margin-left:480px;
 }
 
-#pessoais{
-	font-size: 25px; 
-	font-family:Arial;
-	margin-left:100px;
-}
 
 #pessoais{
 	font-family:Arial;
 	margin-left:400px;
 	margin-top:-200px;
+	font-size:25px;
 }
 
 #site{
@@ -34,4 +30,10 @@ background-color:#EFEFEF ;
 	border-radius:2000px;
 	margin-top:-50px;
 	margin-left:100px;
+}
+
+.lista{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:420px;
 }
