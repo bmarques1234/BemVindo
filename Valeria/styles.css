@@ -1,2 +1,18 @@
-#p01 {display: inline-block;text-align:center;}
-#p02 {width: 600px;}
+#p01 {display: inline-block;text-align:center;position:relative;left:50px;}
+#p02 {display: inline-block;text-align:center;font-size:120%;position:relative;left:300px;} 
+#p03 {background-color:#4DB920;text-align:center;}
+
+nav {
+    line-height:30px;
+    background-color:#EFEFEF;
+    height:600px;
+    width:250px;
+    float:left;
+    padding:5px;	      
+}
+
+section {
+	width:1050px;
+    float:left;
+    padding:10px; 
+}
