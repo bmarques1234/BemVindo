@@ -55,3 +55,48 @@ background-color:#EFEFEF ;
 	margin-top:50px;
 	font-size:25px;
 }
+
+.ol1{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:100px;
+}
+
+#olt1{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:400px;
+	margin-top:-95px;
+}
+
+#olt2{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:700px;
+	margin-top:-95px;
+}
+
+#olt3{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:1000px;
+	margin-top:-95px;
+}
+
+#ol2{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:400px;
+}
+
+#ol3{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:700px;
+}
+
+#ol4{
+	font-size:20px;
+	font-family:Arial;
+	margin-left:1000px;
+}
