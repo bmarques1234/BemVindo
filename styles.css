@@ -1,7 +1,7 @@
 /**/
 #center{
 	width:50%;
-	height: 500px;
+	height: 658px;
 	margin: -26px auto;
 	background-color:white;
 }
@@ -32,18 +32,22 @@ li{
 	font-family:cursive;
 }
 #footer{
-	margin-top:200px;
+	margin-top:270px;
 	display: inline-block;
 	float: left;
 	background-color:white;
+	margin-left:20px;
 }
 #contact{
-	margin-top:200px;
+	margin-top:270px;
 	float:right;
 	background-color:white;
+	margin-right:20px;
 }
 #email{
 	float:right;
+	margin-left:220px;
+	margin-top:-15px;
 }
 #tel{
 	margin-top:-50px;
