@@ -1,0 +1,4 @@
+html, body{margin:0; padding:0; background:#EFEFEF;}
+html, body, header{width:100%;}
+header{height:350px; background:#FFF; text-align:center;}
+header img{margin-top:20px;}
