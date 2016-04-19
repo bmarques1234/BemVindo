@@ -5,11 +5,7 @@ body{
 #pessoal{
 	border-radius:20px;
 	border: 2px solid black;
-<<<<<<< HEAD
 	width:100%;
-=======
-	width:98%;
->>>>>>> 4d59cb012abdce41ec9b03a8e1b1ffca7360ca56
 	height:200px;
 	background-color:white;
 	display: block;
@@ -17,11 +13,7 @@ body{
 #profissional{
 	border-radius:20px;
 	border: 2px solid black;
-<<<<<<< HEAD
 	width:100%;
-=======
-	width:98%;
->>>>>>> 4d59cb012abdce41ec9b03a8e1b1ffca7360ca56
 	height:200px;
 	background-color:white;
 	display: block;
@@ -29,26 +21,16 @@ body{
 #hobby{
 	border-radius:20px;
 	border: 2px solid black;
-<<<<<<< HEAD
 	width:100%;
 	height:385px;
-=======
-	width:98%;
-	height:200px;
->>>>>>> 4d59cb012abdce41ec9b03a8e1b1ffca7360ca56
 	background-color:white;
 	display: block;
 }
 #contato{
 	border-radius:20px;
 	border: 2px solid black;
-<<<<<<< HEAD
 	width:100%;
-	height:100pxpx;
-=======
-	width:98%;
-	height:200px;
->>>>>>> 4d59cb012abdce41ec9b03a8e1b1ffca7360ca56
+	height:140px;
 	background-color:white;
 	display: block;
 }
@@ -65,7 +47,6 @@ img{
 	float: left;
 	margin-top: -30px;
 	margin-right: 50px;
-<<<<<<< HEAD
 }
 #back{
 	height:50px;
@@ -74,6 +55,4 @@ img{
 	float:right;
 	margin-top: -15px;
 	margin-right:3px;
-=======
->>>>>>> 4d59cb012abdce41ec9b03a8e1b1ffca7360ca56
 }
