@@ -5,36 +5,32 @@ body{
 #pessoal{
 	border-radius:20px;
 	border: 2px solid black;
-	width:100%;
-	height:20%;
+	width:98%;
+	height:200px;
 	background-color:white;
-	position:absolute;
-	clear:both;
+	display: block;
 }
 #profissional{
 	border-radius:20px;
 	border: 2px solid black;
-	width:100%;
-	height:20%;
+	width:98%;
+	height:200px;
 	background-color:white;
-	position:absolute;
-	clear:both;
+	display: block;
 }
 #hobby{
 	border-radius:20px;
 	border: 2px solid black;
-	width:100%;
-	height:20%;
+	width:98%;
+	height:200px;
 	background-color:white;
-	position:absolute;
-	clear:both;
+	display: block;
 }
 #contato{
 	border-radius:20px;
 	border: 2px solid black;
-	width:100%;
-	height:20%;
+	width:98%;
+	height:200px;
 	background-color:white;
-	position:absolute;
-	clear:both;
+	display: block;
 }
