@@ -17,10 +17,12 @@ background-color:#EFEFEF ;
 }
 
 #site{
-	width:30px;
+	width:100px;
 	margin-left:600px;
 	font-size:20px;
 	color:#4DB920;
+	position:absolute;
+	margin-top:280px;
 }
 
 #imag{
@@ -99,4 +101,11 @@ background-color:#EFEFEF ;
 	font-size:20px;
 	font-family:Arial;
 	margin-left:1000px;
+}
+
+#motiv{
+	font-family:Italic;
+	margin-left:950px;
+	margin-top:-400px;
+	font-size:25px;
 }
