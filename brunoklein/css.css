@@ -11,14 +11,13 @@ background-color:#EFEFEF ;
 
 #pessoais{
 	font-family:Arial;
-	margin-left:400px;
+	margin-left:470px;
 	margin-top:-200px;
 	font-size:25px;
 }
 
 #site{
 	width:30px;
-	hieght:50px;
 	margin-left:600px;
 	font-size:20px;
 	color:#4DB920;
@@ -28,19 +27,19 @@ background-color:#EFEFEF ;
 	width:250px; 
 	height:250px;
 	border-radius:2000px;
-	margin-top:-50px;
-	margin-left:100px;
+	margin-top:-70px;
+	margin-left:80px;
 }
 
 .lista{
 	font-size:20px;
 	font-family:Arial;
-	margin-left:420px;
+	margin-left:500px;
 }
 
 #prof{
 	font-family:Arial;
-	margin-left:400px;
+	margin-left:470px;
 	font-size:25px;
 }
 
@@ -48,4 +47,11 @@ background-color:#EFEFEF ;
 	font-family:Arial;
 	margin-top:-80px;
 	font-size:20px;
+}
+
+#add{
+	font-family:Arial;
+	margin-left:470px;
+	margin-top:50px;
+	font-size:25px;
 }
