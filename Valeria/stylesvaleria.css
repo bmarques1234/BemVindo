@@ -1,3 +1,10 @@
 #p01 {display: inline-block;text-align:center;position:relative;left:50px;}
 #p02 {display: inline-block;text-align:center;font-size:120%;position:relative;left:200px;} 
 #p03 {background-color:#4DB920;text-align:center;}
+
+section {
+    width:650px;
+    float:left;
+    padding:10px; 
+}
+
