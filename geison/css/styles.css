@@ -1,3 +1,4 @@
+
 html, body{margin:0; padding:0; background:#EFEFEF; font-family:arial;}
 html, body, #header{width:100%;}
 #header{height:165px; background:#FFF; text-align:center;}
@@ -7,13 +8,18 @@ html, body, #header{width:100%;}
 
 #content{width:800px; margin:-120px auto;}
 
-#infoPess, #infoCont, #infoProf{margin-bottom:10px; padding:5px; background:#FFF; box-shadow:0px 0px 20px #CCC;}
+#infoPess, #infoCont, #infoProf, #infoAdic{margin-bottom:10px; padding:15px 8px 15px 8px; background:#FFF; box-shadow:0px 0px 20px #CCC;}
 
 #infoPess{height:150px;}
 #infoPess #PicInfoPess{width:150px; height:150px; background:#efefef; float:left; margin-right:30px;}
 #infoPess #txtInfoPess{height:150px; float:left;}
+#infoPess #txtInfoPess h1{color:#4DB920;}
 #infoPess #txtInfoPess p{line-height:5px; margin-bottom:22px;}
 
-#infoCont{height:100px;}
+#infoCont h2{margin:0; color:#4DB920;}
+#infoCont p{margin-left:20px;}
 
-#infoProf{height:100px;}
+#infoProf h2{margin:0; color:#4DB920;}
+#infoProf p{margin-left:20px;}
+
+#infoAdic h2{margin:0; color:#4DB920;}
