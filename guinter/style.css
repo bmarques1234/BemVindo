@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 6a5775a19f33f31e754fa676eaa78dacb43c04d7
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 <<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 <<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
@@ -82,11 +83,24 @@ body
 =======
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+<<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
+>>>>>>> titulos, layout, espaços em branco
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
-		text-align:center;
+=======
+		color:black;
+		font-family:times;
+		font-size:200%;
 	}
+#titulo1
+	{
+>>>>>>> titulos, layout, espaços em branco
+		text-align:center;
+		color:#4db81a;
+	}
+<<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
 body 
 	{
 		background-color:#eaeae1;
@@ -97,6 +111,28 @@ body
 	{
 		width:100%;		
 		text-align:center;
+=======
+#titulo2
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+#titulo3
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
+>>>>>>> titulos, layout, espaços em branco
 	}
 #imagem 
 	{
@@ -116,7 +152,9 @@ body
 		border: 3px solid black;
 		font-family:verdana;
 		text-align:center;
+<<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
 		font-size:125%;
+<<<<<<< 6a5775a19f33f31e754fa676eaa78dacb43c04d7
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
 <<<<<<< 2dcdb241dc1efb004945fec6bbd7724b104b353a
@@ -128,6 +166,14 @@ body
 =======
 		margin-bottom:25px;
 >>>>>>> alteração layout, esportes, formatação
+=======
+=======
+	}
+#isolar
+	{
+		color:#4db81a;
+>>>>>>> titulos, layout, espaços em branco
+>>>>>>> titulos, layout, espaços em branco
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
@@ -336,6 +382,7 @@ span.detalhesfrases
 	{
 		color:black;
 		font-family:verdana;
+<<<<<<< 6a5775a19f33f31e754fa676eaa78dacb43c04d7
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
 <<<<<<< 9b1da1721efa6b239f6534031a1a0fd7d6203f2e
@@ -383,3 +430,14 @@ span.detalhesfrases
 		line-height:50px;
 	}
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+<<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
+		font-size:125%;
+		text-align:center;
+		line-height:50px;
+=======
+		font-size:100%;
+		text-align:center;
+>>>>>>> titulos, layout, espaços em branco
+	}
+>>>>>>> titulos, layout, espaços em branco
