@@ -25,7 +25,8 @@ body
 		text-align:center;
 		font-size:100%;
 		color:black;
-		border: 3px solid black;
+		border:3px solid black;
+		margin-bottom:25px;
 	}
 #DadosPessoais
 	{
@@ -50,7 +51,6 @@ body
 		border:3px solid black;
 		font-family:verdana;
 		text-align:center;
-/*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 		font-size:125%;
 	}		
 #comeback 
@@ -72,6 +72,5 @@ span.detalhesfrases
 		font-weight:bold;
 		font-style:italic;
 		font-size:100%;
-		color:green;
 		line-height:50px;
 	}
