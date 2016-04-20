@@ -1,9 +1,8 @@
 $(document).ready(function(){
-	$('#foto').hide();
 	$('#imagem').hover(function(){
-		$('#foto').fadeIn("slow");
+		$("#body").slideToogle("slow");
 	});
-	$('#imagem').mouseleave(function(){
-		$('#foto').fadeOut("fast");
+	$("imagem").mouseleave({
+		$("#body").slideUp();
 	});
 });
