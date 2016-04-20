@@ -494,6 +494,7 @@ body
 		font-size:100%;
 		color:black;
 		border:3px solid black;
+<<<<<<< 0086a7862d5d8073966279eaa3973fa50b2d7a1f
 		margin:25px 0px 25px 0px;	
 	}
 >>>>>>> ajustes para merge
@@ -528,6 +529,9 @@ body
 =======
 		border: 3px solid black;
 >>>>>>> alteração layout, esportes, formatação
+=======
+		margin-bottom:25px;
+>>>>>>> titulos, layout, espaços em branco
 	}
 <<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 >>>>>>> arrumando conflitos
@@ -608,11 +612,14 @@ body
 	{
 		font-family:verdana;
 		text-align:center;
+<<<<<<< 0086a7862d5d8073966279eaa3973fa50b2d7a1f
 <<<<<<< f49710d5cc8a83359128693088953a024c81509d
 <<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
 =======
 /*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 >>>>>>> alteração layout, esportes, formatação
+=======
+>>>>>>> titulos, layout, espaços em branco
 		font-size:125%;
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
@@ -987,6 +994,7 @@ span.detalhesfrases
 >>>>>>> arrumando conflitos
 =======
 		font-size:100%;
+<<<<<<< 0086a7862d5d8073966279eaa3973fa50b2d7a1f
 		color:green;
 <<<<<<< 477d47c7a372dada2e03288fb8a9d1738c0d58d1
 <<<<<<< c896c90d7627f3fc2f5f131311940925aeed05f7
@@ -1001,6 +1009,8 @@ span.detalhesfrases
 =======
 		font-size:125%;
 		text-align:center;
+=======
+>>>>>>> titulos, layout, espaços em branco
 		line-height:50px;
 	}
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
