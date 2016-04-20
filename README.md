@@ -1,4 +1,5 @@
-[![Logo DD](http://www.digitaldesk.com.br/content/images/logoDD.png)](http://www.digitaldesk.com.br/)
+﻿[![Logo DD](http://www.digitaldesk.com.br/content/images/logoDD.png)](http://www.digitaldesk.com.br/)
+
 
 # Apresentação dos estagiários da DigitalDesk
 ###Objetivo:
