@@ -43,6 +43,7 @@ body
 #titulo3
 	{
 		margin-left:25px;
+<<<<<<< 3880df798134d3f3d2437057f73216b42cf78c59
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:#4db81a;
@@ -77,6 +78,24 @@ body
 >>>>>>> titulos, layout, espaços em branco
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		color:#4db81a;
+	}
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
+	}
+#imagem 
+	{
+		border-radius:2000px;
+>>>>>>> titulos, layout, espaços em branco
 	}
 	#imagem 
 		{
@@ -96,6 +115,7 @@ body
 <<<<<<< 2dcdb241dc1efb004945fec6bbd7724b104b353a
 <<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 	}
+<<<<<<< 3880df798134d3f3d2437057f73216b42cf78c59
 <<<<<<< 9b1da1721efa6b239f6534031a1a0fd7d6203f2e
 =======
 =======
@@ -105,6 +125,13 @@ body
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
 #isolar
+=======
+#isolar
+	{
+		color:#4db81a;
+	}	
+#DadosPessoais
+>>>>>>> titulos, layout, espaços em branco
 	{
 		color:#4db81a;
 =======
@@ -283,6 +310,7 @@ span.detalhesfrases
 =======
 		font-size:100%;
 		text-align:center;
+<<<<<<< 3880df798134d3f3d2437057f73216b42cf78c59
 >>>>>>> titulos, layout, espaços em branco
 =======
 		font-size:125%;
@@ -306,3 +334,6 @@ span.detalhesfrases
 =======
 	}
 >>>>>>> ajuste titulo e comeback
+=======
+	}
+>>>>>>> titulos, layout, espaços em branco
