@@ -1,25 +1,33 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,300);
-html, body{margin:0; padding:0; background:#EFEFEF; font-family: 'Open Sans', sans-serif; font-weight:300;}
+html, body, ul{margin:0; padding:0;}
+html, body{background:#EFEFEF; font-family: 'Open Sans', sans-serif; font-weight:300;}
 html, body, #header{width:100%;}
 #header{height:165px; background:#FFF; text-align:center;}
 #header img{margin-top:20px;}
 #headerCont{width:100%; height:120px; background:#FFF;}
 #content{width:800px; margin:-120px auto;}
 #infoPess, #infoCont, #infoProf, #infoAdic{margin-bottom:10px; padding:15px 8px 15px 8px; background:#FFF; box-shadow:0px 0px 20px #CCC; border-bottom:solid 5px #4DB920;}
+#infoPess #txtInfoPess h1, #infoCont h2, #infoProf h2, #infoAdic h2{color:#4DB920;}
 
 #infoPess{height:160px;}
 #infoPess #PicInfoPess{width:150px; height:150px; background:#EFEFEF; float:left; margin-right:30px; overflow:hidden;}
 #infoPess #txtInfoPess{height:0px; float:left;}
 #infoPess #PicInfoPess img{height:100%;}
-#infoPess #txtInfoPess h1, #infoCont h2, #infoProf h2, #infoAdic h2{color:#4DB920;}
+
 #infoPess #txtInfoPess h1{margin:15px 0 0 0;}
 #infoPess #txtInfoPess p{line-height:5px; margin-bottom:22px;}
 
+#infoCont h2, #infoProf h2, #infoAdic h2{margin:0 0 15px 10px;}
+#infoCont p, #infoProf p, #infoAdic ul{margin-left:0px; list-style:none;}
 #infoCont, #infoProf{height:140px;}
-#infoCont h2, #infoProf h2, #infoAdic h2{margin:0 0 0 10px;}
-#infoCont p, #infoProf p, #infoAdic ul{margin-left:10px; list-style:none;}
-#infoAdic h4{margin-left:15px;}
+
+#infoAdic{height:780px;}
+#infoAdic #blocks{width:100%; text-align:center;}
+#infoAdic #blocks div{width:49.5%; height:220px; background:#EFEFEF; margin-bottom:10px; float:left; text-align:center; border-bottom:solid 5px #4DB920;}
+#infoAdic #blocks div.last{margin-left:1%;}
+#infoAdic #blocks div.frase{width:100%; height:277px;}
+#infoAdic #blocks h4{width:100%; background:#bbb; color:#FFF; margin:0 0 10px 0; line-height:50px; font-size:115%; font-weight:800;}
 #backtoindex {text-align:center; margin:20px 0 20px 0;}
 #backtoindex a{text-decoration:none; color:#4DB920; font-weight:bold;}
-.italic li{margin:0 0 30px -35px; font-style:italic;}
+.italic li{font-style:italic;}
 .center li{text-align:center;}
