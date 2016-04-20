@@ -1,23 +1,67 @@
-h1	{
+h1	
+	{
 		color:black;
 		font-family:times;
 		font-size:200%;
+	}
+#t0
+	{
 		text-align:center;
 	}
-body {background-color:lightblue;}
-p.error404 {
-				font-size:200%;
-				font-family:times;
-			}
-p	{
+#t1
+	{
+		margin-left:25px;
+	}
+#t2
+	{
+		margin-left:25px;
+	}
+body {background-color:#ccddff;}
+#imagem 
+	{
+		border-radius:2000px;
+		margin-left:575px;
+		width:"300";
+		height:"350";
+	}
+#contato
+	{
 		color:black;
+		font-family:verdana;
+		text-align:center;
+	}
+#DadosPessoais
+	{
+		color:black;
+		border:3px dashed black;
 		font-family:verdana;
 		font-size:100%;
 		text-align:center;
+		padding-left:0px;
+		margin-top:25px;
+	}	
+#InformacoesAdicionais
+	{
+		color:black;
+		border:3px dashed black;
+		font-family:verdana;
+		font-size:100%;
+		padding-left:0px;
+		text-align:center;
 	}
-#imagem {
-			border-radius:2000px;
-			margin-left:575px;
-			width="300";
-			height="350";
-		}
+#DadosProfissionais
+	{
+		color:black;
+		border:3px dashed black;
+		font-family:verdana;
+		font-size:100%;
+		padding-left:0px;
+		text-align:center;
+	}	
+#comeback
+	{
+		color:black;
+		font-family:verdana;
+		font-size:100%;
+		padding-left:500px;
+	}
