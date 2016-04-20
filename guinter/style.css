@@ -52,6 +52,7 @@ body
 #titulo3
 	{
 		margin-left:25px;
+<<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 <<<<<<< 3880df798134d3f3d2437057f73216b42cf78c59
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
@@ -205,6 +206,21 @@ iframe
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
+=======
+		color:#4db81a;
+	}
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
+	}
+>>>>>>> titulos, layout, espaços em branco
 #imagem 
 =======
 		width:100%; 
@@ -215,6 +231,9 @@ body
 >>>>>>> ajustes para merge
 	{
 		border-radius:2000px;
+<<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
+>>>>>>> titulos, layout, espaços em branco
+=======
 >>>>>>> titulos, layout, espaços em branco
 	}
 <<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
@@ -366,7 +385,14 @@ body
 		border:3px solid black;
 		margin:25px 0px 25px 0px;	
 	}
+<<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 >>>>>>> arrumando conflitos
+=======
+#isolar
+	{
+		color:#4db81a;
+	}	
+>>>>>>> titulos, layout, espaços em branco
 #DadosPessoais
 	{
 =======
@@ -783,6 +809,7 @@ span.detalhessubtitulos
 	{
 		font-weight:bold;
 		font-size:100%;
+<<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 		color:green;
 	}
 span.detalhesfrases
@@ -805,3 +832,7 @@ span.detalhesfrases
 =======
 	}
 >>>>>>> ajustes para merge
+=======
+		text-align:center;
+	}
+>>>>>>> titulos, layout, espaços em branco
