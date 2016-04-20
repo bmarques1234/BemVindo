@@ -158,7 +158,6 @@ body
 		font-family:verdana;
 		font-weight:bold;
 	}
-
 body 
 	{
 		background-color:#eaeae1;
@@ -169,6 +168,7 @@ body
 	{
 		width:100%;		
 		text-align:center;
+<<<<<<< 3da6d0f2266a9413556ed6f8a3e2893929d7998b
 <<<<<<< 3c02a08cee3a0db0b4c127e390ac141df94daf45
 <<<<<<< bf8ba538b485d7291f1b4e78927c2ecb6ebc4800
 		width:100%;
@@ -208,6 +208,13 @@ iframe
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
 =======
+=======
+#titulo1
+	{
+		text-align:center;
+		color:#4db81a;
+	}
+>>>>>>> titulos, layout, espaços em branco
 #titulo2
 	{
 		margin-left:25px;
@@ -263,6 +270,20 @@ body
 		text-align:center;
 =======
 >>>>>>> alteração layout, esportes, formatação
+	}
+<<<<<<< 3da6d0f2266a9413556ed6f8a3e2893929d7998b
+>>>>>>> titulos, layout, espaços em branco
+=======
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
 	}
 >>>>>>> titulos, layout, espaços em branco
 #imagem 
@@ -376,7 +397,6 @@ body
 >>>>>>> alteração layout, esportes, formatação
 		font-size:125%;
 		margin-bottom:25px;
-
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
