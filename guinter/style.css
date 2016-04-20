@@ -4,25 +4,35 @@ h1
 		font-family:times;
 		font-size:200%;
 	}
-#t0
+#titulo1
 	{
 		text-align:center;
+		color:#4db81a;
 	}
-#t1
+#titulo2
 	{
 		margin-left:25px;
+		color:#4db81a;
 	}
-#t2
+#titulo3
 	{
 		margin-left:25px;
+		color:#4db81a;
 	}
-body {background-color:#ccddff;}
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
+	}
 #imagem 
 	{
 		border-radius:2000px;
-		margin-left:575px;
-		width:"300";
-		height:"350";
 	}
 #contato
 	{
@@ -30,6 +40,10 @@ body {background-color:#ccddff;}
 		font-family:verdana;
 		text-align:center;
 	}
+#isolar
+	{
+		color:#4db81a;
+	}	
 #DadosPessoais
 	{
 		color:black;
@@ -63,5 +77,5 @@ body {background-color:#ccddff;}
 		color:black;
 		font-family:verdana;
 		font-size:100%;
-		padding-left:500px;
+		text-align:center;
 	}
