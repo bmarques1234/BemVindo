@@ -1,6 +1,9 @@
 [![Logo DD](http://www.digitaldesk.com.br/content/images/logoDD.png)](http://www.digitaldesk.com.br/)
 
+<<<<<<< 7ac7886aa8bf7cb33c7f9db7d3407c8360e67620
 # Apresentação dos estagiários da DigitalDesk
+=======
+>>>>>>> readme
 ###Objetivo:
 O objetivo desse trabalho é que os participantes do projeto 'Trainee 2016 Digitaldesk' desenvolvam seus aprendizados em HTML e CSS, 
 utilizando funções de edição de texto, imagens e background para apresentar suas páginas pessoais.
