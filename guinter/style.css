@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 9b1da1721efa6b239f6534031a1a0fd7d6203f2e
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
@@ -19,6 +20,37 @@ body
 	{
 		width:100%;		
 		text-align:center;
+=======
+		color:black;
+		font-family:times;
+		font-size:200%;
+	}
+#titulo1
+	{
+		text-align:center;
+		color:#4db81a;
+	}
+#titulo2
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+#titulo3
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
+>>>>>>> titulos, layout, espaços em branco
 	}
 #imagem 
 	{
@@ -34,12 +66,19 @@ body
 <<<<<<< 2dcdb241dc1efb004945fec6bbd7724b104b353a
 <<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 	}
+<<<<<<< 9b1da1721efa6b239f6534031a1a0fd7d6203f2e
 =======
 =======
 		margin-bottom:25px;
 >>>>>>> alteração layout, esportes, formatação
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+#isolar
+	{
+		color:#4db81a;
+	}	
+>>>>>>> titulos, layout, espaços em branco
 #DadosPessoais
 	{
 		color:black;
@@ -115,8 +154,13 @@ span.detalhesfrases
 	{
 		color:black;
 		font-family:verdana;
+<<<<<<< 9b1da1721efa6b239f6534031a1a0fd7d6203f2e
 		font-size:125%;
 		text-align:center;
 		line-height:50px;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		font-size:100%;
+		text-align:center;
+>>>>>>> titulos, layout, espaços em branco
 	}
