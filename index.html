@@ -1,36 +1,51 @@
 ﻿<!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <title>Bem Vindo</title>
-	<link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
-	<div id="center">
-		<div id="header">
-			<div id="logo"><a href="http://www.digitaldesk.com.br/"><img src="img/logo.png"/></a></div>
-			<div id="h1"><h1 id="digitaldesk">Bem vindo a Digitaldesk</h1></div>
-		</div>
-		<div id="body">
-			<h3>Conheça nossos estagiarios:</h3>
-			<ul>
-				<li><a href="bruno-marques/index.html">Bruno Marques</a></li>
-				<li><a href="brunoklein/index.html">Bruno Klein</a></li>
-				<li><a href="geison/index.html">Geison</a></li>
-				<li><a href="guinter/index.html">Guinter</a></li>
-				<li><a href="luisa/index.html">Luisa</a></li>
-				<li><a href="valeria/index.html">Valéria</a></li>
-			</ul>
-		</div>
-		<div id="footer">
-			<p>Contatos: </p>
-			<p>(51) 3563-6275</p>
-			<p id="tel">(51) 3563-1707</p>
-		</div>
-		<div id="contact">
-			<p>Endereço:</p>
-			<p>Av. Bom Jardim, 890</p>
-			<p id="tel">Cidade Nova, Ivoti / 93900-000 - RS</p>
-		</div>
-	</div>
-  </body>
+	<head>
+		<title>Exemplo de página HTML</title>
+		<link rel="stylesheet" href="css/styles.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+		<script> 
+		$(document).ready(function(){
+			$("#imagem").click(function(){
+				$("#nomes").slideToggle("slow");
+			});
+		});
+		</script>
+	</head>
+	<bodyS>
+		<header>
+			<img src="img/logoDigitalDesk.png" alt="Logotipo DigitalDesk" height="90"/>
+			<h1>Bem vindo!</h1>
+		</header>
+		<section>
+			<h2>Trainee - 2016</h2>
+			<div id="imagem">
+				<img src="img/estagiarios.jpg"/>
+			</div>
+			<div id="nomes">	
+				<div>
+					<a href="#">Bruno Marques</a>
+				</div>
+				<div>
+					<a href="#">Bruno Klein</a>
+				</div>
+				<div>
+					<a href="#">Geison</a>
+				</div>
+				<div>
+					<a href="#">Guinter</a>
+				</div>
+				<div>
+					<a href="#">Luisa</a>
+				</div>
+				<div>
+					<a href="#">Valéria</a>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<p><a href="http://http://www.digitaldesk.com.br/">SITE DIGITALDESK</a></p>
+			<p class="coffee">&#9749; <b>Coffee is life!</b></p>
+		</footer>
+	</body>
 </html>
