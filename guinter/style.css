@@ -476,10 +476,13 @@ body
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
 		font-size:100%;
+<<<<<<< 1dae224c1982a442b64bda6b1ed5c3b3387973ab
 >>>>>>> arrumando conflitos
 		color:black;
 		border:3px solid black;
 		margin:25px 0px 25px 0px;	
+=======
+>>>>>>> titulos, layout, espaços em branco
 	}
 >>>>>>> arrumando conflitos
 =======
@@ -576,6 +579,7 @@ body
 	}
 #DadosProfissionais
 	{
+<<<<<<< 1dae224c1982a442b64bda6b1ed5c3b3387973ab
 		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
@@ -661,6 +665,13 @@ span.detalhesfrases
 >>>>>>> ajustes para merge
 	}
 =======
+=======
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+>>>>>>> titulos, layout, espaços em branco
 	}		
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 #comeback 
@@ -843,6 +854,7 @@ span.detalhesfrases
 		font-style:italic;
 		font-size:100%;
 		color:green;
+<<<<<<< 1dae224c1982a442b64bda6b1ed5c3b3387973ab
 <<<<<<< 1464224060c145a6eebac205948be1fe63b81923
 <<<<<<< 152f9cde6a84c2caa21ef75139fe7ab92ea57837
 <<<<<<< 2dcdb241dc1efb004945fec6bbd7724b104b353a
@@ -1120,3 +1132,6 @@ span.detalhesfrases
 		line-height:50px;
 	}
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+	}
+>>>>>>> titulos, layout, espaços em branco
