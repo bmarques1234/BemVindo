@@ -1,0 +1,21 @@
+html{margin:0; padding:0; background:#EFEFEF;}
+body{width:780px; margin:0 auto; padding:0 10px 0 10px; background:#FFF; font-family:sans-serif;}
+html{height:100%;}
+body{height:auto;}
+html, section, section h2, section div, footer{width:100%;}
+body, footer{width:780px;}
+header, section h2{text-align:center;}
+
+header img{margin-top:15px;}
+header h1{color:#4DB920; text-shadow:1px 1px 0 #6C6D6F;}
+
+section h2{color:#6C6D6F;}
+section #imagem{width:100%; text-align:center; background:#FFF;}
+section #nomes{width:100%; text-align:center; background:#FFF; display:none;}
+
+section div{width:160px; margin:0 auto; margin-bottom:10px; text-align:center; background:#4DB920;}
+section div a{padding:10px 20px 10px 20px; line-height:30px; text-decoration:none; color:#FFF; font-weight:bold;}
+ 
+footer{border-top:solid 1px #CCC; text-align:center;}
+footer p a{line-height:39px; margin:0; font-weight:bold; text-decoration:none; color:#4DB920; }
+footer p.coffee {line-height:39px; margin-bottom:20px; } 
