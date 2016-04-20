@@ -15,6 +15,7 @@ h1
 >>>>>>> titulos, layout, espaços em branco
 		text-align:center;
 		color:#4db81a;
+<<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 	}
 <<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
 body 
@@ -28,6 +29,9 @@ body
 		width:100%;		
 		text-align:center;
 =======
+=======
+	}
+>>>>>>> titulos, layout, espaços em branco
 #titulo2
 	{
 		margin-left:25px;
@@ -36,6 +40,7 @@ body
 #titulo3
 	{
 		margin-left:25px;
+<<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:#4db81a;
@@ -58,6 +63,20 @@ body
 >>>>>>> titulos, layout, espaços em branco
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		color:#4db81a;
+	}
+#titulo4
+	{
+		margin-left:25px;
+		color:#4db81a;
+	}
+body {background-color:#ffffff;}
+#foto
+	{
+		text-align:center;
+		width:100%;
+>>>>>>> titulos, layout, espaços em branco
 	}
 #imagem 
 	{
@@ -78,6 +97,7 @@ body
 #isolar
 	{
 		color:#4db81a;
+<<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 >>>>>>> titulos, layout, espaços em branco
 =======
 		font-size:125%;
@@ -85,6 +105,8 @@ body
 =======
 		margin-bottom:25px;
 >>>>>>> alteração layout, esportes, formatação
+=======
+>>>>>>> titulos, layout, espaços em branco
 	}	
 #DadosPessoais
 	{
@@ -138,10 +160,13 @@ span.detalhesfrases
 =======
 		font-size:100%;
 		text-align:center;
+<<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 >>>>>>> titulos, layout, espaços em branco
 =======
 		font-size:125%;
 		text-align:center;
 		line-height:50px;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+>>>>>>> titulos, layout, espaços em branco
 	}
