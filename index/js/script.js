@@ -1,5 +1,8 @@
 $(document).ready(function(){
-	$("#imagem").click(function(){
-		$("#nomes").slideToggle("slow");
+	$("#imagem").mouseover(function(){
+		$("#imagem > div").stop().animate({top: '90%'}),100;
+	});
+	$("#imagem").mouseout(function(){
+		$("#imagem > div").stop().animate({top: '100%'}),100;
 	});
 });
