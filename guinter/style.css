@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 6cd01aff873a4f0998e30083f159bce050d3c2bd
 <<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< 534766d9d1d49764e31c4a0781de45f9868a73e4
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
@@ -162,8 +163,13 @@ body
 =======
 >>>>>>> arrumando conflitos
 		color:#4db81a;
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-family:verdana;
+		text-align:center;
+		color:#4db81a;
 		font-weight:bold;
+		font-size:200%;
 	}
 body 
 	{
@@ -678,10 +684,14 @@ span.detalhesfrases
 		font-size:125%;
 		color:black;
 		border:3px solid black;
+<<<<<<< 6cd01aff873a4f0998e30083f159bce050d3c2bd
 <<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
 =======
 	}	
+=======
+	}
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 #comeback 
 	{
 >>>>>>> arrumando conflitos
