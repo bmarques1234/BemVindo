@@ -1,4 +1,25 @@
-#minhafoto {display: inline-block;text-align:center;position:relative;left:50px;}
+#minhafoto {
+	display: inline-block;
+	text-align:center;
+	position:relative;
+	left:50px;
+}
+
+#frase {
+	position:relative;
+	left:25px;
+	top:60px;
+	width:200px;
+	text-align:center;
+	font-weight:bold;
+}
+
+#seta {
+	position:relative;
+	left:80px;
+	top:270px;
+}
+
 #p03 {background-color:#4DB920;text-align:center;}
 
 .dadospessoais {
