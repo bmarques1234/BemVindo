@@ -173,7 +173,7 @@ body
 	}
 body 
 	{
-		background-color:#eaeae1;
+		background-color:#ebebe0;
 		width:780px;
 		margin:0 auto;
 	}
@@ -684,6 +684,7 @@ span.detalhesfrases
 		font-size:125%;
 		color:black;
 		border:3px solid black;
+<<<<<<< 546097c48c60a44e91935251d7aab6bf13699f09
 <<<<<<< 6cd01aff873a4f0998e30083f159bce050d3c2bd
 <<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
@@ -692,6 +693,9 @@ span.detalhesfrases
 =======
 	}
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+	}	
+>>>>>>> alteração layout, esportes, formatação
 #comeback 
 	{
 >>>>>>> arrumando conflitos
