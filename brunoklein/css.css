@@ -1,5 +1,6 @@
 #fundo{
-background-color:#EFEFEF ;
+background-color:#EFEFEF;
+margin:0 auto;
 }
 
 #nome{
@@ -19,8 +20,8 @@ background-color:#EFEFEF ;
 }
 
 #imag{
-	border-radius:300%;
-	width:15%;
+	border-radius:2000px;
+	width:200px;
 }
 
 .lista{
@@ -45,6 +46,7 @@ background-color:#EFEFEF ;
 	font-family:Arial;
 	font-size:175%;
 	color:#4DB920;
+	text-align:center;
 }
 
 .ol1{
@@ -107,4 +109,29 @@ background-color:#EFEFEF ;
 	width:100%;
 	text-align:center;
 	display:inline-block
+}
+
+#bordapessoais{
+	border:5px solid #4DB920;
+	width:45%;
+	float:left;
+	margin-right:3%;
+}
+
+#bordaprofissionais{
+	border:5px solid #4DB920;
+	width:45%;
+	float:left;
+}
+
+#bordaadicionais{
+	border:5px solid #4DB920;
+	width:94%;
+	float:left;
+	margin-top:50px;
+}
+
+#centralizaborda{
+	width:70%;
+	margin:0 auto;
 }
