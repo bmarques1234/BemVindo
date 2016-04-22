@@ -5,25 +5,34 @@ margin:0 auto;
 
 #nome{
 	color:#4DB920;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	font-size:250%;
 =======
 	font-size:50px;
 >>>>>>> responsível - 80%
+=======
+	font-size:200%;
+>>>>>>> responsível - 100%
 }
 
 #pessoais{
 	font-family:Arial;
 	font-size:175%;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#4DB920;
 =======
 >>>>>>> responsível - 80%
+=======
+	color:#4DB920;
+>>>>>>> responsível - 100%
 }
 
 #site{
 	font-size:120%;
 	color:#4DB920;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 =======
 	position:absolute;
@@ -39,6 +48,13 @@ margin:0 auto;
 =======
 	width:20%;
 >>>>>>> responsível - 80%
+=======
+}
+
+#imag{
+	border-radius:300%;
+	width:15%;
+>>>>>>> responsível - 100%
 }
 
 .lista{
@@ -50,30 +66,43 @@ margin:0 auto;
 #profissionais{
 	font-family:Arial;
 	font-size:175%;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#4DB920;
 =======
 >>>>>>> responsível - 80%
+=======
+	color:#4DB920;
+>>>>>>> responsível - 100%
 }
 
 #contato{
 	font-family:Arial;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	font-size:80%;
 	list-style:none;
 =======
 	font-size:120%;
 >>>>>>> responsível - 80%
+=======
+	font-size:80%;
+	list-style:none;
+>>>>>>> responsível - 100%
 }
 
 #adicionais{
 	font-family:Arial;
 	font-size:175%;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#4DB920;
 	text-align:center;
 =======
 >>>>>>> responsível - 80%
+=======
+	color:#4DB920;
+>>>>>>> responsível - 100%
 }
 
 .ol1{
@@ -115,10 +144,14 @@ margin:0 auto;
 #motivacional{
 	font-family:Italic;
 	font-size:25px;
+<<<<<<< dd054f9adf9582f59088e681f412536e40156ef8
 <<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#000080;
 =======
 >>>>>>> responsível - 80%
+=======
+	color:#000080;
+>>>>>>> responsível - 100%
 }
 
 #largura{
