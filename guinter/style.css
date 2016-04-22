@@ -3,7 +3,6 @@ h1
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
-		color:black;
 		font-size:100%;
 	}
 body 
@@ -14,7 +13,7 @@ body
 	}
 #divfoto
 	{
-		width:100%;
+		width:100%;		
 		text-align:center;
 	#imagem 
 		{
@@ -25,18 +24,13 @@ body
 	{
 		font-family:verdana;
 		text-align:center;
-		color:#4db81a;
-		font-weight:bold;
-		font-family:times;
-		font-size:100%;
-		margin-bottom:25px;
+		font-size:125%;
 	}
 #DadosPessoais
 	{
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
-		font-size:125%;
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
@@ -57,7 +51,8 @@ body
 		font-family:verdana;
 		text-align:center;
 		font-size:125%;
-	}		
+		border:3px solid black;
+	}	
 #comeback 
 	{
 		font-family:verdana;
@@ -77,4 +72,3 @@ span.detalhesfrases
 		font-weight:bold;
 		font-style:italic;
 		color:green;
-	}
