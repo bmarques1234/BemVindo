@@ -1,5 +1,6 @@
 h1	
 	{
+		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
 		color:black;
@@ -19,6 +20,7 @@ body
 		{
 			border-radius:2000px;
 		}
+	}
 #contato
 	{
 		font-family:verdana;
@@ -45,6 +47,7 @@ body
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
+	}
 #DadosProfissionais
 	{
 		color:black;
@@ -71,6 +74,6 @@ span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
-		font-size:100%;
-		line-height:50px;
-	}
+		color:green;
+		font-size:125%;
+	}	
