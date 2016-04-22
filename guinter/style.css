@@ -217,19 +217,29 @@ iframe
 	{
 		margin-left:25px;
 		color:#4db81a;
-	}
-#titulo4
-	{
-		margin-left:25px;
-		color:#4db81a;
-	}
-body {background-color:#ffffff;}
-#foto
-	{
+		font-family:verdana;
+		font-weight:bold;
 		text-align:center;
+	}
+body 
+	{
+		background-color:#eaeae1;
+		width:780px;
+		margin:0 auto;
+	}
+#divfoto
+	{
+		width:100%;		
+		text-align:center;
+<<<<<<< 6b4e5b76b11117e68ab14d4a64937bec7abe7610
 		width:100%;
 >>>>>>> titulos, layout, espaços em branco
+<<<<<<< 9effa0eb06fd42c8be13c48bd6fa59dc4b5fbe94
 >>>>>>> titulos, layout, espaços em branco
+=======
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
 =======
@@ -305,6 +315,7 @@ body
 >>>>>>> ajuste titulo e comeback
 		font-family:verdana;
 		text-align:center;
+<<<<<<< 9effa0eb06fd42c8be13c48bd6fa59dc4b5fbe94
 <<<<<<< 3c02a08cee3a0db0b4c127e390ac141df94daf45
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
 <<<<<<< 1de046b46e5e7d01fb1aac625281bcec74cecbaf
@@ -334,6 +345,9 @@ body
 <<<<<<< 143d2a11c96e9602a67ff4b35537f2b2e43d5505
 >>>>>>> alteração layout, esportes, formatação
 =======
+=======
+<<<<<<< 6b4e5b76b11117e68ab14d4a64937bec7abe7610
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 <<<<<<< 4916f0f621a5741a999718bdbfbddfaa42de8d1e
 		font-size:125%;
 >>>>>>> titulos, layout, espaços em branco
@@ -347,6 +361,9 @@ body
 >>>>>>> titulos, layout, espaços em branco
 <<<<<<< 3db2f5babb7ce841ef28507ab73c4609db9c8eb8
 >>>>>>> titulos, layout, espaços em branco
+=======
+		font-size:125%;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
