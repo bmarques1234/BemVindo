@@ -31,7 +31,7 @@ body
 	}
 body 
 	{
-		background-color:#eaeae1;
+		background-color:#ebebe0;
 		width:780px;
 		margin:0 auto;
 	}
@@ -39,11 +39,6 @@ body
 	{
 		width:100%;		
 		text-align:center;
-<<<<<<< 6b4e5b76b11117e68ab14d4a64937bec7abe7610
-		width:100%;
->>>>>>> titulos, layout, espaços em branco
-=======
->>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 #imagem 
 	{
@@ -52,20 +47,17 @@ body
 #contato
 	{
 		color:black;
+		border: 3px solid black;
 		font-family:verdana;
 		text-align:center;
-<<<<<<< 6b4e5b76b11117e68ab14d4a64937bec7abe7610
-<<<<<<< 4916f0f621a5741a999718bdbfbddfaa42de8d1e
 		font-size:125%;
-=======
 	}
 #isolar
 	{
 		color:#4db81a;
->>>>>>> titulos, layout, espaços em branco
-=======
 		font-size:125%;
->>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+		margin-bottom:25px;
+
 	}	
 #DadosPessoais
 	{
@@ -85,6 +77,15 @@ body
 		margin-bottom:25px;
 		font-size:125%;
 	}
+#DadosProfissionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+/*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
+		font-size:125%;
+	}
 span.detalhessubtitulos
 	{
 		font-weight:bold;
@@ -96,13 +97,6 @@ span.detalhesfrases
 		font-weight:bold;
 		font-style:italic;
 		color:green;
-	}
-#DadosProfissionais
-	{
-		color:black;
-		border:3px solid black;
-		font-family:verdana;
-		text-align:center;
 		font-size:125%;
 	}	
 #comeback 
