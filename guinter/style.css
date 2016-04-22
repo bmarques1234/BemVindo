@@ -1,8 +1,10 @@
 h1	
 	{
-		color:#4db81a;
 		font-family:verdana;
+		text-align:center;
+		color:#4db81a;
 		font-weight:bold;
+		font-size:200%;
 	}
 body 
 	{
@@ -51,7 +53,7 @@ body
 		font-size:125%;
 		color:black;
 		border:3px solid black;
-	}	
+	}
 #comeback 
 	{
 		font-family:verdana;
