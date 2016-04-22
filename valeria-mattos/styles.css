@@ -87,11 +87,12 @@ li{
 		text-align:center;
 		width: 100%;
 		color:black;
+		font-size:150%;
 	}
 
 	li{
 		margin:30px;
-		font-size:130%;
+		font-size:90%;
 	}
 
 	.divisões {
@@ -99,7 +100,6 @@ li{
 		padding:3%;
 		width:100%;
 		border: 3px double #4DB920;
-		margin:8px;
 	}
 
 	.dadospessoais {
