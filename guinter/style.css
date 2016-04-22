@@ -187,7 +187,7 @@ body
 	}
 body 
 	{
-		background-color:#eaeae1;
+		background-color:#ebebe0;
 		width:780px;
 		margin:0 auto;
 	}
@@ -294,6 +294,7 @@ body
 <<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:black;
+<<<<<<< 651afc1be5b953f68bd98e6314af2a9d296f7e98
 	}
 >>>>>>> arrumando conflitos
 #DadosPessoais
@@ -405,6 +406,13 @@ body
 		color:black;
 		border:3px solid black;
 =======
+=======
+		border: 3px solid black;
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+		margin-bottom:25px;
+>>>>>>> alteração layout, esportes, formatação
 	}	
 #DadosPessoais
 	{
@@ -424,6 +432,15 @@ body
 		margin-bottom:25px;
 		font-size:125%;
 	}
+#DadosProfissionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+/*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
+		font-size:125%;
+	}
 span.detalhessubtitulos
 	{
 		font-weight:bold;
@@ -435,13 +452,6 @@ span.detalhesfrases
 		font-weight:bold;
 		font-style:italic;
 		color:green;
-	}
-#DadosProfissionais
-	{
-		color:black;
-		border:3px solid black;
-		font-family:verdana;
-		text-align:center;
 		font-size:125%;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
