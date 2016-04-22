@@ -44,10 +44,10 @@ body {
 	.dadospessoais {
 		display: inline-block;
 		text-align:center;
+		float:right;
 		font-size:120%;
 		position:relative;
-		left:20%;
-		top:-40px;
+		top:20px;
 		width:500px;
 		margin:auto;
 	} 
