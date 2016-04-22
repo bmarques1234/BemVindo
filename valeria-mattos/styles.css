@@ -2,7 +2,8 @@
 	display: inline-block;
 	text-align:center;
 	position:relative;
-	left:10px;
+	margin:center;
+
 }
 
 #frase {
@@ -20,10 +21,16 @@
 	top:270px;
 }
 
-#titulosprincipais {
+h1{
 	background-color:#4DB920;
 	text-align:center;
 	width: 100%;
+}
+
+li{
+	margin:30px;
+	font-size:130%;
+	
 }
 
 .barrasuperior {
