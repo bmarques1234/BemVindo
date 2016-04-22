@@ -16,11 +16,11 @@
 
 #seta {
 	position:relative;
-	left:80px;
+	left:30%;
 	top:270px;
 }
 
-#titulos {
+#titulosprincipais {
 	background-color:#4DB920;
 	text-align:center;
 	width: 100%;
@@ -29,13 +29,14 @@
 .barrasuperior {
 	background-color:#EFEFEF;
 	padding:20px;
+	width:100%;
 }
 .dadospessoais {
 	display: inline-block;
 	text-align:center;
 	font-size:120%;
 	position:relative;
-	left:250px;
+	left:20%;
 	top:-40px;
 	width:500px;
 } 
