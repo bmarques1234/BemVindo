@@ -1,0 +1,18 @@
+$(document).ready(function(){
+	$("#personalContent").slideUp();
+	$("#professionalContent").slideUp();
+	$("#hobbyContent").slideUp();
+	$("#contactContent").slideUp();
+	$("#personalTitle").click(function(){
+		$("#personalContent").slideToggle("slow");
+	});
+	$("#professionalTitle").click(function(){
+		$("#professionalContent").slideToggle("slow");
+	});
+	$("#hobbyTitle").click(function(){
+		$("#hobbyContent").slideToggle("slow");
+	});
+	$("#contactTitle").click(function(){
+		$("#contactContent").slideToggle("slow");
+	});
+});
