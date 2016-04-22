@@ -605,6 +605,7 @@ body
 	}
 #DadosProfissionais
 	{
+<<<<<<< d9380b3fd87983c0ca82eba524446a47a52027fc
 <<<<<<< 1dae224c1982a442b64bda6b1ed5c3b3387973ab
 		background-color:#ebebe0;
 		font-family:verdana;
@@ -628,6 +629,8 @@ body
 	}
 #comeback 
 	{
+=======
+>>>>>>> alteração layout, esportes, formatação
 		font-family:verdana;
 		text-align:center;
 <<<<<<< 0086a7862d5d8073966279eaa3973fa50b2d7a1f
@@ -660,6 +663,7 @@ body
 >>>>>>> arrumando conflitos
 =======
 		font-size:125%;
+<<<<<<< d9380b3fd87983c0ca82eba524446a47a52027fc
 >>>>>>> arrumando conflitos
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
@@ -918,6 +922,10 @@ span.detalhesfrases
 		border:3px solid black;
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		color:black;
+		border:3px solid black;
+>>>>>>> alteração layout, esportes, formatação
 #comeback 
 	{
 		font-family:verdana;
