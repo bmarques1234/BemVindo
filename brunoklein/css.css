@@ -120,7 +120,7 @@ margin:0 auto;
 >>>>>>> bordas
 #nome{
 	color:#4DB920;
-	font-size:200%;
+	font-size:250%;
 }
 
 #pessoais{
@@ -136,7 +136,9 @@ margin:0 auto;
 
 #imag{
 	border-radius:2000px;
-	width:200px;
+	width:205px;
+	margin-top:2px;
+	border:5px solid #4DB920;
 }
 
 .lista{
