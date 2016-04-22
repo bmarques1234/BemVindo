@@ -9,8 +9,9 @@ h1
 body 
 	{
 		background-color:#ebebe0;
-		width:780px;
-		margin:0 auto;
+		font-family:verdana;
+		font-weight:bold;
+		text-align:center;
 	}
 #divfoto
 	{
@@ -20,6 +21,7 @@ body
 		{
 			border-radius:2000px;
 		}
+	}
 #contato
 	{
 		font-family:verdana;
@@ -52,10 +54,7 @@ body
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
-		color:black;
-		border:3px solid black;
-		margin-bottom:25px;
-	}
+	}		
 #comeback 
 	{
 		font-family:verdana;
@@ -76,4 +75,5 @@ span.detalhesfrases
 		font-style:italic;
 		font-size:100%;
 		color:green;
+		line-height:50px;
 	}
