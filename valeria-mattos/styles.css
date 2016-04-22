@@ -1,66 +1,61 @@
-#minhafoto {
+body {
+	width:780px;
+	margin:0 auto;
+}
+
+	#minhafoto {
 	display: inline-block;
-	text-align:center;
 	position:relative;
-	margin:center;
+	margin:auto;
+	}
 
-}
+	#frase {
+		position:relative;
+		left:25px;
+		top:20%;
+		width:80%;
+		text-align:center;
+		font-weight:bold;
+	}
 
-#frase {
-	position:relative;
-	left:25px;
-	top:20%;
-	width:80%;
-	text-align:center;
-	font-weight:bold;
-}
+	#seta {
+		position:relative;
+		left:30%;
+		top:20em;
+	}
 
-#seta {
-	position:relative;
-	left:30%;
-	top:500px;
-}
+	h1{
+		background-color:#4DB920;
+		text-align:center;
+		width: 100%;
+	}
 
-h1{
-	background-color:#4DB920;
-	text-align:center;
-	width: 100%;
-}
+	li{
+		margin:30px;
+		font-size:130%;
+	}
 
-li{
-	margin:30px;
-	font-size:130%;
-}
+	.barrasuperior {
+		background-color:#EFEFEF;
+		padding:20px;
+		width:100%;
+		margin:auto;
+	}
+	.dadospessoais {
+		display: inline-block;
+		text-align:center;
+		font-size:120%;
+		position:relative;
+		left:20%;
+		top:-40px;
+		width:500px;
+		margin:auto;
+	} 
 
-.barrasuperior {
-	background-color:#EFEFEF;
-	padding:20px;
-	width:100%;
-}
-.dadospessoais {
-	display: inline-block;
-	text-align:center;
-	font-size:120%;
-	position:relative;
-	left:20%;
-	top:-40px;
-	width:500px;
-} 
+	.informaçõescentrais {
+		width:100%;
+
+		padding:10px;
+	}
+
 	
-.barralateral {
-    line-height:30px;
-    background-color:#EFEFEF;
-    width:20%;
-	height:850px;
-    float:left;
-    padding:5px;	      
-}
-
-.informaçõescentrais {
-	width:75%;
-	height:100%;
-    float:left;
-    padding:10px;
-	position:relative;
-	left:30px;
-}
