@@ -22,18 +22,12 @@ body {
 
 #seta {
 	text-align:center;
-<<<<<<< 7023a3cad3b0a699a35af29ebbadfbe195481f5c
-=======
-	position:relative;
-	margin:center;
-
->>>>>>> Informações centrais em tópicos
 }
 
 #frase {
 	position:relative;
 	left:25px;
-	top:60px;
+	top:20%;
 	width:80%;
 }
 
@@ -42,26 +36,17 @@ li{
 	font-size:130%;
 }
 
-<<<<<<< 7023a3cad3b0a699a35af29ebbadfbe195481f5c
 .divisões {
 	background-color:white;
 	padding:3%;
 	width:100%;
 	border: 3px double #4DB920;
 	margin:8px;
-
-=======
+}
 h1{
 	background-color:#4DB920;
 	text-align:center;
 	width: 100%;
->>>>>>> Informações centrais em tópicos
-}
-
-li{
-	margin:30px;
-	font-size:130%;
-	
 }
 
 .barrasuperior {
@@ -141,7 +126,7 @@ li{
     line-height:30px;
     background-color:#EFEFEF;
     width:20%;
-	height:600px;
+	height:850px;
     float:left;
     padding:5px;	      
 }
@@ -152,6 +137,11 @@ li{
     float:left;
     padding:10px;
 	position:relative;
+<<<<<<< fc5deb65aca01357834e3522763f76b1f2f8e62c
 	left:5px;
 	
 }
+=======
+	left:30px;
+}
+>>>>>>> Layout
