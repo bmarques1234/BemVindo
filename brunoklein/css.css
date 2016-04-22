@@ -5,25 +5,40 @@ margin:0 auto;
 
 #nome{
 	color:#4DB920;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	font-size:250%;
+=======
+	font-size:50px;
+>>>>>>> responsível - 80%
 }
 
 #pessoais{
 	font-family:Arial;
 	font-size:175%;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#4DB920;
+=======
+>>>>>>> responsível - 80%
 }
 
 #site{
 	font-size:120%;
 	color:#4DB920;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
+=======
+	position:absolute;
+>>>>>>> responsível - 80%
 }
 
 #imag{
 	border-radius:2000px;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	width:205px;
 	margin-top:2px;
 	border:5px solid #4DB920;
+=======
+	width:20%;
+>>>>>>> responsível - 80%
 }
 
 .lista{
@@ -35,20 +50,30 @@ margin:0 auto;
 #profissionais{
 	font-family:Arial;
 	font-size:175%;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#4DB920;
+=======
+>>>>>>> responsível - 80%
 }
 
 #contato{
 	font-family:Arial;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	font-size:80%;
 	list-style:none;
+=======
+	font-size:120%;
+>>>>>>> responsível - 80%
 }
 
 #adicionais{
 	font-family:Arial;
 	font-size:175%;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#4DB920;
 	text-align:center;
+=======
+>>>>>>> responsível - 80%
 }
 
 .ol1{
@@ -90,7 +115,10 @@ margin:0 auto;
 #motivacional{
 	font-family:Italic;
 	font-size:25px;
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 	color:#000080;
+=======
+>>>>>>> responsível - 80%
 }
 
 #largura{
@@ -111,6 +139,7 @@ margin:0 auto;
 	width:100%;
 	text-align:center;
 	display:inline-block
+<<<<<<< 4b3f38c5465603db38bd49bffb46aebf0fda9fab
 }
 
 #bordapessoais{
@@ -136,4 +165,6 @@ margin:0 auto;
 #centralizaborda{
 	width:70%;
 	margin:0 auto;
+=======
+>>>>>>> responsível - 80%
 }
