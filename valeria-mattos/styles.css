@@ -42,11 +42,13 @@ li{
 	width:100%;
 	border: 3px double #4DB920;
 	margin:8px;
+
 }
 
 .barrasuperior {
 	background-color:#EFEFEF;
 	padding:20px;
+	width:100%;
 }
 .dadospessoais {
 	text-align:center;
