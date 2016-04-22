@@ -1,11 +1,18 @@
 h1	
 	{
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 		font-family:verdana;
 		text-align:center;
 		color:#4db81a;
 		font-weight:bold;
 		font-family:times;
 		font-size:200%;
+=======
+		color:#4db81a;
+		font-family:verdana;
+		font-weight:bold;
+		text-align:center;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 body 
 	{
@@ -27,6 +34,7 @@ body
 		font-family:verdana;
 		text-align:center;
 		font-size:125%;
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 		color:black;
 	}
 #DadosPessoais
@@ -54,10 +62,51 @@ body
 		font-size:125%;
 		color:black;
 		border:3px solid black;
+=======
+	}	
+#DadosPessoais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		margin-bottom:25px;
+		font-size:125%;
+	}	
+#InformacoesAdicionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		margin-bottom:25px;
+		font-size:125%;
+	}
+span.detalhessubtitulos
+	{
+		font-weight:bold;
+		color:green;
+		font-size:125%;
+	}
+span.detalhesfrases
+	{
+		font-weight:bold;
+		font-style:italic;
+		color:green;
+	}
+#DadosProfissionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 #comeback 
 	{
 		font-family:verdana;
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 		text-align:center;
 		font-size:125%;
 		color:black;
@@ -74,4 +123,9 @@ span.detalhesfrases
 		font-weight:bold;
 		font-style:italic;
 		color:green;
+=======
+		font-size:125%;
+		text-align:center;
+		line-height:50px;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
