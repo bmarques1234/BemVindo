@@ -24,11 +24,11 @@ body {
 	text-align:center;
 }
 
-h1{
-	background-color:#4DB920;
-	text-align:center;
-	width: 100%;
-	color:black;
+#frase {
+	position:relative;
+	left:25px;
+	top:60px;
+	width:80%;
 }
 
 li{
@@ -44,6 +44,10 @@ li{
 	margin:8px;
 }
 
+.barrasuperior {
+	background-color:#EFEFEF;
+	padding:20px;
+}
 .dadospessoais {
 	text-align:center;
 	float:right;
@@ -51,7 +55,6 @@ li{
 	width:70%;
 	height:0;
 	position:relative;
-	bottom:10em;
 } 
 
 @media only screen and (min-width: 200px) and (max-width: 349px){
@@ -111,4 +114,23 @@ li{
 		position:relative;
 		bottom:11em;
 	} 
+}
+	
+.barralateral {
+    line-height:30px;
+    background-color:#EFEFEF;
+    width:20%;
+	height:600px;
+    float:left;
+    padding:5px;	      
+}
+
+.informaçõescentrais {
+	width:75%;
+	height:100%;
+    float:left;
+    padding:10px;
+	position:relative;
+	left:5px;
+	
 }
