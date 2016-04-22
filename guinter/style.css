@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 467aec82edf4b2f41afdd81fdbe98a426c697065
 <<<<<<< 6cd01aff873a4f0998e30083f159bce050d3c2bd
 <<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< 534766d9d1d49764e31c4a0781de45f9868a73e4
@@ -19,6 +20,8 @@ h1
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
 <<<<<<< 9b1da1721efa6b239f6534031a1a0fd7d6203f2e
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
@@ -337,6 +340,7 @@ body
 		{
 			border-radius:2000px;
 		}
+	}
 #contato
 	{
 <<<<<<< e7cd5bc028111c47d90b760ea3128961326b6719
@@ -585,6 +589,7 @@ body
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 		margin-bottom:25px;
+	}
 #DadosProfissionais
 	{
 <<<<<<< 1dae224c1982a442b64bda6b1ed5c3b3387973ab
@@ -809,6 +814,7 @@ span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+<<<<<<< 467aec82edf4b2f41afdd81fdbe98a426c697065
 <<<<<<< 88e0701bea8c36999e56e8df74353f0cc71d7bfd
 <<<<<<< 152f9cde6a84c2caa21ef75139fe7ab92ea57837
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
@@ -1157,4 +1163,9 @@ span.detalhesfrases
 =======
 		line-height:50px;
 	}
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		color:green;
+		font-size:125%;
+	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
