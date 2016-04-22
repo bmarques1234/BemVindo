@@ -1,18 +1,15 @@
 $(document).ready(function(){
-	$("#personalContent").slideUp();
-	$("#professionalContent").slideUp();
-	$("#hobbyContent").slideUp();
-	$("#contactContent").slideUp();
+	$(".content").slideUp();
 	$("#personalTitle").click(function(){
-		$("#personalContent").slideToggle("slow");
+		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
 	$("#professionalTitle").click(function(){
-		$("#professionalContent").slideToggle("slow");
+		$("#professionalTitle>.content").stop().slideToggle("slow");
 	});
 	$("#hobbyTitle").click(function(){
-		$("#hobbyContent").slideToggle("slow");
+		$("#hobbyTitle>.content").stop().slideToggle("slow");
 	});
 	$("#contactTitle").click(function(){
-		$("#contactContent").slideToggle("slow");
+		$("#contactTitle>.content").stop().slideToggle("slow");
 	});
 });
