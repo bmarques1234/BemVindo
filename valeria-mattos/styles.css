@@ -22,6 +22,12 @@ body {
 
 #seta {
 	text-align:center;
+<<<<<<< 7023a3cad3b0a699a35af29ebbadfbe195481f5c
+=======
+	position:relative;
+	margin:center;
+
+>>>>>>> Informações centrais em tópicos
 }
 
 #frase {
@@ -36,6 +42,7 @@ li{
 	font-size:130%;
 }
 
+<<<<<<< 7023a3cad3b0a699a35af29ebbadfbe195481f5c
 .divisões {
 	background-color:white;
 	padding:3%;
@@ -43,6 +50,18 @@ li{
 	border: 3px double #4DB920;
 	margin:8px;
 
+=======
+h1{
+	background-color:#4DB920;
+	text-align:center;
+	width: 100%;
+>>>>>>> Informações centrais em tópicos
+}
+
+li{
+	margin:30px;
+	font-size:130%;
+	
 }
 
 .barrasuperior {
