@@ -2,41 +2,20 @@
 body{
 	background-color: #6C6D6F;
 }
-#pessoal{
+.info{
 	border-radius:20px;
 	border: 2px solid black;
 	width:100%;
 	background-color:white;
 	display: block;
 }
-#profissional{
-	border-radius:20px;
-	border: 2px solid black;
-	width:100%;
-	background-color:white;
-	display: block;
-}
-#hobby{
-	border-radius:20px;
-	border: 2px solid black;
-	width:100%;
-	background-color:white;
-	display: block;
-}
-#contato{
-	border-radius:20px;
-	border: 2px solid black;
-	width:100%;
-	background-color:white;
-	display: block;
-}
-h1{
+.topic{
 	text-align:center;
 }
 li{
 	font-size:20px;
 }
-img{
+#img{
 	height: 100px;
 	width:100px;
 	border-radius:2000px;
