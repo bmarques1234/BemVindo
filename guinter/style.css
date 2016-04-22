@@ -3,7 +3,11 @@ h1
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
+<<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 		font-size:100%;
+=======
+		text-align:center;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 body 
 	{
@@ -26,7 +30,11 @@ body
 		font-family:verdana;
 		text-align:center;
 		font-size:125%;
+<<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 	}
+=======
+	}	
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 #DadosPessoais
 	{
 		color:black;
@@ -44,10 +52,26 @@ body
 		text-align:center;
 		margin-bottom:25px;
 		font-size:125%;
+<<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
+=======
+	}
+span.detalhessubtitulos
+	{
+		font-weight:bold;
+		color:green;
+		font-size:125%;
+	}
+span.detalhesfrases
+	{
+		font-weight:bold;
+		font-style:italic;
+		color:green;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 #comeback 
 	{
 		color:black;
+<<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 		font-family:verdana;
 		font-size:125%;
 		text-align:center;
@@ -64,4 +88,18 @@ span.detalhesfrases
 		font-weight:bold;
 		font-style:italic;
 		color:green;
+=======
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+	}	
+#comeback 
+	{
+		color:black;
+		font-family:verdana;
+		font-size:125%;
+		text-align:center;
+		line-height:50px;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
