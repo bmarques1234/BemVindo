@@ -112,23 +112,23 @@
 =======
 #nome{
 	color:#4DB920;
-	font-size:50px;
+	font-size:200%;
 }
 
 #pessoais{
 	font-family:Arial;
 	font-size:175%;
+	color:#4DB920;
 }
 
 #site{
 	font-size:120%;
 	color:#4DB920;
-	position:absolute;
 }
 
 #imag{
-	border-radius:2000px;
-	width:20%;
+	border-radius:300%;
+	width:15%;
 }
 
 .lista{
@@ -140,16 +140,19 @@
 #profissionais{
 	font-family:Arial;
 	font-size:175%;
+	color:#4DB920;
 }
 
 #contato{
 	font-family:Arial;
-	font-size:120%;
+	font-size:80%;
+	list-style:none;
 }
 
 #adicionais{
 	font-family:Arial;
 	font-size:175%;
+	color:#4DB920;
 }
 
 .ol1{
@@ -191,6 +194,7 @@
 #motivacional{
 	font-family:Italic;
 	font-size:25px;
+	color:#000080;
 }
 
 #largura{
