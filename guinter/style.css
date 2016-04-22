@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 381e127c02518b8efd90e212e4618d910f7b6876
 <<<<<<< 7401603ed7e0da311ab0d9de1ad77a0dbadafbff
 <<<<<<< 152f9cde6a84c2caa21ef75139fe7ab92ea57837
 <<<<<<< 3db2f5babb7ce841ef28507ab73c4609db9c8eb8
@@ -90,6 +91,9 @@ body
 =======
 =======
 =======
+=======
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
 >>>>>>> arrumando conflitos
 <<<<<<< 09d70c483c4f8b211f75ed0f2eeeabf3f1bb86a2
@@ -165,12 +169,21 @@ body
 		color:#4db81a;
 =======
 >>>>>>> arrumando conflitos
+=======
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-family:verdana;
 		text-align:center;
 		color:#4db81a;
 		font-weight:bold;
 		font-family:times;
 		font-size:200%;
+=======
+		color:#4db81a;
+		font-family:verdana;
+		font-weight:bold;
+		text-align:center;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 body 
 	{
@@ -216,6 +229,7 @@ body
 <<<<<<< bf8ba538b485d7291f1b4e78927c2ecb6ebc4800
 <<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
 		font-size:125%;
+<<<<<<< 381e127c02518b8efd90e212e4618d910f7b6876
 <<<<<<< 5b4885060256a048105dea046b2fce2ad5520d55
 <<<<<<< 6a5775a19f33f31e754fa676eaa78dacb43c04d7
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
@@ -231,6 +245,9 @@ body
 >>>>>>> alteração layout, esportes, formatação
 =======
 =======
+=======
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 <<<<<<< 143d2a11c96e9602a67ff4b35537f2b2e43d5505
 >>>>>>> alteração layout, esportes, formatação
 =======
@@ -273,6 +290,9 @@ body
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 =======
+=======
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:black;
 	}
 >>>>>>> arrumando conflitos
@@ -384,11 +404,52 @@ body
 		font-size:125%;
 		color:black;
 		border:3px solid black;
+=======
+	}	
+#DadosPessoais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		margin-bottom:25px;
+		font-size:125%;
+	}	
+#InformacoesAdicionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		margin-bottom:25px;
+		font-size:125%;
+	}
+span.detalhessubtitulos
+	{
+		font-weight:bold;
+		color:green;
+		font-size:125%;
+	}
+span.detalhesfrases
+	{
+		font-weight:bold;
+		font-style:italic;
+		color:green;
+	}
+#DadosProfissionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 #comeback 
 	{
 >>>>>>> arrumando conflitos
 		font-family:verdana;
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 		text-align:center;
 		font-size:125%;
 <<<<<<< 7401603ed7e0da311ab0d9de1ad77a0dbadafbff
@@ -528,6 +589,7 @@ span.detalhesfrases
 =======
 >>>>>>> alteração layout, esportes, formatação
 =======
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
 		font-family:verdana;
@@ -616,12 +678,18 @@ span.detalhesfrases
 >>>>>>> titulos, layout, espaços em branco
 =======
 =======
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-size:125%;
 		text-align:center;
 		line-height:50px;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+<<<<<<< 381e127c02518b8efd90e212e4618d910f7b6876
 <<<<<<< 2a1c14afb6b6c6e1bfdf5c369b29575c56ed9ea9
 	}
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
 =======
@@ -641,5 +709,11 @@ span.detalhesfrases
 =======
 =======
 >>>>>>> arrumando conflitos
+<<<<<<< 381e127c02518b8efd90e212e4618d910f7b6876
 	}
 >>>>>>> arrumando conflitos
+=======
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+	}
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
