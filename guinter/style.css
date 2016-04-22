@@ -25,6 +25,7 @@ h1
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
+<<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 <<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 		font-size:100%;
 =======
@@ -81,6 +82,8 @@ body
 >>>>>>> alteração layout, esportes, formatação
 		font-weight:bold;
 		color:black;
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-size:100%;
 	}
 body 
@@ -91,7 +94,7 @@ body
 	}
 #divfoto
 	{
-		width:100%;
+		width:100%;		
 		text-align:center;
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
 		width:100%;
@@ -524,6 +527,7 @@ body
 >>>>>>> ajuste titulo e comeback
 		font-family:verdana;
 		text-align:center;
+<<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 		color:#4db81a;
 		font-weight:bold;
 		font-family:times;
@@ -542,6 +546,9 @@ body
 >>>>>>> arrumando conflitos
 		margin-bottom:25px;
 >>>>>>> titulos, layout, espaços em branco
+=======
+		font-size:125%;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 <<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 >>>>>>> arrumando conflitos
@@ -648,11 +655,14 @@ body
 =======
 =======
 		font-size:100%;
+<<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 <<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
 >>>>>>> arrumando conflitos
 =======
 		font-size:125%;
 >>>>>>> arrumando conflitos
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
@@ -701,6 +711,7 @@ span.detalhesfrases
 		font-family:verdana;
 		text-align:center;
 		font-size:125%;
+<<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 >>>>>>> titulos, layout, espaços em branco
 	}		
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
@@ -903,6 +914,10 @@ span.detalhesfrases
 =======
 >>>>>>> ajuste titulo e comeback
 	}
+=======
+		border:3px solid black;
+	}	
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 #comeback 
 	{
 		font-family:verdana;
@@ -1130,6 +1145,7 @@ span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+<<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 		font-size:100%;
 		color:green;
 <<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
@@ -1191,3 +1207,6 @@ span.detalhesfrases
 =======
 	}
 >>>>>>> arrumando conflitos
+=======
+		color:green;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
