@@ -108,3 +108,108 @@
 	.centraliza{width:100%;text-align:center;display:inline-block}
 }
 
+<<<<<<< 267af3ea79b183a4241f7ac1f32c829497cd75ad
+=======
+#nome{
+	color:#4DB920;
+	font-size:50px;
+}
+
+#pessoais{
+	font-family:Arial;
+	font-size:175%;
+}
+
+#site{
+	font-size:120%;
+	color:#4DB920;
+	position:absolute;
+}
+
+#imag{
+	border-radius:2000px;
+	width:20%;
+}
+
+.lista{
+	font-size:120%;
+	font-family:Arial;
+	list-style:none;
+}
+
+#profissionais{
+	font-family:Arial;
+	font-size:175%;
+}
+
+#contato{
+	font-family:Arial;
+	font-size:120%;
+}
+
+#adicionais{
+	font-family:Arial;
+	font-size:175%;
+}
+
+.ol1{
+	font-size:120%;
+	font-family:Arial;
+
+}
+
+#olt1{
+	font-size:120%;
+	font-family:Arial;
+}
+
+#olt2{
+	font-size:120%;
+	font-family:Arial;
+}
+
+#olt3{
+	font-size:120%;
+	font-family:Arial;
+}
+
+#ol2{
+	font-size:20px;
+	font-family:Arial;
+}
+
+#ol3{
+	font-size:20px;
+	font-family:Arial;	
+}
+
+#ol4{
+	font-size:20px;
+	font-family:Arial;
+}
+
+#motivacional{
+	font-family:Italic;
+	font-size:25px;
+}
+
+#largura{
+	width:100%;
+}
+
+.larguralista{
+	width:24%;
+	display:inline-block;
+}
+
+#margemfrase{
+	width:20%;
+	float:right;
+}
+
+.centraliza{
+	width:100%;
+	text-align:center;
+	display:inline-block
+}
+>>>>>>> responsível - 80%
