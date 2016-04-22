@@ -1,20 +1,19 @@
 h1	
 	{
 		font-family:verdana;
-		text-align:center;
 		font-weight:bold;
+		color:black;
 		font-size:100%;
-		color:#4db81a;
 	}
 body 
 	{
-		background-color:#eaeae1;
+		background-color:#ebebe0;
 		width:780px;
 		margin:0 auto;
 	}
 #divfoto
 	{
-		width:100%;		
+		width:100%;
 		text-align:center;
 	#imagem 
 		{
@@ -25,6 +24,8 @@ body
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
+		color:black;
+		border: 3px solid black;
 	}
 #DadosPessoais
 	{
@@ -43,13 +44,13 @@ body
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
-	}
 #DadosProfissionais
 	{
 		color:black;
 		border:3px solid black;
 		font-family:verdana;
 		text-align:center;
+/*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 		font-size:125%;
 	}		
 #comeback 
