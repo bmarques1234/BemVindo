@@ -1,8 +1,16 @@
-#p01 {display: inline-block;text-align:center;position:relative;left:50px;}
-#p02 {display: inline-block;text-align:center;font-size:120%;position:relative;left:300px;} 
+#minhafoto {display: inline-block;text-align:center;position:relative;left:50px;}
 #p03 {background-color:#4DB920;text-align:center;}
 
-nav {
+.dadospessoais {
+	display: inline-block;
+	text-align:center;
+	font-size:120%;
+	position:relative;
+	left:300px;
+	top:-40px;
+} 
+	
+.barralateral {
     line-height:30px;
     background-color:#EFEFEF;
     height:600px;
