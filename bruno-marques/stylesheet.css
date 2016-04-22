@@ -1,6 +1,9 @@
 /*stylesheet*/
 body{
 	background-color: #6C6D6F;
+	background:#6C6D6F;
+	background-image: url("img/background.jpg");
+	background-attachment: fixed; 
 }
 .info{
 	border-radius:20px;
@@ -13,7 +16,7 @@ body{
 	text-align:center;
 }
 li{
-	font-size:20px;
+	font-size:1.3em;
 }
 #img{
 	height: 100px;
