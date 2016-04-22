@@ -2,50 +2,25 @@
 body{
 	background-color: #6C6D6F;
 }
-#pessoal{
+.info{
 	border-radius:20px;
 	border: 2px solid black;
 	width:100%;
-	height:200px;
 	background-color:white;
 	display: block;
 }
-#profissional{
-	border-radius:20px;
-	border: 2px solid black;
-	width:100%;
-	height:200px;
-	background-color:white;
-	display: block;
-}
-#hobby{
-	border-radius:20px;
-	border: 2px solid black;
-	width:100%;
-	height:385px;
-	background-color:white;
-	display: block;
-}
-#contato{
-	border-radius:20px;
-	border: 2px solid black;
-	width:100%;
-	height:140px;
-	background-color:white;
-	display: block;
-}
-h1{
+.topic{
 	text-align:center;
 }
 li{
 	font-size:20px;
 }
-img{
-	height: 150px;
-	width:150px;
+#img{
+	height: 100px;
+	width:100px;
 	border-radius:2000px;
 	float: left;
-	margin-top: -30px;
+	margin-left:5px;
 	margin-right: 50px;
 }
 #back{
@@ -53,6 +28,6 @@ img{
 	width:50px;
 	border-radius:2000px;
 	float:right;
-	margin-top: -15px;
+	margin-top: -65px;
 	margin-right:3px;
 }
