@@ -223,7 +223,7 @@ iframe
 	}
 body 
 	{
-		background-color:#eaeae1;
+		background-color:#ebebe0;
 		width:780px;
 		margin:0 auto;
 	}
@@ -231,6 +231,7 @@ body
 	{
 		width:100%;		
 		text-align:center;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 <<<<<<< 6b4e5b76b11117e68ab14d4a64937bec7abe7610
 		width:100%;
 >>>>>>> titulos, layout, espaços em branco
@@ -260,6 +261,8 @@ body
 	{
 		width:100%;		
 		text-align:center;
+=======
+>>>>>>> alteração layout, esportes, formatação
 	}
 >>>>>>> titulos, layout, espaços em branco
 #imagem 
@@ -306,6 +309,7 @@ body
 >>>>>>> arrumando conflitos
 		color:black;
 		border: 3px solid black;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 =======
 >>>>>>> arrumando conflitos
 =======
@@ -352,18 +356,27 @@ body
 		font-size:125%;
 >>>>>>> titulos, layout, espaços em branco
 =======
+=======
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+>>>>>>> alteração layout, esportes, formatação
 	}
 #isolar
 	{
 		color:#4db81a;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 <<<<<<< 3c02a08cee3a0db0b4c127e390ac141df94daf45
 <<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 >>>>>>> titulos, layout, espaços em branco
 <<<<<<< 3db2f5babb7ce841ef28507ab73c4609db9c8eb8
 >>>>>>> titulos, layout, espaços em branco
 =======
+=======
+>>>>>>> alteração layout, esportes, formatação
 		font-size:125%;
->>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+		margin-bottom:25px;
+
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
@@ -413,6 +426,7 @@ body
 		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 		font-size:100%;
 		color:black;
 		border:3px solid black;
@@ -660,10 +674,16 @@ span.detalhesfrases
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
+=======
+		margin-bottom:25px;
+		font-size:125%;
+	}
+>>>>>>> alteração layout, esportes, formatação
 #DadosProfissionais
 	{
 		color:black;
 		border:3px solid black;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 		font-family:verdana;
 		text-align:center;
@@ -672,12 +692,17 @@ span.detalhesfrases
 =======
 <<<<<<< 09d70c483c4f8b211f75ed0f2eeeabf3f1bb86a2
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		font-family:verdana;
+		text-align:center;
+>>>>>>> alteração layout, esportes, formatação
 /*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 		font-size:125%;
 	}
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 		font-size:100%;
 		color:green;
 =======
@@ -726,11 +751,16 @@ span.detalhessubtitulos
 		font-size:100%;
 		color:green;
 >>>>>>> arrumando alguns conflitos
+=======
+		color:green;
+		font-size:125%;
+>>>>>>> alteração layout, esportes, formatação
 	}
 span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+<<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 <<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 		color:green;
 =======
@@ -759,6 +789,9 @@ span.detalhesfrases
 		font-family:verdana;
 		text-align:center;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		color:green;
+>>>>>>> alteração layout, esportes, formatação
 		font-size:125%;
 	}	
 #comeback 
