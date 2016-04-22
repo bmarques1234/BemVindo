@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
 <<<<<<< 09d70c483c4f8b211f75ed0f2eeeabf3f1bb86a2
 <<<<<<< bf8ba538b485d7291f1b4e78927c2ecb6ebc4800
@@ -71,12 +72,21 @@ body
 		color:#4db81a;
 =======
 >>>>>>> arrumando conflitos
+=======
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-family:verdana;
 		text-align:center;
 		color:#4db81a;
 		font-weight:bold;
 		font-family:times;
 		font-size:200%;
+=======
+		color:#4db81a;
+		font-family:verdana;
+		font-weight:bold;
+		text-align:center;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
 body 
 	{
@@ -111,6 +121,7 @@ body
 <<<<<<< bf8ba538b485d7291f1b4e78927c2ecb6ebc4800
 <<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
 		font-size:125%;
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 <<<<<<< 143d2a11c96e9602a67ff4b35537f2b2e43d5505
 =======
 	}
@@ -133,6 +144,9 @@ body
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 =======
+=======
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:black;
 	}
 >>>>>>> arrumando conflitos
@@ -161,10 +175,51 @@ body
 		font-size:125%;
 		color:black;
 		border:3px solid black;
+=======
+	}	
+#DadosPessoais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		margin-bottom:25px;
+		font-size:125%;
+	}	
+#InformacoesAdicionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		margin-bottom:25px;
+		font-size:125%;
+	}
+span.detalhessubtitulos
+	{
+		font-weight:bold;
+		color:green;
+		font-size:125%;
+	}
+span.detalhesfrases
+	{
+		font-weight:bold;
+		font-style:italic;
+		color:green;
+	}
+#DadosProfissionais
+	{
+		color:black;
+		border:3px solid black;
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 #comeback 
 	{
 		font-family:verdana;
+<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 		text-align:center;
 		font-size:125%;
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
@@ -211,6 +266,7 @@ span.detalhesfrases
 		font-style:italic;
 		color:green;
 =======
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-size:125%;
 	}	
@@ -230,10 +286,13 @@ span.detalhesfrases
 <<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 >>>>>>> titulos, layout, espaços em branco
 =======
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-size:125%;
 		text-align:center;
 		line-height:50px;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+<<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 =======
 >>>>>>> titulos, layout, espaços em branco
 =======
@@ -243,4 +302,6 @@ span.detalhesfrases
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
 >>>>>>> arrumando conflitos
+=======
+>>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
