@@ -1,6 +1,28 @@
+<<<<<<< 402a5a1d0781e94397999cf3feec9515cf66278f
 body {
 	width:780px;
 	margin:0 auto;
+=======
+#minhafoto {display: inline-block;text-align:center;position:relative;left:50px;}
+#p03 {background-color:#4DB920;text-align:center;}
+
+.dadospessoais {
+	display: inline-block;
+	text-align:center;
+	font-size:120%;
+	position:relative;
+	left:300px;
+	top:-40px;
+} 
+	
+.barralateral {
+    line-height:30px;
+    background-color:#EFEFEF;
+    height:600px;
+    width:250px;
+    float:left;
+    padding:5px;	      
+>>>>>>> Inclusão/mudanças de divs
 }
 
 	#minhafoto {
