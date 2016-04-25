@@ -1,6 +1,8 @@
 body {
 	width:780px;
 	margin:0 auto;
+	background-color:#EFEFEF;
+	color:gray;
 }
 
 	#minhafoto {
@@ -28,6 +30,7 @@ body {
 		background-color:#4DB920;
 		text-align:center;
 		width: 100%;
+		color:black;
 	}
 
 	li{
@@ -36,10 +39,10 @@ body {
 	}
 
 	.barrasuperior {
-		background-color:#EFEFEF;
+		background-color:white;
 		padding:20px;
 		width:100%;
-		margin:auto;
+		border: 3px double #4DB920;
 	}
 	.dadospessoais {
 		display: inline-block;
@@ -48,14 +51,15 @@ body {
 		font-size:120%;
 		position:relative;
 		top:20px;
-		width:500px;
-		margin:auto;
 	} 
 
-	.informaçõescentrais {
+	.dadosprofissionais {
+		background-color:white;
+		padding:20px;
 		width:100%;
-
-		padding:10px;
+		border: 3px double #4DB920;
 	}
+	
+	
 
 	
