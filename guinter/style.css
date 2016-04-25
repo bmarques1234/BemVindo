@@ -2,9 +2,9 @@ h1
 	{
 		font-family:verdana;
 		text-align:center;
-		color:#4db81a;
+		font-size:100%;
 		font-weight:bold;
-		font-size:200%;
+		color:#4db81a;
 	}
 body 
 	{
@@ -26,13 +26,13 @@ body
 		border: 3px solid black;
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 	}
 #DadosPessoais
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
@@ -41,7 +41,7 @@ body
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
@@ -50,28 +50,30 @@ body
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		border:3px solid black;
-	}	
+		margin-bottom:25px;
+		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
+	}
 #comeback 
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		line-height:50px;
 	}
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+		font-size:100%;
 		color:green;
-		font-size:125%;
 	}
 span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+		font-size:100%;
 		color:green;
-		font-size:125%;
 	}
