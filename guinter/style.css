@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
 <<<<<<< 1464224060c145a6eebac205948be1fe63b81923
 <<<<<<< 381e127c02518b8efd90e212e4618d910f7b6876
@@ -184,21 +185,17 @@ body
 >>>>>>> arrumando conflitos
 		font-family:verdana;
 =======
+=======
+>>>>>>> ajustes para merge
 		font-family:verdana;
->>>>>>> arrumando alguns conflitos
 		text-align:center;
 		font-weight:bold;
 		font-size:100%;
 		color:#4db81a;
 	}
-body 
+iframe
 	{
-		background-color:#ebebe0;
-		width:780px;
-		margin:0 auto;
-	}
-#divfoto
-	{
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 		width:100%;		
 		text-align:center;
 <<<<<<< 09d70c483c4f8b211f75ed0f2eeeabf3f1bb86a2
@@ -209,18 +206,29 @@ body
 	}
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
 #imagem 
+=======
+		width:100%; 
+		height:auto; 
+		border:none;
+	}
+body 
+>>>>>>> ajustes para merge
 	{
 		border-radius:2000px;
 >>>>>>> titulos, layout, espaços em branco
 	}
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 =======
 >>>>>>> arrumando alguns conflitos
+=======
+>>>>>>> ajustes para merge
 	#imagem 
 		{
 			border-radius:2000px;
 		}
 #contato
 	{
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< c8119a49eac620a67c13d118a7c8354e9af3e832
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
 <<<<<<< 7401603ed7e0da311ab0d9de1ad77a0dbadafbff
@@ -324,9 +332,20 @@ body
 		margin:25px 0px 25px 0px;	
 	}
 >>>>>>> arrumando conflitos
+=======
+		background-color:#ebebe0;
+		font-family:verdana;
+		text-align:center;
+		font-size:100%;
+		color:black;
+		border:3px solid black;
+		margin:25px 0px 25px 0px;	
+	}
+>>>>>>> ajustes para merge
 #DadosPessoais
 >>>>>>> titulos, layout, espaços em branco
 	{
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< 7401603ed7e0da311ab0d9de1ad77a0dbadafbff
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 		color:#4db81a;
@@ -350,6 +369,8 @@ body
 >>>>>>> arrumando conflitos
 #DadosPessoais
 	{
+=======
+>>>>>>> ajustes para merge
 		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
@@ -388,6 +409,7 @@ body
 		font-size:100%;
 		color:black;
 		border:3px solid black;
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< c8119a49eac620a67c13d118a7c8354e9af3e832
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
 <<<<<<< c896c90d7627f3fc2f5f131311940925aeed05f7
@@ -448,12 +470,15 @@ body
 		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 =======
 >>>>>>> ajuste titulo e comeback
+=======
+>>>>>>> ajustes para merge
 	}
 #comeback 
 	{
 >>>>>>> arrumando conflitos
 		font-family:verdana;
 		text-align:center;
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< 1de046b46e5e7d01fb1aac625281bcec74cecbaf
 		font-size:125%;
 <<<<<<< 7401603ed7e0da311ab0d9de1ad77a0dbadafbff
@@ -748,6 +773,9 @@ span.detalhesfrases
 >>>>>>> arrumando conflitos
 =======
 =======
+=======
+		font-size:100%;
+>>>>>>> ajustes para merge
 		color:#4DB920;
 		line-height:50px;
 	}
@@ -763,6 +791,7 @@ span.detalhesfrases
 		font-style:italic;
 		font-size:100%;
 		color:green;
+<<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< 2f0c1145b5b4a6c3d9a9713cca4d63f5a99d8081
 	}	
 >>>>>>> arrumando alguns conflitos
@@ -773,3 +802,6 @@ span.detalhesfrases
 	}
 >>>>>>> ajuste titulo e comeback
 >>>>>>> ajuste titulo e comeback
+=======
+	}
+>>>>>>> ajustes para merge
