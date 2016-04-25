@@ -51,6 +51,11 @@ body
 		font-size:125%;
 		color:black;
 		border:3px solid black;
+		font-size:100%;
+		color:black;
+		border:3px solid black;
+		margin-bottom:25px;
+	}
 #comeback 
 	{
 		font-family:verdana;
@@ -62,11 +67,13 @@ body
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+		font-size:100%;
 		color:green;
-		font-size:125%;
 	}
 span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+		font-size:100%;
 		color:green;
+	}
