@@ -167,8 +167,8 @@ body
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		font-family:verdana;
 		text-align:center;
-		font-size:100%;
 		font-weight:bold;
+		font-size:100%;
 		color:#4db81a;
 	}
 body 
@@ -181,6 +181,7 @@ body
 	{
 		width:100%;		
 		text-align:center;
+<<<<<<< e7cd5bc028111c47d90b760ea3128961326b6719
 <<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< 3da6d0f2266a9413556ed6f8a3e2893929d7998b
 <<<<<<< 3c02a08cee3a0db0b4c127e390ac141df94daf45
@@ -327,12 +328,15 @@ body
 >>>>>>> arrumando alguns conflitos
 =======
 >>>>>>> ajustes para merge
+=======
+>>>>>>> arrumando alguns conflitos
 	#imagem 
 		{
 			border-radius:2000px;
 		}
 #contato
 	{
+<<<<<<< e7cd5bc028111c47d90b760ea3128961326b6719
 <<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< c8119a49eac620a67c13d118a7c8354e9af3e832
 <<<<<<< f534c26b9585b78910461a997ea87496daec5c2b
@@ -399,6 +403,8 @@ body
 >>>>>>> titulos, layout, espaços em branco
 =======
 =======
+=======
+>>>>>>> arrumando alguns conflitos
 		font-family:verdana;
 		text-align:center;
 <<<<<<< 88e0701bea8c36999e56e8df74353f0cc71d7bfd
@@ -406,7 +412,13 @@ body
 >>>>>>> alteração layout, esportes, formatação
 =======
 		font-size:100%;
+<<<<<<< e7cd5bc028111c47d90b760ea3128961326b6719
 >>>>>>> arrumando conflitos
+=======
+		color:black;
+		border:3px solid black;
+		margin:25px 0px 25px 0px;	
+>>>>>>> arrumando alguns conflitos
 	}
 <<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 #isolar
@@ -710,7 +722,6 @@ span.detalhesfrases
 >>>>>>> alteração layout, esportes, formatação
 =======
 		margin-bottom:25px;
-		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 	}
 >>>>>>> arrumando conflitos
 #comeback 
@@ -771,6 +782,7 @@ span.detalhesfrases
 <<<<<<< c23c61eb4593b3984b8bba5ceb595fe4f3c93c75
 		font-size:100%;
 		color:green;
+<<<<<<< e7cd5bc028111c47d90b760ea3128961326b6719
 <<<<<<< 5b4885060256a048105dea046b2fce2ad5520d55
 <<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
 <<<<<<< 4f2abf6abba17ee64c3a593752d5c56c62561df0
@@ -1090,3 +1102,6 @@ span.detalhesfrases
 		color:green;
 	}
 >>>>>>> arrumando conflitos
+=======
+	}
+>>>>>>> arrumando alguns conflitos
