@@ -5,6 +5,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 43e43532c542cb7251ae8e14650881083721ac96
 <<<<<<< 97a0ad70b906c6f11cf065fd5e83055cc68dc066
 <<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
 <<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
@@ -87,6 +88,8 @@ $(document).ready(function(){
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
 >>>>>>> botao video e audio
+=======
+>>>>>>> ajuste videos
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
