@@ -1,7 +1,5 @@
 /*stylesheet*/
 body{
-	background-color: #6C6D6F;
-	background:#6C6D6F;
 	background-image: url("img/background.jpg");
 	background-attachment: fixed; 
 }
@@ -34,3 +32,8 @@ li{
 	margin-top: -65px;
 	margin-right:3px;
 }
+span{
+	display:inline-block;
+}
+
+@media only screen and (max-width:400px){#img{height:150px;width:150px}}

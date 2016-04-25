@@ -3,6 +3,7 @@
 	<head>
 		<title>Bruno Marques</title>
 		<link rel="stylesheet" href="stylesheet.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script src="animation.js"></script>
 		<link href="img/dd.png" rel="icon" type="image/gif">
@@ -44,8 +45,8 @@
 					<ul>
 						<li>Bandas preferidas:</li>
 							<ul>
-								<li>SOJA</li>
-								<li>Maneva</li>
+								<li id="sojaVideo">SOJA (clique para ouvir)</li>
+								<li id="manevaVideo">Maneva (clique para ouvir)</li>
 							</ul>
 						<li>Jogos preferidos:</li>
 							<ul>
@@ -75,11 +76,17 @@
 				<div class="content" id="contactContent">
 					<ul>
 						<li>Celular: (51) 9365-7023</li>
-						<li>Email: bruno.marques@digitaldesk.com.br</li>
+						<li>Email: <span>bruno.marques@</span><span>digitaldesk.com.br</span></li>
 					</ul>
 					</ul>
 				</div>
 			</div>
 		</div>
+		<audio id="soja">
+			<source src="video/soja.mp4" type="video/mp4" />
+		</audio>
+		<audio id="maneva">
+			<source src="video/maneva.mp4" type="video/mp4" />
+		</audio>
 	</body>
 </html>
