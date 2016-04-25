@@ -1,3 +1,4 @@
+<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
 <<<<<<< 82d1358237e7c574d62d75666604160f7e412240
 @media only screen and (min-width: 1279px) and (max-width: 5500px){
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
@@ -44,6 +45,9 @@
 }
 
 @media only screen and (min-width: 900px) and (max-width: 1045px){
+=======
+@media only screen and (min-width: 900px) and (max-width: 5500px){
+>>>>>>> responsível usando media quare
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
 	#nome{color:#4DB920; font-size:250%;}
 	#pessoais{font-family:Arial; font-size:175%; color:#4DB920;}
@@ -83,11 +87,19 @@
 	#centralizaborda{width:70%;margin:0 auto;}
 	.lista{font-size:120%;font-family:Arial;list-style:none;}
 	.ol1{font-size:20px;font-family:Arial;}
+<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
 	.larguralista{width:49%;display:inline-block;}
 	.centraliza{width:100%;text-align:center;display:inline-block}
 }
 
 @media only screen and (min-width: 0px) and (max-width: 479px){
+=======
+	.larguralista{width:24%;display:inline-block;}
+	.centraliza{width:100%;text-align:center;display:inline-block}
+}
+
+@media only screen and (min-width: 200px) and (max-width: 479px){
+>>>>>>> responsível usando media quare
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
 	#nome{color:#4DB920; font-size:250%;}
 	#pessoais{font-family:Arial; font-size:175%; color:#4DB920;}
@@ -97,13 +109,18 @@
 	#contato{font-family:Arial;font-size:80%;list-style:none;}
 	#adicionais{font-family:Arial;font-size:175%;color:#4DB920;text-align:center;}
 	#motivacional{font-family:Italic;font-size:25px;color:#000080;}
+<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
 	#largura{width:100%;text-align:center;}
+=======
+	#largura{width:100%;}
+>>>>>>> responsível usando media quare
 	#margemfrase{width:20%;float:right;}
 	#bordapessoais{border:5px solid #4DB920;width:100%;float:left;}
 	#bordaprofissionais{border:5px solid #4DB920;width:100%;float:left;margin-top:3%;}
 	#bordaadicionais{border:5px solid #4DB920;width:100%;float:left;margin-top:50px;}
 	#centralizaborda{width:70%;margin:0 auto;}
 	.lista{font-size:120%;font-family:Arial;list-style:none;}
+<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
 	.ol1{font-size:20px;font-family:Arial;list-style:none;}
 	.larguralista{width:100%;display:inline-block;}
 	.centraliza{width:100%;text-align:center;display:inline-block}
@@ -266,3 +283,9 @@ margin:0 auto;
 =======
 }
 >>>>>>> push1
+=======
+	.ol1{font-size:20px;font-family:Arial;}
+	.larguralista{width:49%;display:inline-block;}
+	.centraliza{width:100%;text-align:center;display:inline-block}
+}
+>>>>>>> responsível usando media quare
