@@ -27,6 +27,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 492c15ea11fe8ef5726d31e9d4c029a0d6800fa8
 <<<<<<< faa7ed3c1397ac5cb633f00915913ebe1d42d387
 <<<<<<< 15822305da5df763bbfce24836b5aff7b96e3653
 <<<<<<< e8c90163b1f5afd7ddb76ceca1ab57a8ce443bd1
@@ -56,6 +57,22 @@ $(document).ready(function(){
 <<<<<<< f7fc348215c9bc1e21845418f0a8428a9b7a5a4d
 <<<<<<< f56023b243ff363b8b9435a639dc43f65fb1f2af
 <<<<<<< 17293cd98d977d99c2532caa9402b82f93e0a259
+=======
+<<<<<<< 1fb5cb0c972fee881cbe7f98495325ca0267dbc4
+<<<<<<< 73ba30152da0281ad6494e028c8edd627c1d823d
+<<<<<<< 95b05417e10c0ca95316deb8a9d40681b6d32747
+<<<<<<< 6971f919895b614cb17eaad326484bbab762b752
+<<<<<<< 6a006fc4fe3a04cec812a3df8764f9f417f884bd
+<<<<<<< 65cfd830d36038607e919e58fd321a3f1df8c50b
+<<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
+<<<<<<< 43e43532c542cb7251ae8e14650881083721ac96
+<<<<<<< 97a0ad70b906c6f11cf065fd5e83055cc68dc066
+<<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
+<<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
+<<<<<<< 1e2a6313fdac50f238198a19be4af7e1035e0481
+<<<<<<< 84107c4896c5dbffb83b39bbc43a562ede14d879
+<<<<<<< 1c743e7d3504a446e9580fa5f69919e4d1eb0723
+>>>>>>> ajuste videos
 =======
 =======
 =======
@@ -219,6 +236,7 @@ $(document).ready(function(){
 <<<<<<< 32de96967b9fe3db6b0baa38859c4424a5352d39
 >>>>>>> pull
 <<<<<<< f1680a46973db2fd18d03c126a3332d196f58170
+<<<<<<< 492c15ea11fe8ef5726d31e9d4c029a0d6800fa8
 >>>>>>> pull
 <<<<<<< d5487f4f704b540bdc69efb5a17a55649d65dcc8
 >>>>>>> pull
@@ -242,6 +260,16 @@ $(document).ready(function(){
 <<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
 >>>>>>> ajuste videos
 <<<<<<< 77db1e23d5014371fede5742e182e58aee87982b
+=======
+>>>>>>> pull
+<<<<<<< 1fb5cb0c972fee881cbe7f98495325ca0267dbc4
+>>>>>>> pull
+=======
+=======
+=======
+>>>>>>> ajuste videos
+>>>>>>> ajuste videos
+>>>>>>> ajuste videos
 >>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
@@ -252,18 +280,25 @@ $(document).ready(function(){
 =======
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
+<<<<<<< 492c15ea11fe8ef5726d31e9d4c029a0d6800fa8
 <<<<<<< d5487f4f704b540bdc69efb5a17a55649d65dcc8
 >>>>>>> botao video e audio
 =======
 =======
 =======
 <<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
+=======
+<<<<<<< 1fb5cb0c972fee881cbe7f98495325ca0267dbc4
+>>>>>>> ajuste videos
 >>>>>>> botao video e audio
 <<<<<<< 15ea8ce934e1bb78b823e5fae6181f87266d9f49
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
 <<<<<<< 03b3ebae205893be2b4a84863d9d69956ea5264a
 >>>>>>> botoes play
+<<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
+>>>>>>> ajuste videos
+=======
 <<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
 >>>>>>> ajuste videos
 =======
@@ -354,7 +389,42 @@ $(document).ready(function(){
 >>>>>>> pull
 =======
 >>>>>>> ajuste videos
+<<<<<<< 492c15ea11fe8ef5726d31e9d4c029a0d6800fa8
 =======
+=======
+	$("#personal").click(function(){
+		$("#personalTitle>.content").stop().slideToggle("slow");
+	});
+	$("#professional").click(function(){
+		$("#professionalTitle>.content").stop().slideToggle("slow");
+	});
+	$("#hobby").click(function(){
+		$("#hobbyTitle>.content").stop().slideToggle("slow");
+	});
+	$("#contact").click(function(){
+		$("#contactTitle>.content").stop().slideToggle("slow");
+	});
+	$("#playSoja").click(function(){
+		videoSoja.play();
+		$("#playSoja").hide();
+		$("#pauseSoja").show();
+	});
+	$("#pauseSoja").click(function(){
+		videoSoja.pause();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+	});
+	$("#replaySoja").click(function(){
+		videoSoja.load();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+<<<<<<< 95b05417e10c0ca95316deb8a9d40681b6d32747
+<<<<<<< 6a006fc4fe3a04cec812a3df8764f9f417f884bd
+<<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
+<<<<<<< 7bbe8e47af24302a546572a3a4cd1dad1c341db6
+<<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
+<<<<<<< 84107c4896c5dbffb83b39bbc43a562ede14d879
+>>>>>>> ajuste videos
 =======
 >>>>>>> botoes play
 >>>>>>> botoes play
