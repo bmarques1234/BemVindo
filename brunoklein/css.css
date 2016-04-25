@@ -1,6 +1,3 @@
-<<<<<<< 85f61bbd15887fdf5f556836dfb53e6b7f408aaa
-<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
-<<<<<<< 82d1358237e7c574d62d75666604160f7e412240
 @media only screen and (min-width: 1279px) and (max-width: 5500px){
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
 	#nome{color:#4DB920; font-size:250%;}
@@ -46,12 +43,6 @@
 }
 
 @media only screen and (min-width: 900px) and (max-width: 1045px){
-=======
-@media only screen and (min-width: 900px) and (max-width: 5500px){
->>>>>>> responsível usando media quare
-=======
-@media only screen and (min-width: 1279px) and (max-width: 5500px){
->>>>>>> 100% responsível
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
 	#nome{color:#4DB920; font-size:250%;}
 	#pessoais{font-family:Arial; font-size:175%; color:#4DB920;}
@@ -73,63 +64,7 @@
 	.centraliza{width:100%;text-align:center;display:inline-block}
 }
 
-@media only screen and (min-width: 1046px) and (max-width: 1278px){
-	#fundo{background-color:#EFEFEF; margin:0 auto;}
-	#nome{color:#4DB920; font-size:250%;}
-	#pessoais{font-family:Arial; font-size:175%; color:#4DB920;}
-	#site{font-size:120%;color:#4DB920;}
-	#imag{border-radius:2000px;width:205px;margin-top:2px;border:5px solid #4DB920;}
-	#profissionais{font-family:Arial;font-size:175%;color:#4DB920;}
-	#contato{font-family:Arial;font-size:80%;list-style:none;}
-	#adicionais{font-family:Arial;font-size:175%;color:#4DB920;text-align:center;}
-	#motivacional{font-family:Italic;font-size:25px;color:#000080;}
-	#largura{width:100%;}
-	#margemfrase{width:20%;float:right;}
-	#bordapessoais{border:5px solid #4DB920;width:45%;float:left;margin-right:3%;padding-bottom:20px;}
-	#bordaprofissionais{border:5px solid #4DB920;width:45%;float:left;}
-	#bordaadicionais{border:5px solid #4DB920;width:94%;float:left;margin-top:50px;}
-	#centralizaborda{width:70%;margin:0 auto;}
-	.lista{font-size:120%;font-family:Arial;list-style:none;}
-	.ol1{font-size:20px;font-family:Arial;}
-	.larguralista{width:24%;display:inline-block;}
-	.centraliza{width:100%;text-align:center;display:inline-block}
-}
-
-@media only screen and (min-width: 900px) and (max-width: 1045px){
-	#fundo{background-color:#EFEFEF; margin:0 auto;}
-	#nome{color:#4DB920; font-size:250%;}
-	#pessoais{font-family:Arial; font-size:175%; color:#4DB920;}
-	#site{font-size:120%;color:#4DB920;}
-	#imag{border-radius:2000px;width:205px;margin-top:2px;border:5px solid #4DB920;}
-	#profissionais{font-family:Arial;font-size:175%;color:#4DB920;}
-	#contato{font-family:Arial;font-size:80%;list-style:none;}
-	#adicionais{font-family:Arial;font-size:175%;color:#4DB920;text-align:center;}
-	#motivacional{font-family:Italic;font-size:25px;color:#000080;}
-	#largura{width:100%;}
-	#margemfrase{width:20%;float:right;}
-	#bordapessoais{border:5px solid #4DB920;width:45%;float:left;margin-right:3%;}
-	#bordaprofissionais{border:5px solid #4DB920;width:45%;float:left;}
-	#bordaadicionais{border:5px solid #4DB920;width:94%;float:left;margin-top:50px;}
-	#centralizaborda{width:70%;margin:0 auto;}
-	.lista{font-size:120%;font-family:Arial;list-style:none;}
-	.ol1{font-size:20px;font-family:Arial;}
-<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
-	.larguralista{width:49%;display:inline-block;}
-	.centraliza{width:100%;text-align:center;display:inline-block}
-}
-
-@media only screen and (min-width: 0px) and (max-width: 479px){
-=======
-	.larguralista{width:24%;display:inline-block;}
-	.centraliza{width:100%;text-align:center;display:inline-block}
-}
-
-<<<<<<< 85f61bbd15887fdf5f556836dfb53e6b7f408aaa
-@media only screen and (min-width: 200px) and (max-width: 479px){
->>>>>>> responsível usando media quare
-=======
 @media only screen and (min-width: 480px) and (max-width: 899px){
->>>>>>> 100% responsível
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
 	#nome{color:#4DB920; font-size:250%;}
 	#pessoais{font-family:Arial; font-size:175%; color:#4DB920;}
@@ -139,188 +74,17 @@
 	#contato{font-family:Arial;font-size:80%;list-style:none;}
 	#adicionais{font-family:Arial;font-size:175%;color:#4DB920;text-align:center;}
 	#motivacional{font-family:Italic;font-size:25px;color:#000080;}
-<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
-	#largura{width:100%;text-align:center;}
-=======
 	#largura{width:100%;}
->>>>>>> responsível usando media quare
 	#margemfrase{width:20%;float:right;}
 	#bordapessoais{border:5px solid #4DB920;width:100%;float:left;}
 	#bordaprofissionais{border:5px solid #4DB920;width:100%;float:left;margin-top:3%;}
 	#bordaadicionais{border:5px solid #4DB920;width:100%;float:left;margin-top:50px;}
 	#centralizaborda{width:70%;margin:0 auto;}
 	.lista{font-size:120%;font-family:Arial;list-style:none;}
-<<<<<<< e00914628d1a1f4de37f13e085c6af62505f10c7
-	.ol1{font-size:20px;font-family:Arial;list-style:none;}
-	.larguralista{width:100%;display:inline-block;}
-	.centraliza{width:100%;text-align:center;display:inline-block}
-}
-
-<<<<<<< 267af3ea79b183a4241f7ac1f32c829497cd75ad
-=======
-=======
-#fundo{
-background-color:#EFEFEF;
-margin:0 auto;
-}
-
->>>>>>> bordas
-#nome{
-	color:#4DB920;
-	font-size:250%;
-}
-
-#pessoais{
-	font-family:Arial;
-	font-size:175%;
-	color:#4DB920;
-}
-
-#site{
-	font-size:120%;
-	color:#4DB920;
-}
-
-#imag{
-	border-radius:2000px;
-	width:205px;
-	margin-top:2px;
-	border:5px solid #4DB920;
-}
-
-.lista{
-	font-size:120%;
-	font-family:Arial;
-	list-style:none;
-}
-
-#profissionais{
-	font-family:Arial;
-	font-size:175%;
-	color:#4DB920;
-}
-
-#contato{
-	font-family:Arial;
-	font-size:80%;
-	list-style:none;
-}
-
-#adicionais{
-	font-family:Arial;
-	font-size:175%;
-	color:#4DB920;
-	text-align:center;
-}
-
-.ol1{
-	font-size:120%;
-	font-family:Arial;
-
-}
-
-#olt1{
-	font-size:120%;
-	font-family:Arial;
-}
-
-#olt2{
-	font-size:120%;
-	font-family:Arial;
-}
-
-#olt3{
-	font-size:120%;
-	font-family:Arial;
-}
-
-#ol2{
-	font-size:20px;
-	font-family:Arial;
-}
-
-#ol3{
-	font-size:20px;
-	font-family:Arial;	
-}
-
-#ol4{
-	font-size:20px;
-	font-family:Arial;
-}
-
-#motivacional{
-	font-family:Italic;
-	font-size:25px;
-	color:#000080;
-}
-
-#largura{
-	width:100%;
-}
-
-.larguralista{
-	width:24%;
-	display:inline-block;
-}
-
-#margemfrase{
-	width:20%;
-	float:right;
-}
-
-.centraliza{
-	width:100%;
-	text-align:center;
-	display:inline-block
-}
-<<<<<<< 82d1358237e7c574d62d75666604160f7e412240
->>>>>>> responsível - 80%
-=======
-
-#bordapessoais{
-	border:5px solid #4DB920;
-	width:45%;
-	float:left;
-	margin-right:3%;
-}
-
-#bordaprofissionais{
-	border:5px solid #4DB920;
-	width:45%;
-	float:left;
-}
-
-#bordaadicionais{
-	border:5px solid #4DB920;
-	width:94%;
-	float:left;
-	margin-top:50px;
-}
-
-#centralizaborda{
-	width:70%;
-	margin:0 auto;
-<<<<<<< 67828262babd01333932e983e309d4d328860f7b
-<<<<<<< ffa9cb26853740dcfc133018ebd953984703ba90
-}
->>>>>>> bordas
-=======
-=======
->>>>>>> responsível - 80%
-}
->>>>>>> responsível - 80%
-=======
-}
->>>>>>> push1
-=======
 	.ol1{font-size:20px;font-family:Arial;}
 	.larguralista{width:49%;display:inline-block;}
 	.centraliza{width:100%;text-align:center;display:inline-block}
 }
-<<<<<<< 85f61bbd15887fdf5f556836dfb53e6b7f408aaa
->>>>>>> responsível usando media quare
-=======
 
 @media only screen and (min-width: 0px) and (max-width: 479px){
 	#fundo{background-color:#EFEFEF; margin:0 auto;}
@@ -344,4 +108,3 @@ margin:0 auto;
 	.centraliza{width:100%;text-align:center;display:inline-block}
 }
 
->>>>>>> 100% responsível
