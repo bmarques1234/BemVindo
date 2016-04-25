@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 <<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
 <<<<<<< 4f2abf6abba17ee64c3a593752d5c56c62561df0
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
@@ -53,9 +54,12 @@ body
 =======
 >>>>>>> arrumando conflitos
 		font-family:verdana;
+=======
+		font-family:verdana;
+>>>>>>> arrumando alguns conflitos
 		text-align:center;
-		font-size:100%;
 		font-weight:bold;
+		font-size:100%;
 		color:#4db81a;
 	}
 body 
@@ -74,12 +78,13 @@ body
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
-#imagem 
-	{
-		border-radius:2000px;
-	}
+	#imagem 
+		{
+			border-radius:2000px;
+		}
 #contato
 	{
+<<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
 		color:black;
 		border: 3px solid black;
@@ -106,10 +111,14 @@ body
 	}	
 >>>>>>> titulos, layout, espaços em branco
 =======
+=======
+>>>>>>> arrumando alguns conflitos
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
 		color:black;
+		border:3px solid black;
+		margin:25px 0px 25px 0px;	
 	}
 >>>>>>> arrumando conflitos
 #DadosPessoais
@@ -137,6 +146,7 @@ body
 		font-size:100%;
 		color:black;
 		border:3px solid black;
+<<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 		margin-bottom:25px;
 		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 	}
@@ -207,18 +217,34 @@ span.detalhesfrases
 		font-family:verdana;
 		font-size:125%;
 		text-align:center;
+=======
+		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
+	}
+#comeback 
+	{
+		font-family:verdana;
+		text-align:center;
+		font-size:100%;
+		color:#4DB920;
+>>>>>>> arrumando alguns conflitos
 		line-height:50px;
 	}
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+<<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 		color:green;
 		font-size:125%;
+=======
+		font-size:100%;
+		color:green;
+>>>>>>> arrumando alguns conflitos
 	}
 span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+<<<<<<< 1537e04f60f4ec327ea778e9cdc421d072788c5d
 		color:green;
 =======
 		border:3px solid black;
@@ -261,3 +287,8 @@ span.detalhesfrases
 =======
 	}	
 >>>>>>> arrumando conflitos
+=======
+		font-size:100%;
+		color:green;
+	}	
+>>>>>>> arrumando alguns conflitos
