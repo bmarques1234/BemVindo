@@ -8,22 +8,10 @@ body {
 	#minhafoto {
 	display: inline-block;
 	position:relative;
-	margin:auto;
-	}
-
-	#frase {
-		position:relative;
-		left:25px;
-		top:20%;
-		width:80%;
-		text-align:center;
-		font-weight:bold;
 	}
 
 	#seta {
-		position:relative;
-		left:30%;
-		top:20em;
+		text-align:center;
 	}
 
 	h1{
