@@ -4,16 +4,20 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
 <<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
 <<<<<<< c228c476b3280e43e2cbe534cef6fbdf98445857
 <<<<<<< 97cf5bf39550d41552f179a3f6d5c10037de03c7
 =======
 <<<<<<< 32de96967b9fe3db6b0baa38859c4424a5352d39
 >>>>>>> pull
+=======
+>>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
+<<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
 =======
 >>>>>>> ajuste videos
 <<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
@@ -28,6 +32,8 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 >>>>>>> pull
+=======
+>>>>>>> ajuste videos
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
