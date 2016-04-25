@@ -110,6 +110,7 @@ body
 		}
 #contato
 	{
+<<<<<<< 2f0c1145b5b4a6c3d9a9713cca4d63f5a99d8081
 <<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
 		color:black;
@@ -118,6 +119,9 @@ body
 >>>>>>> arrumando conflitos
 =======
 >>>>>>> arrumando alguns conflitos
+=======
+		background-color:#ebebe0;
+>>>>>>> ajuste titulo e comeback
 		font-family:verdana;
 		text-align:center;
 <<<<<<< 1de046b46e5e7d01fb1aac625281bcec74cecbaf
@@ -161,6 +165,7 @@ body
 >>>>>>> arrumando conflitos
 #DadosPessoais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -170,6 +175,7 @@ body
 	}	
 #InformacoesAdicionais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -179,14 +185,18 @@ body
 	}
 #DadosProfissionais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
 		color:black;
 		border:3px solid black;
+<<<<<<< 2f0c1145b5b4a6c3d9a9713cca4d63f5a99d8081
 <<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 		margin-bottom:25px;
 		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
+=======
+>>>>>>> ajuste titulo e comeback
 	}
 #comeback 
 	{
@@ -308,5 +318,9 @@ span.detalhesfrases
 		font-style:italic;
 		font-size:100%;
 		color:green;
+<<<<<<< 2f0c1145b5b4a6c3d9a9713cca4d63f5a99d8081
 	}	
 >>>>>>> arrumando alguns conflitos
+=======
+	}
+>>>>>>> ajuste titulo e comeback
