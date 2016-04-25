@@ -8,6 +8,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 65cfd830d36038607e919e58fd321a3f1df8c50b
 <<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
 <<<<<<< 43e43532c542cb7251ae8e14650881083721ac96
 <<<<<<< 97a0ad70b906c6f11cf065fd5e83055cc68dc066
@@ -39,12 +40,16 @@ $(document).ready(function(){
 =======
 >>>>>>> ajuste videos
 >>>>>>> ajuste videos
+=======
+<<<<<<< 096ebbe0b100d1b4a340c4f23ae7865125f80597
+>>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 <<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
 <<<<<<< 15ea8ce934e1bb78b823e5fae6181f87266d9f49
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
+<<<<<<< 65cfd830d36038607e919e58fd321a3f1df8c50b
 <<<<<<< 03b3ebae205893be2b4a84863d9d69956ea5264a
 <<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
 =======
@@ -103,6 +108,10 @@ $(document).ready(function(){
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
 >>>>>>> botao video e audio
+=======
+=======
+>>>>>>> ajuste videos
+>>>>>>> ajuste videos
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
