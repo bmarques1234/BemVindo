@@ -3,6 +3,7 @@ html, body, ul{margin:0; padding:0;}
 html, body{background:#EFEFEF; font-family: 'Open Sans', sans-serif; font-weight:300;}
 html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 
+iframe{width:100%; height:auto; border:none;}
 #header{height:285px; background:#FFF; text-align:center;}
 #header img{margin-top:20px;}
 #content{margin:-120px auto;}
