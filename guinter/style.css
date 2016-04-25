@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
 <<<<<<< 4f2abf6abba17ee64c3a593752d5c56c62561df0
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
@@ -49,18 +50,13 @@ body
 =======
 <<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
-		font-family:verdana;
-		text-align:center;
-		color:#4db81a;
-		font-weight:bold;
-		font-family:times;
-		font-size:200%;
 =======
-		color:#4db81a;
+>>>>>>> arrumando conflitos
 		font-family:verdana;
-		font-weight:bold;
 		text-align:center;
->>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+		font-size:100%;
+		font-weight:bold;
+		color:#4db81a;
 	}
 body 
 	{
@@ -112,17 +108,15 @@ body
 =======
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
-<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
+		font-size:100%;
 		color:black;
-<<<<<<< 651afc1be5b953f68bd98e6314af2a9d296f7e98
 	}
 >>>>>>> arrumando conflitos
 #DadosPessoais
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
@@ -131,7 +125,7 @@ body
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
@@ -140,64 +134,17 @@ body
 	{
 		font-family:verdana;
 		text-align:center;
-		font-size:125%;
+		font-size:100%;
 		color:black;
 		border:3px solid black;
-=======
-=======
-		border: 3px solid black;
-		font-family:verdana;
-		text-align:center;
-		font-size:125%;
 		margin-bottom:25px;
->>>>>>> alteração layout, esportes, formatação
-	}	
-#DadosPessoais
-	{
-		color:black;
-		border:3px solid black;
-		font-family:verdana;
-		text-align:center;
-		margin-bottom:25px;
-		font-size:125%;
-	}	
-#InformacoesAdicionais
-	{
-		color:black;
-		border:3px solid black;
-		font-family:verdana;
-		text-align:center;
-		margin-bottom:25px;
-		font-size:125%;
+		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 	}
-#DadosProfissionais
-	{
-		color:black;
-		border:3px solid black;
-		font-family:verdana;
-		text-align:center;
-/*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
-		font-size:125%;
-	}
-span.detalhessubtitulos
-	{
-		font-weight:bold;
-		color:green;
-		font-size:125%;
-	}
-span.detalhesfrases
-	{
-		font-weight:bold;
-		font-style:italic;
-		color:green;
-		font-size:125%;
->>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
-	}	
 #comeback 
 	{
 		font-family:verdana;
-<<<<<<< 9d0a066f5193e6181361f357c096cf894e5a9008
 		text-align:center;
+<<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
 		font-size:125%;
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
 <<<<<<< fc01462a3e082d4eadb159f6017b434d19d0bdb0
@@ -205,6 +152,9 @@ span.detalhesfrases
 =======
 =======
 =======
+=======
+		font-size:100%;
+>>>>>>> arrumando conflitos
 		color:black;
 		line-height:50px;
 >>>>>>> arrumando conflitos
@@ -212,14 +162,16 @@ span.detalhesfrases
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+		font-size:100%;
 		color:green;
-		font-size:125%;
 	}
 span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+		font-size:100%;
 		color:green;
+<<<<<<< 072b1e0847b76710f2a7a4e9612b2e3bbd7053eb
 <<<<<<< 4f2abf6abba17ee64c3a593752d5c56c62561df0
 <<<<<<< 4f52fc0584860dba81848d84dccc252f12245843
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
@@ -306,3 +258,6 @@ span.detalhesfrases
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
+=======
+	}	
+>>>>>>> arrumando conflitos
