@@ -669,6 +669,7 @@ body
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 		color:black;
 		border:3px solid black;
+<<<<<<< 3d970ba1128d4ad730897139287a3f9b0dcce6b6
 		margin-bottom:25px;
 	}	
 #InformacoesAdicionais
@@ -905,6 +906,12 @@ span.detalhesfrases
 <<<<<<< 152f9cde6a84c2caa21ef75139fe7ab92ea57837
 <<<<<<< 2dcdb241dc1efb004945fec6bbd7724b104b353a
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		font-size:100%;
+		color:black;
+		border:3px solid black;
+		margin-bottom:25px;
+>>>>>>> arrumando conflitos
 	}
 #comeback 
 	{
@@ -1141,18 +1148,22 @@ span.detalhesfrases
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+<<<<<<< 3d970ba1128d4ad730897139287a3f9b0dcce6b6
 <<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
 		font-size:100%;
 <<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 =======
 >>>>>>> arrumando conflitos
+=======
+		font-size:100%;
+>>>>>>> arrumando conflitos
 		color:green;
-		font-size:125%;
 	}
 span.detalhesfrases
 	{
 		font-weight:bold;
 		font-style:italic;
+<<<<<<< 3d970ba1128d4ad730897139287a3f9b0dcce6b6
 <<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 		font-size:100%;
 		color:green;
@@ -1218,3 +1229,8 @@ span.detalhesfrases
 =======
 		color:green;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		font-size:100%;
+		color:green;
+	}
+>>>>>>> arrumando conflitos
