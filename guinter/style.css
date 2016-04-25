@@ -28,6 +28,7 @@ h1
 <<<<<<< dbec7aedfdbb68e7696e420bd001d2cd7ea9ba56
 <<<<<<< 90e57aecd902315227b567e8f487168d66fc7fb3
 		font-size:100%;
+<<<<<<< 31d7b761b987857b2133d0e04391e60632f311ab
 =======
 		text-align:center;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
@@ -179,6 +180,15 @@ body
 		font-weight:bold;
 		font-size:100%;
 		color:#4db81a;
+=======
+		text-align:center;
+	}
+iframe
+	{
+		width:100%; 
+		height:auto; 
+		border:none;
+>>>>>>> ajustes para merge
 	}
 body 
 	{
@@ -561,7 +571,11 @@ body
 >>>>>>> titulos, layout, espaços em branco
 =======
 		font-size:125%;
+<<<<<<< 31d7b761b987857b2133d0e04391e60632f311ab
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		margin:25px 0px 25px 0px;	
+>>>>>>> ajustes para merge
 	}
 <<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
 >>>>>>> arrumando conflitos
