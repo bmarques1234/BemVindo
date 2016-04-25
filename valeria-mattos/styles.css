@@ -48,6 +48,7 @@ h1{
 	padding:3%;
 	width:100%;
 	border: 3px double #4DB920;
+	border-radius: 25px;
 	margin:8px;
 }
 
