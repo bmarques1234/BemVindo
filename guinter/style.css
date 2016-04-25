@@ -24,11 +24,14 @@ body
 	{
 		color:black;
 		border: 3px solid black;
+		background-color:#ebebe0;
+		font-family:verdana;
 		text-align:center;
 		font-size:125%;
 	}
 #DadosPessoais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -38,6 +41,7 @@ body
 	}	
 #InformacoesAdicionais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -47,6 +51,7 @@ body
 	}
 #DadosProfissionais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:125%;
