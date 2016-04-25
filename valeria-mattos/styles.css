@@ -1,28 +1,8 @@
-<<<<<<< 402a5a1d0781e94397999cf3feec9515cf66278f
 body {
 	width:780px;
 	margin:0 auto;
-=======
-#minhafoto {display: inline-block;text-align:center;position:relative;left:50px;}
-#p03 {background-color:#4DB920;text-align:center;}
-
-.dadospessoais {
-	display: inline-block;
-	text-align:center;
-	font-size:120%;
-	position:relative;
-	left:300px;
-	top:-40px;
-} 
-	
-.barralateral {
-    line-height:30px;
-    background-color:#EFEFEF;
-    height:600px;
-    width:250px;
-    float:left;
-    padding:5px;	      
->>>>>>> Inclusão/mudanças de divs
+	background-color:#EFEFEF;
+	color:gray;
 }
 
 	#minhafoto {
@@ -41,15 +21,14 @@ body {
 	}
 
 	#seta {
-		position:relative;
-		left:30%;
-		top:20em;
+		text-align:center;
 	}
 
 	h1{
 		background-color:#4DB920;
 		text-align:center;
 		width: 100%;
+		color:black;
 	}
 
 	li{
@@ -57,11 +36,12 @@ body {
 		font-size:130%;
 	}
 
-	.barrasuperior {
-		background-color:#EFEFEF;
+	.divisões {
+		background-color:white;
 		padding:20px;
 		width:100%;
-		margin:auto;
+		border: 3px double #4DB920;
+
 	}
 	.dadospessoais {
 		display: inline-block;
@@ -73,11 +53,3 @@ body {
 		width:500px;
 		margin:auto;
 	} 
-
-	.informaçõescentrais {
-		width:100%;
-
-		padding:10px;
-	}
-
-	
