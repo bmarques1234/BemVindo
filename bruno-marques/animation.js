@@ -2,16 +2,16 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
-	$("#personalTitle").click(function(){
+	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
-	$("#professionalTitle").click(function(){
+	$("#professional").click(function(){
 		$("#professionalTitle>.content").stop().slideToggle("slow");
 	});
-	$("#hobbyTitle").click(function(){
+	$("#hobby").click(function(){
 		$("#hobbyTitle>.content").stop().slideToggle("slow");
 	});
-	$("#contactTitle").click(function(){
+	$("#contact").click(function(){
 		$("#contactTitle>.content").stop().slideToggle("slow");
 	});
 	$("#sojaVideo").click(function(){
