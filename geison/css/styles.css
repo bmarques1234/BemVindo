@@ -7,7 +7,7 @@ html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 #header img{margin-top:20px;}
 #headerCont{height:120px; background:#FFF;}
 #content{margin:-120px auto;}
-#content div.bloco{margin-bottom:10px; padding:15px 8px 15px 8px; background:#FFF; border-bottom:solid 5px #4DB920; box-shadow:0px 0px 20px #CCC;}
+#content div.bloco{margin-bottom:10px; padding:15px 8px 15px 8px; background:#FFF; border-bottom:solid 5px #4DB920; box-shadow:0px 0px 20px #CCC; overflow:hidden;}
 #content div.bloco > div h1, div h2{color:#4DB920;}
 #content div.bloco > div h1{margin:15px 0 0 0;}
 #content div.bloco > div h2{margin:0 0 15px 10px;}
@@ -32,6 +32,7 @@ html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 	#content div.bloco > .textPerfil{width:100%; text-align:center;}
 	#content div.bloco > div p{line-height:20px;}
 	#content div.bloco > p{margin-left:5px;}
+	#content div.bloco > p span{display:block;}
 	#infoPessoais{height:400px;}
 	#infoCont{height:170px;}
 	#infoProf{height:210px;}
