@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 <<<<<<< 1de046b46e5e7d01fb1aac625281bcec74cecbaf
 <<<<<<< d2aa43a35a4520904b5bab36141e4ba62a2ee738
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
@@ -79,9 +80,12 @@ body
 =======
 >>>>>>> arrumando conflitos
 		font-family:verdana;
+=======
+		font-family:verdana;
+>>>>>>> arrumando alguns conflitos
 		text-align:center;
-		font-size:100%;
 		font-weight:bold;
+		font-size:100%;
 		color:#4db81a;
 	}
 body 
@@ -100,17 +104,20 @@ body
 =======
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}
-#imagem 
-	{
-		border-radius:2000px;
-	}
+	#imagem 
+		{
+			border-radius:2000px;
+		}
 #contato
 	{
+<<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 <<<<<<< c4f411fdeb6edca25c3d65ef630ad3f9a3ef7d19
 		color:black;
 		border: 3px solid black;
 =======
 >>>>>>> arrumando conflitos
+=======
+>>>>>>> arrumando alguns conflitos
 		font-family:verdana;
 		text-align:center;
 <<<<<<< 1de046b46e5e7d01fb1aac625281bcec74cecbaf
@@ -148,6 +155,8 @@ body
 		font-size:100%;
 >>>>>>> arrumando conflitos
 		color:black;
+		border:3px solid black;
+		margin:25px 0px 25px 0px;	
 	}
 >>>>>>> arrumando conflitos
 #DadosPessoais
@@ -175,6 +184,7 @@ body
 		font-size:100%;
 		color:black;
 		border:3px solid black;
+<<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 		margin-bottom:25px;
 		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 	}
@@ -224,6 +234,9 @@ span.detalhessubtitulos
 		font-weight:bold;
 		font-size:100%;
 		color:green;
+=======
+		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
+>>>>>>> arrumando alguns conflitos
 	}
 span.detalhesfrases
 	{
@@ -241,14 +254,18 @@ span.detalhesfrases
 	{
 		color:black;
 		font-family:verdana;
+<<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 <<<<<<< 09d70c483c4f8b211f75ed0f2eeeabf3f1bb86a2
 <<<<<<< bf8ba538b485d7291f1b4e78927c2ecb6ebc4800
 <<<<<<< bc351bac071b269e2b23d0ad0718cbb73f29599a
 		font-size:125%;
+=======
+>>>>>>> arrumando alguns conflitos
 		text-align:center;
 		line-height:50px;
 =======
 		font-size:100%;
+<<<<<<< de4744d68cd0b8d45286104f7bf6be7f7afdb149
 		text-align:center;
 <<<<<<< a3532393d290363627beaf0f4be78b679cd62798
 >>>>>>> titulos, layout, espaços em branco
@@ -275,3 +292,21 @@ span.detalhesfrases
 =======
 	}	
 >>>>>>> arrumando conflitos
+=======
+		color:#4DB920;
+		line-height:50px;
+	}
+span.detalhessubtitulos
+	{
+		font-weight:bold;
+		font-size:100%;
+		color:green;
+	}
+span.detalhesfrases
+	{
+		font-weight:bold;
+		font-style:italic;
+		font-size:100%;
+		color:green;
+	}	
+>>>>>>> arrumando alguns conflitos
