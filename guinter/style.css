@@ -524,7 +524,11 @@ body
 >>>>>>> ajuste titulo e comeback
 		font-family:verdana;
 		text-align:center;
+		color:#4db81a;
+		font-weight:bold;
+		font-family:times;
 		font-size:100%;
+<<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
 		color:black;
 <<<<<<< f49710d5cc8a83359128693088953a024c81509d
 		border:3px solid black;
@@ -534,6 +538,8 @@ body
 		border: 3px solid black;
 >>>>>>> alteração layout, esportes, formatação
 =======
+=======
+>>>>>>> arrumando conflitos
 		margin-bottom:25px;
 >>>>>>> titulos, layout, espaços em branco
 	}
@@ -642,6 +648,10 @@ body
 =======
 =======
 		font-size:100%;
+<<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
+>>>>>>> arrumando conflitos
+=======
+		font-size:125%;
 >>>>>>> arrumando conflitos
 		color:black;
 		border:3px solid black;
@@ -897,6 +907,7 @@ span.detalhesfrases
 	{
 		font-family:verdana;
 		text-align:center;
+<<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
 		font-size:100%;
 		color:#4DB920;
 >>>>>>> arrumando alguns conflitos
@@ -962,6 +973,9 @@ span.detalhesfrases
 	}	
 #comeback 
 	{
+=======
+		font-size:125%;
+>>>>>>> arrumando conflitos
 		color:black;
 		font-family:verdana;
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
@@ -1104,9 +1118,13 @@ span.detalhesfrases
 span.detalhessubtitulos
 	{
 		font-weight:bold;
+<<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
 		font-size:100%;
 <<<<<<< 4780cff456ecc666b1f320cdc3f47b70a28f655f
+=======
+>>>>>>> arrumando conflitos
 		color:green;
+		font-size:125%;
 	}
 span.detalhesfrases
 	{
@@ -1114,6 +1132,7 @@ span.detalhesfrases
 		font-style:italic;
 		font-size:100%;
 		color:green;
+<<<<<<< ff30ff0f5e4763abddcafcf6d4ba77dd4a1ddaeb
 <<<<<<< 20715c25bd1f02400ceaef292423a82397bb6c61
 <<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
 <<<<<<< 2f0c1145b5b4a6c3d9a9713cca4d63f5a99d8081
@@ -1169,3 +1188,6 @@ span.detalhesfrases
 		font-size:125%;
 	}	
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+	}
+>>>>>>> arrumando conflitos
