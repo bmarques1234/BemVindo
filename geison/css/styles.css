@@ -3,11 +3,10 @@ html, body, ul{margin:0; padding:0;}
 html, body{background:#EFEFEF; font-family: 'Open Sans', sans-serif; font-weight:300;}
 html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 
-#header{height:165px; background:#FFF; text-align:center;}
+#header{height:285px; background:#FFF; text-align:center;}
 #header img{margin-top:20px;}
-#headerCont{height:120px; background:#FFF;}
 #content{margin:-120px auto;}
-#content div.bloco{margin-bottom:10px; padding:15px 8px 15px 8px; background:#FFF; border-bottom:solid 5px #4DB920; box-shadow:0px 0px 20px #CCC;}
+#content div.bloco{position:relative; margin-bottom:10px; padding:15px 8px 15px 8px; background:#FFF; border-bottom:solid 5px #4DB920; box-shadow:0px 0px 20px #CCC; overflow:hidden;}
 #content div.bloco > div h1, div h2{color:#4DB920;}
 #content div.bloco > div h1{margin:15px 0 0 0;}
 #content div.bloco > div h2{margin:0 0 15px 10px;}
@@ -23,15 +22,16 @@ html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 .italic li{font-style:italic;}
 .center li{text-align:center;}
 
-@media only screen and (min-width: 200px) and (max-width: 349px){
-	#header{width:100%; height:auto; background:#FFF;}
-	#header img{margin:20px 0 20px 0; width:80%;}
-	#content{width:97%;}
+@media only screen and (min-width: 100px) and (max-width: 349px){
+	#header{width:100%; background:#FFF;}
+	#header img{width:80%; margin:20px 0 20px 0;}
+	#content{width:97%; height:2352px;}
 	#content div.bloco > .imagemPerfil{width:100%; height:150px; background:#FFF; margin-right:30px; overflow:hidden; text-align:center;}
 	#content div.bloco > .imagemPerfil img {height:100%;}
 	#content div.bloco > .textPerfil{width:100%; text-align:center;}
 	#content div.bloco > div p{line-height:20px;}
 	#content div.bloco > p{margin-left:5px;}
+	#content div.bloco > p span{display:block;}
 	#infoPessoais{height:400px;}
 	#infoCont{height:170px;}
 	#infoProf{height:210px;}
@@ -66,10 +66,10 @@ html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 	#infoAdic .content-lists div.frase ul li{margin-bottom:40px;}
 }
 
-@media only screen and (min-width: 800px) and (max-width: 2000px){
-	#content{width:768px;}
+@media only screen and (min-width: 800px) and (max-width: 5500px){
+	#content{width:768px; height:1487px;}
 	#content div.bloco > .imagemPerfil{width:150px; height:150px; background:#EFEFEF; float:left; margin-right:30px; overflow:hidden;}
-	#content div.bloco > .imagemPerfil img {height:100%;}
+	#content div.bloco > .imagemPerfil img{height:100%;}
 	#infoPessoais{height:160px;}
 	#infoAdic{height:835px;}
 	#infoAdic .content-lists div{width:49.5%; height:220px; background:#EFEFEF; margin-bottom:10px; float:left; text-align:center; border-bottom:solid 5px #BBB;}
