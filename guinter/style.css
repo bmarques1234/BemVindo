@@ -23,6 +23,7 @@ body
 		}
 #contato
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -32,6 +33,7 @@ body
 	}
 #DadosPessoais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -41,6 +43,7 @@ body
 	}	
 #InformacoesAdicionais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
@@ -50,12 +53,12 @@ body
 	}
 #DadosProfissionais
 	{
+		background-color:#ebebe0;
 		font-family:verdana;
 		text-align:center;
 		font-size:100%;
 		color:black;
 		border:3px solid black;
-		/*background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 	}
 #comeback 
 	{
@@ -77,4 +80,4 @@ span.detalhesfrases
 		font-style:italic;
 		font-size:100%;
 		color:green;
-	}	
+	}
