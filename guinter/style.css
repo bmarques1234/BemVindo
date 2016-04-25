@@ -1,5 +1,6 @@
 h1	
 	{
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< 534766d9d1d49764e31c4a0781de45f9868a73e4
 <<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
 <<<<<<< 968c72f8b168c42e91c0205440b3b0454e958b37
@@ -158,6 +159,8 @@ body
 =======
 <<<<<<< 60e5f9c300ce1e9da8d3e1d78eef1d0287f79ea6
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+>>>>>>> arrumando conflitos
 		color:#4db81a;
 		font-family:verdana;
 		font-weight:bold;
@@ -172,6 +175,7 @@ body
 	{
 		width:100%;		
 		text-align:center;
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 <<<<<<< 3da6d0f2266a9413556ed6f8a3e2893929d7998b
 <<<<<<< 3c02a08cee3a0db0b4c127e390ac141df94daf45
 <<<<<<< bf8ba538b485d7291f1b4e78927c2ecb6ebc4800
@@ -295,6 +299,8 @@ body
 		text-align:center;
 	}
 >>>>>>> titulos, layout, espaços em branco
+=======
+>>>>>>> arrumando conflitos
 #imagem 
 =======
 		width:100%; 
@@ -392,6 +398,7 @@ body
 		font-size:125%;
 >>>>>>> alteração layout, esportes, formatação
 	}
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 #isolar
 	{
 		color:#4db81a;
@@ -521,10 +528,14 @@ body
 <<<<<<< 7401603ed7e0da311ab0d9de1ad77a0dbadafbff
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
+=======
+#DadosPessoais
+	{
+>>>>>>> arrumando conflitos
 		font-family:verdana;
 		text-align:center;
-		margin-bottom:25px;
 		font-size:125%;
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 	}	
 #InformacoesAdicionais
@@ -635,16 +646,18 @@ span.detalhesfrases
 <<<<<<< 152f9cde6a84c2caa21ef75139fe7ab92ea57837
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
 =======
+=======
+		color:black;
+		border:3px solid black;
+		margin-bottom:25px;
+	}	
+#InformacoesAdicionais
+	{
+>>>>>>> arrumando conflitos
 		font-family:verdana;
 		text-align:center;
-		margin-bottom:25px;
 		font-size:125%;
-	}
-span.detalhessubtitulos
-	{
-		font-weight:bold;
-		color:green;
-		font-size:125%;
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 	}
 span.detalhesfrases
 	{
@@ -652,16 +665,30 @@ span.detalhesfrases
 		font-style:italic;
 		color:green;
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+		color:black;
+		border:3px solid black;
+		margin-bottom:25px;
+>>>>>>> arrumando conflitos
 	}
 #DadosProfissionais
 	{
-		color:black;
-		border:3px solid black;
-<<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
 		font-family:verdana;
 		text-align:center;
-/*		background:#7d7d7d; background-image:url(D:\Projetos\Guinter\Outros\back_paralaxe_01.JPG); background-repeat: no-repeat;background-attachment: fixed;*/
 		font-size:125%;
+		color:black;
+		border:3px solid black;
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
+<<<<<<< b8b63576469806c1a0f89fd0cffe6f77a05dd960
+=======
+	}	
+#comeback 
+	{
+>>>>>>> arrumando conflitos
+		font-family:verdana;
+		text-align:center;
+		font-size:125%;
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 =======
 <<<<<<< 09d70c483c4f8b211f75ed0f2eeeabf3f1bb86a2
 =======
@@ -781,6 +808,10 @@ span.detalhesfrases
 		color:#4DB920;
 >>>>>>> arrumando alguns conflitos
 		line-height:50px;
+=======
+		color:black;
+		line-height:50px;
+>>>>>>> arrumando conflitos
 	}
 span.detalhessubtitulos
 	{
@@ -834,6 +865,7 @@ span.detalhesfrases
 		color:green;
 >>>>>>> alteração layout, esportes, formatação
 		font-size:125%;
+<<<<<<< be12b84fc85ec218a4bfa4a58db4f4961c4ce954
 	}	
 #comeback 
 	{
@@ -1009,3 +1041,6 @@ span.detalhesfrases
 		line-height:50px;
 	}
 >>>>>>> alteração quadros, cores dos subtitulos, tamanho das fontes
+=======
+	}
+>>>>>>> arrumando conflitos
