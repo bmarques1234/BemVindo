@@ -11,15 +11,6 @@ body {
 	margin:auto;
 	}
 
-	#frase {
-		position:relative;
-		left:25px;
-		top:20%;
-		width:80%;
-		text-align:center;
-		font-weight:bold;
-	}
-
 	#seta {
 		text-align:center;
 	}
@@ -50,6 +41,5 @@ body {
 		font-size:120%;
 		position:relative;
 		top:20px;
-		width:500px;
-		margin:auto;
+		width:550px;
 	} 
