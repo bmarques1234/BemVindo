@@ -22,7 +22,8 @@ body
 	}
 #contato
 	{
-		font-family:verdana;
+		color:black;
+		border: 3px solid black;
 		text-align:center;
 		font-size:125%;
 	}
@@ -49,9 +50,6 @@ body
 		font-family:verdana;
 		text-align:center;
 		font-size:125%;
-		color:black;
-		border:3px solid black;
-		font-size:100%;
 		color:black;
 		border:3px solid black;
 		margin-bottom:25px;
