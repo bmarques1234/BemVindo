@@ -1,4 +1,6 @@
 $(document).ready(function(){
+	$("video").fadeOut();
+	$(".content").hide();
 	$(".content").slideUp();
 	$("#personalTitle").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
@@ -17,6 +19,14 @@ $(document).ready(function(){
 	});
 	$("#manevaVideo").click(function(){
 		playManeva();
+	});
+	$(".clickBorder").click(function(){
+		$("#border").fadeToggle();
+		
+	});
+	$(".clickDivinit").click(function(){
+		$("#divinit").fadeToggle();
+		
 	});
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
