@@ -8,6 +8,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< d5487f4f704b540bdc69efb5a17a55649d65dcc8
 <<<<<<< 4825af9f0e66b361b75357bae73e6fe0d4221c3e
 <<<<<<< 1d156d137aec51b84ee99cb02d3e8dd45b911dbd
 <<<<<<< 03dc6747501e80fbcf21d336f1c15ed272e77db9
@@ -49,6 +50,9 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< f1680a46973db2fd18d03c126a3332d196f58170
+>>>>>>> ajuste videos
 <<<<<<< fa8f6aaae432239b34af4e6098a41d00be3f2c71
 >>>>>>> pull
 <<<<<<< b5ef8a5199984e4b204348c65e04b1c51791ce19
@@ -122,6 +126,9 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
+>>>>>>> ajuste videos
 <<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
 >>>>>>> pull
 <<<<<<< c228c476b3280e43e2cbe534cef6fbdf98445857
@@ -136,8 +143,16 @@ $(document).ready(function(){
 =======
 <<<<<<< 32de96967b9fe3db6b0baa38859c4424a5352d39
 >>>>>>> pull
+<<<<<<< f1680a46973db2fd18d03c126a3332d196f58170
 >>>>>>> pull
+<<<<<<< d5487f4f704b540bdc69efb5a17a55649d65dcc8
 >>>>>>> pull
+=======
+=======
+=======
+>>>>>>> ajuste videos
+>>>>>>> ajuste videos
+>>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 <<<<<<< 46170c1aa70248ecfe5b1d7bf282b9453d51b415
@@ -145,7 +160,11 @@ $(document).ready(function(){
 =======
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
+<<<<<<< d5487f4f704b540bdc69efb5a17a55649d65dcc8
 >>>>>>> botao video e audio
+=======
+<<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
+>>>>>>> ajuste videos
 =======
 =======
 >>>>>>> ajuste videos
@@ -196,6 +215,8 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 >>>>>>> pull
+=======
+>>>>>>> ajuste videos
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
