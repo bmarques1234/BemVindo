@@ -4,10 +4,13 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 97cf5bf39550d41552f179a3f6d5c10037de03c7
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
+=======
+>>>>>>> ajuste videos
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
