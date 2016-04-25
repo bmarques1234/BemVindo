@@ -1,4 +1,6 @@
 $(document).ready(function(){
+	$("video").fadeOut();
+	$(".content").hide();
 	$(".content").slideUp();
 	$("#personalTitle").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
@@ -12,4 +14,34 @@ $(document).ready(function(){
 	$("#contactTitle").click(function(){
 		$("#contactTitle>.content").stop().slideToggle("slow");
 	});
+	$("#sojaVideo").click(function(){
+		playSoja();
+	});
+	$("#manevaVideo").click(function(){
+		playManeva();
+	});
+	$(".clickBorder").click(function(){
+		$("#border").fadeToggle();
+		
+	});
+	$(".clickDivinit").click(function(){
+		$("#divinit").fadeToggle();
+		
+	});
+	var videoSoja=document.getElementById("soja");
+	var videoManeva=document.getElementById("maneva");
+	function playSoja(){
+		if(videoSoja.paused){
+			videoSoja.play();
+			videoManeva.pause();
+		}
+		else videoSoja.pause();
+	}
+	function playManeva(){
+		if(videoManeva.paused){
+			videoManeva.play();
+			videoSoja.pause();
+		}
+		else videoManeva.pause();
+	}
 });

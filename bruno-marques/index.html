@@ -1,17 +1,20 @@
 ﻿<!DOCTYPE html lang="pt-br">
 <html>
 	<head>
+		<iframe src="../../index/comum/links.html"></iframe>`
 		<title>Bruno Marques</title>
 		<link rel="stylesheet" href="stylesheet.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script src="animation.js"></script>
+		<link href="img/dd.png" rel="icon" type="image/gif">
 	</head>
 	<body>
 		<div class="info">
 			<div id="personalTitle">
 				<h1 class="topic"><em>Dados Pessoais</em></h1>
 				<div class="content" id="personalContent">
-					<img src="img/foto.jpg" id="img" />
+					<div id="img-box"><img src="img/foto.jpg" id="img" /></div>
 					<ul>
 						<li>Nome: Bruno Agostini Marques</li>
 						<li>Data de Nascimento: 15/10/1997</li>
@@ -43,13 +46,19 @@
 					<ul>
 						<li>Bandas preferidas:</li>
 							<ul>
-								<li>SOJA</li>
-								<li>Maneva</li>
+								<li id="sojaVideo">SOJA (clique para ouvir)</li>
+								<li id="manevaVideo">Maneva (clique para ouvir)</li>
 							</ul>
 						<li>Jogos preferidos:</li>
 							<ul>
-								<li>Borderlands 2</li>
-								<li>Divinity: Original Sin</li>
+								<li class="clickBorder">Borderlands 2 (clique para ver)</li>
+								<video id="border" width="320px" height="180px" controls>
+									<source src="video/border2.mp4" type="video/mp4" />
+								</video >
+								<li class="clickDivinit">Divinity: Original Sin (clique para ver)</li>
+								<video id="divinit" width="320px" height="180px" controls>
+									<source src="video/divinity.mp4" type="video/mp4" />
+								</video>
 							</ul>
 						<li>Seriados preferidos:</li>
 							<ul>
@@ -74,11 +83,17 @@
 				<div class="content" id="contactContent">
 					<ul>
 						<li>Celular: (51) 9365-7023</li>
-						<li>Email: bruno.marques@digitaldesk.com.br</li>
+						<li>Email: <span>bruno.marques@</span><span>digitaldesk.com.br</span></li>
 					</ul>
 					</ul>
 				</div>
 			</div>
 		</div>
+		<audio id="soja">
+			<source src="video/soja.mp4" type="video/mp4" />
+		</audio>
+		<audio id="maneva">
+			<source src="video/maneva.mp4" type="video/mp4" />
+		</audio>
 	</body>
 </html>

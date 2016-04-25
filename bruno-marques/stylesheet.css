@@ -1,6 +1,8 @@
 /*stylesheet*/
+iframe{width:100%; height:auto; border-bottom:solid 2px #BBB;}
 body{
-	background-color: #6C6D6F;
+	background-image: url("img/background.jpg");
+	background-attachment: fixed; 
 }
 .info{
 	border-radius:20px;
@@ -13,7 +15,7 @@ body{
 	text-align:center;
 }
 li{
-	font-size:20px;
+	font-size:1.3em;
 }
 #img{
 	height: 100px;
@@ -30,4 +32,12 @@ li{
 	float:right;
 	margin-top: -65px;
 	margin-right:3px;
+}
+span{
+	display:inline-block;
+}
+
+@media only screen and (max-width:420px){
+	#img{height:150px;width:150px}
+	video{height:90px;width:170px}
 }
