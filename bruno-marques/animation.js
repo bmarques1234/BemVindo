@@ -16,6 +16,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 77db1e23d5014371fede5742e182e58aee87982b
 <<<<<<< 5563c67e0db263ed80bec7a1f807e250a07b9ba5
 <<<<<<< 720e052d3d40d6dbdc5485823d424f6b01184bd4
 <<<<<<< a7b313a7947c2386fe4337f7929fdb25d6da06e2
@@ -82,6 +83,9 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
+>>>>>>> pull
 <<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
 >>>>>>> botoes play
 <<<<<<< 1e2a6313fdac50f238198a19be4af7e1035e0481
@@ -183,10 +187,15 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
+>>>>>>> pull
 <<<<<<< c228c476b3280e43e2cbe534cef6fbdf98445857
 >>>>>>> botoes play
 <<<<<<< 97cf5bf39550d41552f179a3f6d5c10037de03c7
+<<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
 >>>>>>> ajuste videos
+<<<<<<< 77db1e23d5014371fede5742e182e58aee87982b
 >>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
@@ -249,6 +258,13 @@ $(document).ready(function(){
 >>>>>>> ajuste videos
 =======
 =======
+=======
+=======
+=======
+<<<<<<< 32de96967b9fe3db6b0baa38859c4424a5352d39
+>>>>>>> pull
+>>>>>>> pull
+>>>>>>> pull
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 >>>>>>> botoes play
@@ -274,8 +290,12 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 >>>>>>> ajuste videos
+<<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
 <<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
 <<<<<<< 1e2a6313fdac50f238198a19be4af7e1035e0481
+=======
+<<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
+>>>>>>> pull
 =======
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
@@ -322,7 +342,12 @@ $(document).ready(function(){
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
 >>>>>>> botao video e audio
+<<<<<<< 77db1e23d5014371fede5742e182e58aee87982b
 >>>>>>> botao video e audio
+=======
+=======
+>>>>>>> pull
+>>>>>>> pull
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
