@@ -1,3 +1,4 @@
+<<<<<<< e1afcb9ee26601e0bea4857f83e43c8e3944ccbf
 <<<<<<< 18376b71fa39360119886b0acde612b5107a7823
 <<<<<<< c168e680715b096d122e2f35a807996a737e837a
 <<<<<<< a91c981158ee27c0c07c90df6ddf948d1f06db02
@@ -80,10 +81,17 @@ $(document).ready(function(){
 */
 /*window.alert("Seja bem vindo(a).");*/
 	
+=======
+window.alert("Seja bem vindo(a).");
+	
+>>>>>>> algumas alterações
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
 		$("#flip").click(function(){
 			$("#flip>.fonteitalico").stop().slideToggle("slow");
 		});
 	});
+<<<<<<< e1afcb9ee26601e0bea4857f83e43c8e3944ccbf
 >>>>>>> com icone mudado
+=======
+>>>>>>> algumas alterações
