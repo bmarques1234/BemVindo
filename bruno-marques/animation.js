@@ -2,6 +2,8 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -14,34 +16,44 @@ $(document).ready(function(){
 	$("#contact").click(function(){
 		$("#contactTitle>.content").stop().slideToggle("slow");
 	});
-	$("#sojaVideo").click(function(){
-		playSoja();
+	$("#playSoja").click(function(){
+		videoSoja.play();
+		$("#playSoja").hide();
+		$("#pauseSoja").show();
 	});
-	$("#manevaVideo").click(function(){
-		playManeva();
+	$("#pauseSoja").click(function(){
+		videoSoja.pause();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
 	});
-	$(".clickBorder").click(function(){
+	$("#replaySoja").click(function(){
+		videoSoja.load();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+	});
+	$("#playManeva").click(function(){
+		videoManeva.play();
+		$("#playManeva").hide();
+		$("#pauseManeva").show();
+	});
+	$("#pauseManeva").click(function(){
+		videoManeva.pause();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#replayManeva").click(function(){
+		videoManeva.load();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#clickBorder").click(function(){
 		$("#border").fadeToggle();
 		
 	});
-	$(".clickDivinit").click(function(){
+	$("#clickDivinit").click(function(){
 		$("#divinit").fadeToggle();
 		
 	});
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
-	function playSoja(){
-		if(videoSoja.paused){
-			videoSoja.play();
-			videoManeva.pause();
-		}
-		else videoSoja.pause();
-	}
-	function playManeva(){
-		if(videoManeva.paused){
-			videoManeva.play();
-			videoSoja.pause();
-		}
-		else videoManeva.pause();
-	}
 });
