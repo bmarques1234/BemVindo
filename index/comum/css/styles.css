@@ -1,5 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,300);
 html, body, div, a{margin:0; padding:0;}
-html, body{width:100%;}
+html, body{width:100%; font-family: 'Open Sans', sans-serif;}
 html,body{height:auto;}
 #menu{width:100%; height:50px; background:#FFF; overflow:hidden;}
 #menu .content-menu{width:780px; height:100%; margin:0 auto; padding-top:10px; text-align:center;}

@@ -27,5 +27,7 @@ $(document).ready(function(){
 		$('#header>img').delay(1000).animate({opacity:0.5},1500);
 		$('#header>img').delay(500).animate({opacity:1},1500);
 	},1500);
-
+	
+	
+	
 });
