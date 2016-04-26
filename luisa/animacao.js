@@ -1,3 +1,4 @@
+<<<<<<< 8eacf37b3fb3077f0ac00490999636fab9c14c1a
 <<<<<<< e2583ee537f92f4b0656eec008e8e3c012119cd5
 <<<<<<< 1180d59a88418b08cff3e039a8caea9deb484e8e
 <<<<<<< dcc36b43d877d7c4f99551c5c0e8a122c4b299d6
@@ -304,13 +305,19 @@ window.alert("Seja bem vindo(a).");
 window.alert("Seja bem vindo(a).");
 >>>>>>> algumas alterações
 	
+=======
+>>>>>>> sem barra de pesquisar
 $(document).ready(function(){
-		$(".fonteitalico").slideUp();
-		$("#flip").click(function(){
-			$("#flip>.fonteitalico").stop().slideToggle("slow");
-		});
+	
+	$(".fonteitalico").slideUp();
+	$("#flip").click(function(){
+		$("#flip>.fonteitalico").stop().slideToggle("slow");
 	});
+<<<<<<< 8eacf37b3fb3077f0ac00490999636fab9c14c1a
 <<<<<<< e2583ee537f92f4b0656eec008e8e3c012119cd5
 >>>>>>> com icone e animacao certo
 =======
 >>>>>>> algumas alterações
+=======
+});
+>>>>>>> sem barra de pesquisar
