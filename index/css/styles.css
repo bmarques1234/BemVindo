@@ -19,7 +19,20 @@ section #imagem > div.nomes{width:100%; height:100%; position:absolute; text-ali
 section #imagem > div.nomes > #content-integrantes {position:relative; height:230px; top:50%; margin-top:-115px;}
 section #imagem > div.nomes > #content-integrantes > div.integrantes{width:160px; margin:0 auto; margin-bottom:10px; text-align:center; background:#4DB920;}
 section #imagem > div.nomes > #content-integrantes > div.integrantes a{padding:10px 20px 10px 20px; line-height:30px; text-decoration:none; color:#FFF; font-weight:bold;}
- 
+
+section #imagem > .luisa{position:absolute; top:120px; left:-8px; width:155px; height:280px; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .luisa:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .geison{position:absolute; top:160px; left:255px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .geison:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .guinter{position:absolute; top:120px; left:385px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .guinter:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .valeria{position:absolute; top:220px; left:560px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .valeria:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .brunomarques{position:absolute; top:340px; left:265px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .brunomarques:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .brunoklein{position:absolute; top:350px; left:490px; width:100px; height:115px; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .brunoklein:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+
 footer{text-align:center;}
 footer p{margin:10px 0 10px 0;}
 footer p a{line-height:39px; margin:0; font-weight:bold; text-decoration:none; color:#4DB920;}
