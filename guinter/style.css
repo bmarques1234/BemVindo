@@ -2,7 +2,11 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	color:#4DB920;}
+=======
+	color:#4db81a;}
+>>>>>>> div content
 iframe
 	{width:100%; 
 	height:55px; 
@@ -10,10 +14,19 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	background-color:#ebebe0;}
 #content 
 	{width:780px;
 	margin:0 auto;}
+=======
+	}
+#content 
+	{background-color:#eaeae1;
+	width:780px;
+	margin:0 auto;}
+	}
+>>>>>>> div content
 #divfoto
 	{width:100%;		
 	text-align:center;}
@@ -21,6 +34,7 @@ body
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	{border-radius:2000px;
 	border:4px solid #4DB920;}
 #contato
@@ -34,18 +48,35 @@ body
 #DadosPessoais
 	{background-color:#e6ffcc;
 	font-family:verdana;
+=======
+	{border-radius:2000px;}
+#contato
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;}
+#DadosPessoais
+	{font-family:verdana;
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	border:3px solid #4DB920;}	
 #InformacoesAdicionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
+=======
+	border:3px solid black;}	
+#InformacoesAdicionais
+	{font-family:verdana;
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	border:3px solid #4DB920;}
 #DadosProfissionais
 	{background-color:#e6ffcc;
@@ -67,8 +98,31 @@ span.detalhessubtitulos
 	{font-weight:bold;
 	font-size:125%;
 	color:#4DB920;}
+=======
+	border:3px solid black;}
+#DadosProfissionais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	border:3px solid black;}
+#comeback 
+	{font-family:verdana;
+	font-size:125%;
+	text-align:center;
+	color:black;
+	line-height:50px;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	font-size:125%;
+	color:green;}
+>>>>>>> div content
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	color:#4DB920;}
+=======
+	color:green;}
+>>>>>>> div content
