@@ -1,3 +1,4 @@
+<<<<<<< 2819af00efa40b9301c17ba08fc550c3e915662f
 $(document).ready(function(){
 <<<<<<< 1eef6e9f461d653f890230669ad89b3f22c48db3
 <<<<<<< 3d0cdb58daea8d41e1555fada252deb702c89561
@@ -740,6 +741,9 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 >>>>>>> botao video e audio
 =======
+=======
+﻿$(document).ready(function(){
+>>>>>>> ajuste iframe
     var videoSoja=document.getElementById("soja");
     var videoManeva=document.getElementById("maneva");
     $("video").fadeOut();
@@ -811,5 +815,4 @@ $(document).ready(function(){
         $("#hideDivinity").show();
         $("#showDivinity").hide();
     });
->>>>>>> barra menu
 });
