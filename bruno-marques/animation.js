@@ -67,6 +67,7 @@ $(document).ready(function(){
 =======
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
+<<<<<<< 6673c9f703a867cc8346047eb26dc52f1d12b14e
 <<<<<<< ca66303b5047eb7e6a159a3345542bbbfff24f0a
 <<<<<<< 86da4620c054afafe3f47f5b8cfba91e49785ae7
 >>>>>>> botoes play
@@ -122,7 +123,14 @@ $(document).ready(function(){
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 >>>>>>> botoes play
+=======
+<<<<<<< b8fb56975c344690ffb535a0021682d1c0a846a7
+>>>>>>> botao video e audio
 >>>>>>> botoes play
+=======
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+>>>>>>> botao video e audio
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -469,16 +477,34 @@ $(document).ready(function(){
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
 	});
-	$("#clickBorder").click(function(){
-		$("#border").fadeToggle();
-		
+	$("#hideBorder").click(function(){
+		$("#border").fadeIn();
+		$("#hideBorder").hide();
+		$("#showBorder").show();
 	});
-	$("#clickDivinit").click(function(){
-		$("#divinit").fadeToggle();
-		
+	$("#showBorder").click(function(){
+		$("#border").fadeOut();
+		$("#hideBorder").show();
+		$("#showBorder").hide();
 	});
+	$("#hideDivinity").click(function(){
+		$("#divinit").fadeIn();
+		$("#hideDivinity").hide();
+		$("#showDivinity").show();
+	});
+	$("#showDivinity").click(function(){
+		$("#divinit").fadeOut();
+		$("#hideDivinity").show();
+		$("#showDivinity").hide();
+	});
+<<<<<<< b8fb56975c344690ffb535a0021682d1c0a846a7
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
 >>>>>>> botoes play
+<<<<<<< 6673c9f703a867cc8346047eb26dc52f1d12b14e
 >>>>>>> botoes play
+=======
+=======
+>>>>>>> botao video e audio
+>>>>>>> botao video e audio
 });
