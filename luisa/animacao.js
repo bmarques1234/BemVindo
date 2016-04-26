@@ -1,3 +1,4 @@
+<<<<<<< 8b0a0164ad15378d922ce0b9515ad6e8e468dcfb
 <<<<<<< 63d22ff3ec6c490a9b8a99ec9b024095df81ec6e
 <<<<<<< 928fcd6c1f7b4f248ce44d3165c43811130eeb5f
 <<<<<<< 1efe27a1eaa2114bea3d64469673ce56ca8a153b
@@ -70,6 +71,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< bc92570b2b4de9f5db0dbb69ad545605506808a7
+>>>>>>> sem barra de pesquisar
 <<<<<<< 928ae02190294aa5601350610401297767b44aae
 >>>>>>> sem barra pesquisar
 <<<<<<< 092483e8aa5289a79c4c0c386a48fc59c6d65aa3
@@ -93,7 +97,13 @@
 <<<<<<< a2c121f5dd80ae0902d243d64597db69597f670e
 >>>>>>> sem barra de pesquisar
 <<<<<<< f6aeb16d50f1c67f1049144afc1c0ff2242ee31e
+<<<<<<< 8b0a0164ad15378d922ce0b9515ad6e8e468dcfb
 >>>>>>> algumas alterações
+=======
+=======
+<<<<<<< e4fefd2420f92f7fa75963fe1ba1804963c3a5f9
+>>>>>>> sem barra de pesquisar
+>>>>>>> sem barra de pesquisar
 
 <<<<<<< 3b9503a42d88edd9373a5978a50bc267336dc738
 <<<<<<< 3b4b7bc590f1a6c540ba62d9667e2032e63a1988
@@ -546,10 +556,16 @@ $(document).ready(function(){
 
 window.alert("Seja bem vindo(a).");*/
 	
+=======
+>>>>>>> sem barra de pesquisar
 $(document).ready(function(){
-		$(".fonteitalico").slideUp();
-		$("#flip").click(function(){
-			$("#flip>.fonteitalico").stop().slideToggle("slow");
-		});
+	
+	$(".fonteitalico").slideUp();
+	$("#flip").click(function(){
+		$("#flip>.fonteitalico").stop().slideToggle("slow");
 	});
+<<<<<<< bc92570b2b4de9f5db0dbb69ad545605506808a7
 >>>>>>> algumas alterações
+=======
+});
+>>>>>>> sem barra de pesquisar
