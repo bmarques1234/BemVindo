@@ -5,6 +5,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
 <<<<<<< 43e43532c542cb7251ae8e14650881083721ac96
 <<<<<<< 97a0ad70b906c6f11cf065fd5e83055cc68dc066
 <<<<<<< 4eb8b082388e71c9847158cfce3f90610f0d5213
@@ -90,6 +91,10 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 >>>>>>> ajuste videos
+=======
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
+>>>>>>> botoes play
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -116,9 +121,12 @@ $(document).ready(function(){
 		videoSoja.load();
 		$("#pauseSoja").hide();
 		$("#playSoja").show();
+<<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
 <<<<<<< 7bbe8e47af24302a546572a3a4cd1dad1c341db6
 <<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
 <<<<<<< 84107c4896c5dbffb83b39bbc43a562ede14d879
+=======
+>>>>>>> botoes play
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
@@ -135,6 +143,7 @@ $(document).ready(function(){
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
 	});
+<<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
 	$("#hideBorder").click(function(){
 		$("#border").fadeIn();
 		$("#hideBorder").hide();
@@ -294,10 +303,20 @@ $(document).ready(function(){
 		$("#divinit").fadeOut();
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
+=======
+	$("#clickBorder").click(function(){
+		$("#border").fadeToggle();
+		
+	});
+	$("#clickDivinit").click(function(){
+		$("#divinit").fadeToggle();
+		
+>>>>>>> botoes play
 	});
 <<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
+<<<<<<< 22973c397e32a1409276f1b9a2185bfd6943b8be
 >>>>>>> botoes play
 <<<<<<< 9a3c904bc9cd5f3e6a79adf8eac2532fb3344744
 >>>>>>> botoes play
@@ -378,4 +397,6 @@ $(document).ready(function(){
         $("#showDivinity").hide();
     });
 >>>>>>> barra menu
+=======
+>>>>>>> botoes play
 });
