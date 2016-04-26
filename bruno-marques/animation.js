@@ -15,7 +15,12 @@ $(document).ready(function(){
 =======
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
+<<<<<<< b8fb56975c344690ffb535a0021682d1c0a846a7
 >>>>>>> botoes play
+=======
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+>>>>>>> botao video e audio
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -96,15 +101,30 @@ $(document).ready(function(){
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
 	});
-	$("#clickBorder").click(function(){
-		$("#border").fadeToggle();
-		
+	$("#hideBorder").click(function(){
+		$("#border").fadeIn();
+		$("#hideBorder").hide();
+		$("#showBorder").show();
 	});
-	$("#clickDivinit").click(function(){
-		$("#divinit").fadeToggle();
-		
+	$("#showBorder").click(function(){
+		$("#border").fadeOut();
+		$("#hideBorder").show();
+		$("#showBorder").hide();
 	});
+	$("#hideDivinity").click(function(){
+		$("#divinit").fadeIn();
+		$("#hideDivinity").hide();
+		$("#showDivinity").show();
+	});
+	$("#showDivinity").click(function(){
+		$("#divinit").fadeOut();
+		$("#hideDivinity").show();
+		$("#showDivinity").hide();
+	});
+<<<<<<< b8fb56975c344690ffb535a0021682d1c0a846a7
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
 >>>>>>> botoes play
+=======
+>>>>>>> botao video e audio
 });
