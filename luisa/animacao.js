@@ -1,3 +1,4 @@
+<<<<<<< 3c5e2767d0174fb7828afe1956b4f02c1329edec
 <<<<<<< 8b0a0164ad15378d922ce0b9515ad6e8e468dcfb
 <<<<<<< 63d22ff3ec6c490a9b8a99ec9b024095df81ec6e
 <<<<<<< 928fcd6c1f7b4f248ce44d3165c43811130eeb5f
@@ -72,6 +73,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< 6bfd83754b0bd03de38c7e3396d2a9d28a6dafc1
+>>>>>>> sem barra pesquisar
 <<<<<<< bc92570b2b4de9f5db0dbb69ad545605506808a7
 >>>>>>> sem barra de pesquisar
 <<<<<<< 928ae02190294aa5601350610401297767b44aae
@@ -101,6 +105,9 @@
 >>>>>>> algumas alterações
 =======
 =======
+=======
+<<<<<<< 0b929c57932294c131dc469d03aa55de6d52c912
+>>>>>>> sem barra pesquisar
 <<<<<<< e4fefd2420f92f7fa75963fe1ba1804963c3a5f9
 >>>>>>> sem barra de pesquisar
 >>>>>>> sem barra de pesquisar
@@ -558,14 +565,23 @@ window.alert("Seja bem vindo(a).");*/
 	
 =======
 >>>>>>> sem barra de pesquisar
+=======
+
+	
+>>>>>>> sem barra pesquisar
 $(document).ready(function(){
 	
-	$(".fonteitalico").slideUp();
-	$("#flip").click(function(){
-		$("#flip>.fonteitalico").stop().slideToggle("slow");
+	function inicio(){
+		$("#menu").hide();
+		$("#menu").fadeIn("slow");
 	});
+<<<<<<< 6bfd83754b0bd03de38c7e3396d2a9d28a6dafc1
 <<<<<<< bc92570b2b4de9f5db0dbb69ad545605506808a7
 >>>>>>> algumas alterações
 =======
 });
 >>>>>>> sem barra de pesquisar
+=======
+
+	inicio();}
+>>>>>>> sem barra pesquisar
