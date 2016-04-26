@@ -1,3 +1,4 @@
+<<<<<<< 1126eadf80afe38499b31b1fbf941b9705aad711
 <<<<<<< 0b929c57932294c131dc469d03aa55de6d52c912
 <<<<<<< e4fefd2420f92f7fa75963fe1ba1804963c3a5f9
 
@@ -31,6 +32,8 @@ $(document).ready(function(){
 
 	inicio();}*/
 	
+=======
+>>>>>>> algumas alterações
 window.alert("Seja bem vindo(a).");
 	
 $(document).ready(function(){
