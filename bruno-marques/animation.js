@@ -282,6 +282,7 @@ $(document).ready(function(){
 >>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
+<<<<<<< 50f49cda0693ddf0aba4631cecf50590b1bd71b7
 >>>>>>> botoes play
 =======
 <<<<<<< 5f4b5e7dc3274e61ab707152404cd72e096cc79a
@@ -305,6 +306,12 @@ $(document).ready(function(){
 <<<<<<< 7e503c49a83ca0a217bc3cf0ccd542f375b27172
 >>>>>>> botao video e audio
 =======
+=======
+<<<<<<< 15ea8ce934e1bb78b823e5fae6181f87266d9f49
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+<<<<<<< 03b3ebae205893be2b4a84863d9d69956ea5264a
+>>>>>>> botoes play
 <<<<<<< 02eeaad02688f25b3047bfe077efef040ab0c085
 >>>>>>> ajuste videos
 =======
@@ -369,6 +376,10 @@ $(document).ready(function(){
 >>>>>>> pull
 =======
 >>>>>>> ajuste videos
+=======
+=======
+>>>>>>> botoes play
+>>>>>>> botoes play
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -395,6 +406,7 @@ $(document).ready(function(){
 		videoSoja.load();
 		$("#pauseSoja").hide();
 		$("#playSoja").show();
+<<<<<<< 50f49cda0693ddf0aba4631cecf50590b1bd71b7
 <<<<<<< 5563c67e0db263ed80bec7a1f807e250a07b9ba5
 <<<<<<< a7b313a7947c2386fe4337f7929fdb25d6da06e2
 <<<<<<< e2f7c4616494e57b75285c33344cf3d46ae7de98
@@ -411,6 +423,9 @@ $(document).ready(function(){
 >>>>>>> botoes play
 =======
 =======
+=======
+<<<<<<< 7bbe8e47af24302a546572a3a4cd1dad1c341db6
+>>>>>>> botoes play
 <<<<<<< 57445bcba5ed89b51f89f90ac7739877acebc094
 >>>>>>> botoes play
 <<<<<<< 84107c4896c5dbffb83b39bbc43a562ede14d879
@@ -522,6 +537,7 @@ $(document).ready(function(){
 =======
 <<<<<<< 15ea8ce934e1bb78b823e5fae6181f87266d9f49
 >>>>>>> botoes play
+<<<<<<< 50f49cda0693ddf0aba4631cecf50590b1bd71b7
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
@@ -1009,6 +1025,8 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 =======
+=======
+>>>>>>> botoes play
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
@@ -1045,6 +1063,7 @@ $(document).ready(function(){
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
 	});
+<<<<<<< 03b3ebae205893be2b4a84863d9d69956ea5264a
 <<<<<<< 5f4b5e7dc3274e61ab707152404cd72e096cc79a
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
@@ -1055,4 +1074,34 @@ $(document).ready(function(){
 =======
 >>>>>>> botao video e audio
 >>>>>>> botao video e audio
+=======
+=======
+	});
+	$("#playManeva").click(function(){
+		videoManeva.play();
+		$("#playManeva").hide();
+		$("#pauseManeva").show();
+	});
+	$("#pauseManeva").click(function(){
+		videoManeva.pause();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#replayManeva").click(function(){
+		videoManeva.load();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#clickBorder").click(function(){
+		$("#border").fadeToggle();
+		
+	});
+	$("#clickDivinit").click(function(){
+		$("#divinit").fadeToggle();
+		
+	});
+	var videoSoja=document.getElementById("soja");
+	var videoManeva=document.getElementById("maneva");
+>>>>>>> botoes play
+>>>>>>> botoes play
 });
