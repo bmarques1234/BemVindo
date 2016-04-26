@@ -1,3 +1,4 @@
+<<<<<<< dd404378605b49a16050516fc99b4a8b5823c918
 <<<<<<< 8a8e5c067ecf8275337f89668af207939c537f4f
 <<<<<<< 1126eadf80afe38499b31b1fbf941b9705aad711
 <<<<<<< 0b929c57932294c131dc469d03aa55de6d52c912
@@ -39,10 +40,15 @@ window.alert("Seja bem vindo(a).");
 	
 =======
 >>>>>>> sem barra de pesquisar
+=======
+
+	
+>>>>>>> sem barra pesquisar
 $(document).ready(function(){
 	
-	$(".fonteitalico").slideUp();
-	$("#flip").click(function(){
-		$("#flip>.fonteitalico").stop().slideToggle("slow");
+	function inicio(){
+		$("#menu").hide();
+		$("#menu").fadeIn("slow");
 	});
-});
+
+	inicio();}
