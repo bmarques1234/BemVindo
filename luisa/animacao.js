@@ -1,3 +1,4 @@
+<<<<<<< 7abd34059efc67d968b6364f5c6646822a64174f
 <<<<<<< 60e5e79bc1c07ec444c35d3160a8751c9683b1a3
 <<<<<<< 71df045b7428dbe6c04fab6c7dd1e192ee165cc3
 <<<<<<< 3c5e2767d0174fb7828afe1956b4f02c1329edec
@@ -78,6 +79,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< e7ccf12e2c895ca809e8f670977685705743ab70
+>>>>>>> sem barra pesquisar
 <<<<<<< 3d2851df18124a62730a90a4f729d17ea9f55026
 >>>>>>> sem barra de pesquisar
 <<<<<<< 835812017ed2f53c003a863bd641a088d6990fcf
@@ -116,6 +120,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< dd404378605b49a16050516fc99b4a8b5823c918
+>>>>>>> sem barra pesquisar
 <<<<<<< 8a8e5c067ecf8275337f89668af207939c537f4f
 >>>>>>> sem barra de pesquisar
 <<<<<<< 1126eadf80afe38499b31b1fbf941b9705aad711
@@ -613,14 +620,23 @@ window.alert("Seja bem vindo(a).");
 	
 =======
 >>>>>>> sem barra de pesquisar
+=======
+
+	
+>>>>>>> sem barra pesquisar
 $(document).ready(function(){
 	
-	$(".fonteitalico").slideUp();
-	$("#flip").click(function(){
-		$("#flip>.fonteitalico").stop().slideToggle("slow");
+	function inicio(){
+		$("#menu").hide();
+		$("#menu").fadeIn("slow");
 	});
+<<<<<<< e7ccf12e2c895ca809e8f670977685705743ab70
 <<<<<<< 3d2851df18124a62730a90a4f729d17ea9f55026
 >>>>>>> com icone e animacao certo
 =======
 });
 >>>>>>> sem barra de pesquisar
+=======
+
+	inicio();}
+>>>>>>> sem barra pesquisar
