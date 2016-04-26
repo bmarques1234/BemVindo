@@ -3,7 +3,10 @@ iframe{width:100%; height:55px; border:none; background:#FFF;}
 body{
 	background-image: url("img/background.jpg");
 	background-attachment: fixed;
+<<<<<<< 488385556a52eade65ba729d10e930e617dfd58a
 	margin:0px;
+=======
+>>>>>>> barra menu
 }
 .info{
 	border-radius:20px;

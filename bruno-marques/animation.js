@@ -1,5 +1,6 @@
 <<<<<<< 824002d51dffec558a565f4c45dd9f7aaab51101
 $(document).ready(function(){
+<<<<<<< 488385556a52eade65ba729d10e930e617dfd58a
 <<<<<<< e6121641720c3541d4292a26e33990672cd1c9c5
 <<<<<<< 78bb24e567e812082fe05e3e31db289929bdf649
 <<<<<<< 46170c1aa70248ecfe5b1d7bf282b9453d51b415
@@ -11,6 +12,9 @@ $(document).ready(function(){
 >>>>>>> barra menu
 =======
 >>>>>>> botao video e audio
+=======
+<<<<<<< cb92b84a83038230adcb96981d057223c84a5b3f
+>>>>>>> barra menu
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
 	$("video").fadeOut();
@@ -1130,4 +1134,77 @@ $(document).ready(function(){
 =======
 >>>>>>> botao video e audio
 >>>>>>> botao video e audio
+=======
+    var videoSoja=document.getElementById("soja");
+    var videoManeva=document.getElementById("maneva");
+    $("video").fadeOut();
+    $(".content").hide();
+    $(".content").slideUp();
+    $("#pauseSoja").hide();
+    $("#pauseManeva").hide();
+    $("#showBorder").hide();
+    $("#showDivinity").hide();
+    $("#personal").click(function(){
+        $("#personalTitle>.content").stop().slideToggle("slow");
+    });
+    $("#professional").click(function(){
+        $("#professionalTitle>.content").stop().slideToggle("slow");
+    });
+    $("#hobby").click(function(){
+        $("#hobbyTitle>.content").stop().slideToggle("slow");
+    });
+    $("#contact").click(function(){
+        $("#contactTitle>.content").stop().slideToggle("slow");
+    });
+    $("#playSoja").click(function(){
+        videoSoja.play();
+        $("#playSoja").hide();
+        $("#pauseSoja").show();
+    });
+    $("#pauseSoja").click(function(){
+        videoSoja.pause();
+        $("#pauseSoja").hide();
+        $("#playSoja").show();
+    });
+    $("#replaySoja").click(function(){
+        videoSoja.load();
+        $("#pauseSoja").hide();
+        $("#playSoja").show();
+    });
+    $("#playManeva").click(function(){
+        videoManeva.play();
+        $("#playManeva").hide();
+        $("#pauseManeva").show();
+    });
+    $("#pauseManeva").click(function(){
+        videoManeva.pause();
+        $("#pauseManeva").hide();
+        $("#playManeva").show();
+    });
+    $("#replayManeva").click(function(){
+        videoManeva.load();
+        $("#pauseManeva").hide();
+        $("#playManeva").show();
+    });
+    $("#hideBorder").click(function(){
+        $("#border").fadeIn();
+        $("#hideBorder").hide();
+        $("#showBorder").show();
+    });
+    $("#showBorder").click(function(){
+        $("#border").fadeOut();
+        $("#hideBorder").show();
+        $("#showBorder").hide();
+    });
+    $("#hideDivinity").click(function(){
+        $("#divinit").fadeIn();
+        $("#hideDivinity").hide();
+        $("#showDivinity").show();
+    });
+    $("#showDivinity").click(function(){
+        $("#divinit").fadeOut();
+        $("#hideDivinity").show();
+        $("#showDivinity").hide();
+    });
+>>>>>>> barra menu
 });
