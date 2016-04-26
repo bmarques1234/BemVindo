@@ -1,4 +1,4 @@
-﻿$(document).ready(function(){
+$(document).ready(function(){
     var videoSoja=document.getElementById("soja");
     var videoManeva=document.getElementById("maneva");
     $("video").fadeOut();
@@ -49,7 +49,7 @@
         videoManeva.load();
         $("#pauseManeva").hide();
         $("#playManeva").show();
-    });
+    });	
     $("#hideBorder").click(function(){
         $("#border").fadeIn();
         $("#hideBorder").hide();
