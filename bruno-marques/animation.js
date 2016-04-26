@@ -1,5 +1,6 @@
 <<<<<<< 824002d51dffec558a565f4c45dd9f7aaab51101
 $(document).ready(function(){
+<<<<<<< e6121641720c3541d4292a26e33990672cd1c9c5
 <<<<<<< 78bb24e567e812082fe05e3e31db289929bdf649
 <<<<<<< 46170c1aa70248ecfe5b1d7bf282b9453d51b415
 <<<<<<< 597b8b00780b6d92fc6fdf490ff0d2508d2592d9
@@ -8,6 +9,8 @@ $(document).ready(function(){
 =======
 <<<<<<< 593ea16283392cea10c9ff26020fcf109fa386d7
 >>>>>>> barra menu
+=======
+>>>>>>> botao video e audio
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
 	$("video").fadeOut();
@@ -203,6 +206,7 @@ $(document).ready(function(){
 =======
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
+<<<<<<< e6121641720c3541d4292a26e33990672cd1c9c5
 <<<<<<< 4f7f0f4d44aff47f6b639b6cb51c4d3608328ed2
 >>>>>>> botoes play
 =======
@@ -249,6 +253,10 @@ $(document).ready(function(){
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 >>>>>>> botoes play
+=======
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+>>>>>>> botao video e audio
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -410,6 +418,7 @@ $(document).ready(function(){
 		$("#border").fadeIn();
 		$("#hideBorder").hide();
 		$("#showBorder").show();
+<<<<<<< e6121641720c3541d4292a26e33990672cd1c9c5
 	});
 	$("#showBorder").click(function(){
 		$("#border").fadeOut();
@@ -733,6 +742,9 @@ $(document).ready(function(){
 		$("#hideBorder").hide();
 		$("#showBorder").show();
 	});
+=======
+	});
+>>>>>>> botao video e audio
 	$("#showBorder").click(function(){
 		$("#border").fadeOut();
 		$("#hideBorder").show();
@@ -748,6 +760,7 @@ $(document).ready(function(){
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
 	});
+<<<<<<< e6121641720c3541d4292a26e33990672cd1c9c5
 <<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
@@ -840,4 +853,6 @@ $(document).ready(function(){
     });
 =======
 >>>>>>> botoes play
+=======
+>>>>>>> botao video e audio
 });
