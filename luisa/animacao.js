@@ -11,6 +11,7 @@
 <<<<<<< 902bb323ebaf9599b7c0b8c939d2f72d04d24c84
 <<<<<<< 204a004f8f92889d594f6d864591d7d5a1a6f4b2
 
+<<<<<<< 3b4b7bc590f1a6c540ba62d9667e2032e63a1988
 	
 /*$(document).ready(function(){
 <<<<<<< e0a8daffe405c42d9886e1613c1119c3d2bd13d7
@@ -133,6 +134,9 @@ window.alert("Seja bem vindo(a).");
 	
 >>>>>>> sem barra pesquisar
 $(document).ready(function(){
+=======
+/*$(document).ready(function(){
+>>>>>>> algumas alterações
 	
 	function inicio(){
 		$("#menu").hide();
@@ -150,4 +154,16 @@ $(document).ready(function(){
 =======
 
 	inicio();}
+<<<<<<< 3b4b7bc590f1a6c540ba62d9667e2032e63a1988
 >>>>>>> sem barra pesquisar
+=======
+
+window.alert("Seja bem vindo(a).");*/
+	
+$(document).ready(function(){
+		$(".fonteitalico").slideUp();
+		$("#flip").click(function(){
+			$("#flip>.fonteitalico").stop().slideToggle("slow");
+		});
+	});
+>>>>>>> algumas alterações
