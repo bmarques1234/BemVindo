@@ -13,6 +13,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< e2f7c4616494e57b75285c33344cf3d46ae7de98
 <<<<<<< d5094f94f7b84a18f91f99bab964cf6dedd026ed
 <<<<<<< d5487f4f704b540bdc69efb5a17a55649d65dcc8
 <<<<<<< 4825af9f0e66b361b75357bae73e6fe0d4221c3e
@@ -244,6 +245,10 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 >>>>>>> ajuste videos
+=======
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
+>>>>>>> botoes play
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -270,6 +275,7 @@ $(document).ready(function(){
 		videoSoja.load();
 		$("#pauseSoja").hide();
 		$("#playSoja").show();
+<<<<<<< e2f7c4616494e57b75285c33344cf3d46ae7de98
 <<<<<<< 4d62236d2ae18126b47904567b7939c73bb2ff83
 <<<<<<< 1d156d137aec51b84ee99cb02d3e8dd45b911dbd
 <<<<<<< 9d91ea78995d5cdc8ef743b774ec6c32dd59f987
@@ -277,6 +283,8 @@ $(document).ready(function(){
 <<<<<<< 8443819509602a5b1ce2a7ebb06534bb5c37dcd5
 <<<<<<< 447dbe9a02cd8cd1790aa92a64164cc67d9cc708
 <<<<<<< f56023b243ff363b8b9435a639dc43f65fb1f2af
+=======
+>>>>>>> botoes play
 =======
 >>>>>>> botoes play
 	});
@@ -295,6 +303,7 @@ $(document).ready(function(){
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
 	});
+<<<<<<< e2f7c4616494e57b75285c33344cf3d46ae7de98
 <<<<<<< 3bf43a72cfa6943a3c49b0344fa4d8506732e48c
 	$("#hideBorder").click(function(){
 		$("#border").fadeIn();
@@ -466,6 +475,8 @@ $(document).ready(function(){
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
 =======
+=======
+>>>>>>> botoes play
 	$("#clickBorder").click(function(){
 		$("#border").fadeToggle();
 		
@@ -740,6 +751,7 @@ $(document).ready(function(){
 <<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
+<<<<<<< e2f7c4616494e57b75285c33344cf3d46ae7de98
 >>>>>>> botoes play
 <<<<<<< 9a3c904bc9cd5f3e6a79adf8eac2532fb3344744
 >>>>>>> botoes play
@@ -826,4 +838,6 @@ $(document).ready(function(){
         $("#hideDivinity").show();
         $("#showDivinity").hide();
     });
+=======
+>>>>>>> botoes play
 });
