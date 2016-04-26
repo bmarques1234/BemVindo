@@ -27,6 +27,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< faa7ed3c1397ac5cb633f00915913ebe1d42d387
 <<<<<<< 15822305da5df763bbfce24836b5aff7b96e3653
 <<<<<<< e8c90163b1f5afd7ddb76ceca1ab57a8ce443bd1
 <<<<<<< 4597a3fb4ed4a739192fe7b25c2bf5db71358732
@@ -109,6 +110,9 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< 73ba30152da0281ad6494e028c8edd627c1d823d
+>>>>>>> pull
 <<<<<<< 95b05417e10c0ca95316deb8a9d40681b6d32747
 >>>>>>> botoes play
 <<<<<<< 6971f919895b614cb17eaad326484bbab762b752
@@ -320,6 +324,9 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< fa8f6aaae432239b34af4e6098a41d00be3f2c71
+>>>>>>> pull
 <<<<<<< b5ef8a5199984e4b204348c65e04b1c51791ce19
 >>>>>>> botoes play
 <<<<<<< 1df10c35c29195582f3ee1feaa3c9627789cbd89
@@ -446,11 +453,23 @@ $(document).ready(function(){
 =======
 =======
 =======
+=======
+<<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
+>>>>>>> pull
 <<<<<<< c228c476b3280e43e2cbe534cef6fbdf98445857
 >>>>>>> botoes play
 <<<<<<< 97cf5bf39550d41552f179a3f6d5c10037de03c7
+<<<<<<< fa8f6aaae432239b34af4e6098a41d00be3f2c71
 >>>>>>> ajuste videos
+<<<<<<< 73ba30152da0281ad6494e028c8edd627c1d823d
 >>>>>>> ajuste videos
+=======
+=======
+=======
+<<<<<<< 32de96967b9fe3db6b0baa38859c4424a5352d39
+>>>>>>> pull
+>>>>>>> pull
+>>>>>>> pull
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
 <<<<<<< 3d0cdb58daea8d41e1555fada252deb702c89561
@@ -462,11 +481,20 @@ $(document).ready(function(){
 =======
 =======
 >>>>>>> ajuste videos
+<<<<<<< 73ba30152da0281ad6494e028c8edd627c1d823d
 <<<<<<< 6a006fc4fe3a04cec812a3df8764f9f417f884bd
 >>>>>>> ajuste videos
 <<<<<<< b5ef8a5199984e4b204348c65e04b1c51791ce19
 <<<<<<< 1df10c35c29195582f3ee1feaa3c9627789cbd89
 =======
+=======
+<<<<<<< fa8f6aaae432239b34af4e6098a41d00be3f2c71
+<<<<<<< b5ef8a5199984e4b204348c65e04b1c51791ce19
+<<<<<<< 1df10c35c29195582f3ee1feaa3c9627789cbd89
+=======
+<<<<<<< 41a43b6e5243fa32269157b53ee4a6500149ae25
+>>>>>>> pull
+>>>>>>> pull
 =======
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
@@ -498,6 +526,8 @@ $(document).ready(function(){
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
 >>>>>>> botao video e audio
+=======
+>>>>>>> pull
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
