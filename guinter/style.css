@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 <<<<<<< 9243e785f1f8088762bd688c756eda9154b06483
 <<<<<<< 1989dc2e6b42eb75a66d52b5d4fc881397f666fe
 <<<<<<< db23d58b0990328962efed18643df3b8131211fb
@@ -17,10 +18,14 @@ h1
 >>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 1b5f7f7def10ec1f6f5e3da3788bdb8e8860c9bd
 >>>>>>> div content
+=======
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
+>>>>>>> div content
 	color:#4DB920;}
 =======
 	color:#4db81a;}
 >>>>>>> div content
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 <<<<<<< a15b665091fa9f66dc41c7e249abcbdb99c1cc28
 <<<<<<< e274161972e9878282a3eb581f6e9fb2ad223ed4
 =======
@@ -48,6 +53,8 @@ h1
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+=======
+>>>>>>> div content
 iframe
 	{width:100%; 
 	height:55px; 
@@ -55,6 +62,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 <<<<<<< 9243e785f1f8088762bd688c756eda9154b06483
 <<<<<<< 1989dc2e6b42eb75a66d52b5d4fc881397f666fe
 <<<<<<< db23d58b0990328962efed18643df3b8131211fb
@@ -234,11 +242,22 @@ body
 =======
 	}
 =======
+=======
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
+>>>>>>> div content
 	background-color:#ebebe0;}
 >>>>>>> alteração de pastas e cores do fundo
 #content 
 	{width:780px;
 	margin:0 auto;}
+=======
+	}
+#content 
+	{background-color:#eaeae1;
+	width:780px;
+	margin:0 auto;}
+	}
+>>>>>>> div content
 #divfoto
 	{width:100%;		
 	text-align:center;}
@@ -246,6 +265,7 @@ body
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	{border-radius:2000px;
 	border:4px solid #4DB920;}
 #contato
@@ -263,11 +283,25 @@ body
 =======
 	{background-color:#e6ffcc;
 	font-family:verdana;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 >>>>>>> alteração de pastas e cores do fundo
+=======
+=======
+	{border-radius:2000px;}
+#contato
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;}
+#DadosPessoais
+	{font-family:verdana;
+>>>>>>> div content
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 <<<<<<< 9243e785f1f8088762bd688c756eda9154b06483
 <<<<<<< 1989dc2e6b42eb75a66d52b5d4fc881397f666fe
 <<<<<<< db23d58b0990328962efed18643df3b8131211fb
@@ -311,10 +345,14 @@ body
 =======
 >>>>>>> alteração de pastas e cores do fundo
 =======
+=======
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
+>>>>>>> div content
 	border:3px solid #4DB920;}	
 #InformacoesAdicionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 >>>>>>> alteração de pastas e cores do fundo
 <<<<<<< a15b665091fa9f66dc41c7e249abcbdb99c1cc28
 =======
@@ -328,20 +366,26 @@ body
 	font-family:verdana;
 >>>>>>> alteraçao cores, de novo
 =======
+>>>>>>> div content
+=======
 	border:3px solid black;}	
 #InformacoesAdicionais
 	{font-family:verdana;
 >>>>>>> div content
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 =======
 	border:3px solid #4DB920;}	
 #InformacoesAdicionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteração de pastas e cores do fundo
+=======
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 <<<<<<< 9243e785f1f8088762bd688c756eda9154b06483
 <<<<<<< 1989dc2e6b42eb75a66d52b5d4fc881397f666fe
 <<<<<<< db23d58b0990328962efed18643df3b8131211fb
@@ -414,6 +458,9 @@ span.detalhessubtitulos
 =======
 =======
 >>>>>>> alteraçao cores, de novo
+=======
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
+>>>>>>> div content
 	border:3px solid #4DB920;}
 #DadosProfissionais
 	{background-color:#e6ffcc;
@@ -440,6 +487,7 @@ span.detalhessubtitulos
 >>>>>>> div content
 =======
 	color:#4DB920;}
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 >>>>>>> alteração de pastas e cores do fundo
 =======
 =======
@@ -509,10 +557,32 @@ span.detalhessubtitulos
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+=======
+=======
+	border:3px solid black;}
+#DadosProfissionais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	border:3px solid black;}
+#comeback 
+	{font-family:verdana;
+	font-size:125%;
+	text-align:center;
+	color:black;
+	line-height:50px;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	font-size:125%;
+	color:green;}
+>>>>>>> div content
+>>>>>>> div content
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< 69783152624dad252569ed817d0c04c10aa1a0e2
 <<<<<<< 9243e785f1f8088762bd688c756eda9154b06483
 <<<<<<< 1989dc2e6b42eb75a66d52b5d4fc881397f666fe
 <<<<<<< db23d58b0990328962efed18643df3b8131211fb
@@ -556,3 +626,10 @@ span.detalhesfrases
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+=======
+<<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
+	color:#4DB920;}
+=======
+	color:green;}
+>>>>>>> div content
+>>>>>>> div content
