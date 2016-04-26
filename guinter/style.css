@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< 488c928b5795715f31458f06199301bb7d2d5759
 <<<<<<< beae963f51f61b811f451562f4a994b886e8a30f
 <<<<<<< 9b3ac9e8fa67aa2966dd0ee9d0b0c6c2c846f228
 <<<<<<< cd89b74223c91b77238fd7810114357a360a5f2e
@@ -63,6 +64,9 @@ h1
 =======
 =======
 =======
+=======
+<<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
+>>>>>>> div content
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 >>>>>>> alteraçao cores, de novo
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
@@ -1344,6 +1348,9 @@ span.detalhesfrases
 =======
 	color:#4DB920;}
 >>>>>>> alteraçao cores, de novo
+=======
+	color:#4db81a;}
+>>>>>>> div content
 iframe
 	{width:100%; 
 	height:55px; 
@@ -1351,6 +1358,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
@@ -1528,10 +1536,34 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteraçao cores, de novo
+=======
+	}
+#content 
+	{background-color:#eaeae1;
+	width:780px;
+	margin:0 auto;}
+	}
+#divfoto
+	{width:100%;		
+	text-align:center;}
+#foto
+	{text-align:center;
+	width:100%;}
+#imagem 
+	{border-radius:2000px;}
+#contato
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;}
+#DadosPessoais
+	{font-family:verdana;
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
@@ -1589,10 +1621,16 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteraçao cores, de novo
+=======
+	border:3px solid black;}	
+#InformacoesAdicionais
+	{font-family:verdana;
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
@@ -1728,10 +1766,30 @@ span.detalhessubtitulos
 =======
 	color:#4DB920;}
 >>>>>>> alteraçao cores, de novo
+=======
+	border:3px solid black;}
+#DadosProfissionais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	border:3px solid black;}
+#comeback 
+	{font-family:verdana;
+	font-size:125%;
+	text-align:center;
+	color:black;
+	line-height:50px;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	font-size:125%;
+	color:green;}
+>>>>>>> div content
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< 488c928b5795715f31458f06199301bb7d2d5759
 <<<<<<< beae963f51f61b811f451562f4a994b886e8a30f
 <<<<<<< 9b3ac9e8fa67aa2966dd0ee9d0b0c6c2c846f228
 <<<<<<< cd89b74223c91b77238fd7810114357a360a5f2e
@@ -1752,6 +1810,9 @@ span.detalhesfrases
 =======
 =======
 =======
+=======
+<<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
+>>>>>>> div content
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 >>>>>>> alteraçao cores, de novo
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
@@ -1812,3 +1873,6 @@ span.detalhesfrases
 =======
 	color:#4DB920;}
 >>>>>>> alteraçao cores, de novo
+=======
+	color:green;}
+>>>>>>> div content
