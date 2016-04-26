@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< e9dea3b6c1934ad5d139c73ecb85f5ce3fddd1ef
 <<<<<<< ff8916099a193112390be66e5a007de365cf4880
 <<<<<<< 3cfb0d8b140b47f423a0b9d29b8ad300d254e725
 <<<<<<< e17705669b438bde3d7be3082c4f6f1dde217966
@@ -127,6 +128,9 @@ h1
 =======
 	color:#4DB920;}
 >>>>>>> alterações rebases
+=======
+	color:#4db81a;}
+>>>>>>> div content
 iframe
 	{width:100%; 
 	height:55px; 
@@ -134,6 +138,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< e9dea3b6c1934ad5d139c73ecb85f5ce3fddd1ef
 <<<<<<< ff8916099a193112390be66e5a007de365cf4880
 <<<<<<< 3cfb0d8b140b47f423a0b9d29b8ad300d254e725
 <<<<<<< e17705669b438bde3d7be3082c4f6f1dde217966
@@ -1260,3 +1265,59 @@ span.detalhesfrases
 	font-style:italic;
 	color:#4DB920;}
 >>>>>>> conflitos rebase
+=======
+	}
+#content 
+	{background-color:#eaeae1;
+	width:780px;
+	margin:0 auto;}
+	}
+#divfoto
+	{width:100%;		
+	text-align:center;}
+#foto
+	{text-align:center;
+	width:100%;}
+#imagem 
+	{border-radius:2000px;}
+#contato
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;}
+#DadosPessoais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	margin-bottom:25px;
+	border:3px solid black;}	
+#InformacoesAdicionais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	margin-bottom:25px;
+	border:3px solid black;}
+#DadosProfissionais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	border:3px solid black;}
+#comeback 
+	{font-family:verdana;
+	font-size:125%;
+	text-align:center;
+	color:black;
+	line-height:50px;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	font-size:125%;
+	color:green;}
+span.detalhesfrases
+	{font-weight:bold;
+	font-style:italic;
+	font-size:125%;
+	color:green;}
+>>>>>>> div content
