@@ -1,3 +1,4 @@
+<<<<<<< e2583ee537f92f4b0656eec008e8e3c012119cd5
 <<<<<<< 1180d59a88418b08cff3e039a8caea9deb484e8e
 <<<<<<< dcc36b43d877d7c4f99551c5c0e8a122c4b299d6
 <<<<<<< 38451f1042716544e239fbfde96ebbc9294994b4
@@ -299,6 +300,9 @@ $(document).ready(function(){
 window.alert("Seja bem vindo(a).");
 =======
 >>>>>>> consertando mais erros
+=======
+window.alert("Seja bem vindo(a).");
+>>>>>>> algumas alterações
 	
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
@@ -306,4 +310,7 @@ $(document).ready(function(){
 			$("#flip>.fonteitalico").stop().slideToggle("slow");
 		});
 	});
+<<<<<<< e2583ee537f92f4b0656eec008e8e3c012119cd5
 >>>>>>> com icone e animacao certo
+=======
+>>>>>>> algumas alterações
