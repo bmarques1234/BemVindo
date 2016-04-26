@@ -1,4 +1,4 @@
-h1	
+﻿h1	
 	{
 		color:#4db81a;
 		font-family:verdana;
@@ -22,11 +22,11 @@ body
 	{
 		width:100%;		
 		text-align:center;
+	}
 	#imagem 
 		{
 			border-radius:2000px;
 		}
-	}
 #contato
 	{
 		color:black;
