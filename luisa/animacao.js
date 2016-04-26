@@ -1,3 +1,4 @@
+<<<<<<< 835812017ed2f53c003a863bd641a088d6990fcf
 <<<<<<< 6bfd83754b0bd03de38c7e3396d2a9d28a6dafc1
 <<<<<<< bc92570b2b4de9f5db0dbb69ad545605506808a7
 <<<<<<< 928ae02190294aa5601350610401297767b44aae
@@ -14,6 +15,9 @@
 <<<<<<< f6aeb16d50f1c67f1049144afc1c0ff2242ee31e
 =======
 =======
+=======
+<<<<<<< 1126eadf80afe38499b31b1fbf941b9705aad711
+>>>>>>> algumas alterações
 <<<<<<< 0b929c57932294c131dc469d03aa55de6d52c912
 >>>>>>> sem barra pesquisar
 <<<<<<< e4fefd2420f92f7fa75963fe1ba1804963c3a5f9
@@ -198,6 +202,8 @@ $(document).ready(function(){
 =======
 	inicio();}*/
 	
+=======
+>>>>>>> algumas alterações
 window.alert("Seja bem vindo(a).");
 	
 $(document).ready(function(){
