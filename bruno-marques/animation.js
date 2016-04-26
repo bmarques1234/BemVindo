@@ -1,9 +1,13 @@
 $(document).ready(function(){
+	var videoSoja=document.getElementById("soja");
+	var videoManeva=document.getElementById("maneva");
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -46,14 +50,24 @@ $(document).ready(function(){
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
 	});
-	$("#clickBorder").click(function(){
-		$("#border").fadeToggle();
-		
+	$("#hideBorder").click(function(){
+		$("#border").fadeIn();
+		$("#hideBorder").hide();
+		$("#showBorder").show();
 	});
-	$("#clickDivinit").click(function(){
-		$("#divinit").fadeToggle();
-		
+	$("#showBorder").click(function(){
+		$("#border").fadeOut();
+		$("#hideBorder").show();
+		$("#showBorder").hide();
 	});
-	var videoSoja=document.getElementById("soja");
-	var videoManeva=document.getElementById("maneva");
+	$("#hideDivinity").click(function(){
+		$("#divinit").fadeIn();
+		$("#hideDivinity").hide();
+		$("#showDivinity").show();
+	});
+	$("#showDivinity").click(function(){
+		$("#divinit").fadeOut();
+		$("#hideDivinity").show();
+		$("#showDivinity").hide();
+	});
 });
