@@ -1,3 +1,4 @@
+<<<<<<< a85f88fd804a879e2a839365343c49c1b1e8e06e
 <<<<<<< 7abd34059efc67d968b6364f5c6646822a64174f
 <<<<<<< 60e5e79bc1c07ec444c35d3160a8751c9683b1a3
 <<<<<<< 71df045b7428dbe6c04fab6c7dd1e192ee165cc3
@@ -80,6 +81,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< a3782333ddee30869b88cdc8824ed9ff696cebe2
+>>>>>>> algumas alterações
 <<<<<<< e7ccf12e2c895ca809e8f670977685705743ab70
 >>>>>>> sem barra pesquisar
 <<<<<<< 3d2851df18124a62730a90a4f729d17ea9f55026
@@ -121,6 +125,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< 010f60a196fbe26e9d446375b8e46a9db73465f3
+>>>>>>> algumas alterações
 <<<<<<< dd404378605b49a16050516fc99b4a8b5823c918
 >>>>>>> sem barra pesquisar
 <<<<<<< 8a8e5c067ecf8275337f89668af207939c537f4f
@@ -649,6 +656,10 @@ $(document).ready(function(){
 */
 /*window.alert("Seja bem vindo(a).");*/
 	
+=======
+window.alert("Seja bem vindo(a).");
+	
+>>>>>>> algumas alterações
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
 		$("#flip").click(function(){
