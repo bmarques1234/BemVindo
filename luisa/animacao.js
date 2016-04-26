@@ -1,3 +1,4 @@
+<<<<<<< 0f3fddc8a989da9d696600df76e65c729d532cc1
 <<<<<<< b7de73e9c943820b6104234448e3a8f98f6c0f5d
 <<<<<<< 96165e73d7ae8a7a8339bbb2b89fc025abddf06d
 <<<<<<< b762f84352895ea51c38046eeea14adab3a35578
@@ -119,6 +120,8 @@ $(document).ready(function(){
 =======
 	inicio();}*/
 	
+=======
+>>>>>>> algumas alterações
 window.alert("Seja bem vindo(a).");
 	
 $(document).ready(function(){
@@ -127,4 +130,7 @@ $(document).ready(function(){
 			$("#flip>.fonteitalico").stop().slideToggle("slow");
 		});
 	});
+<<<<<<< 0f3fddc8a989da9d696600df76e65c729d532cc1
 >>>>>>> com icone e animacao certo
+=======
+>>>>>>> algumas alterações
