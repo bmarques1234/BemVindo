@@ -1,3 +1,4 @@
+<<<<<<< fed2b8d9506df406238d8b69501d25de059c6e1f
 <<<<<<< f15a110b53db05c82e72b0d879cebe6c4e7cabaa
 <<<<<<< ea0e5bdb80a7bc1c05b9228285e906e417855d26
 <<<<<<< 36ec0363ebc49f56fb20974ba3023f2c6c9b6677
@@ -62,6 +63,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< 3b1269ab2c12a7edc55ac9e7ff89d3791f75dbe6
+>>>>>>> sem barra pesquisar
 <<<<<<< 76f30c652bf9385fd58f27dba8a9c8fa2e6a6b39
 >>>>>>> sem barra de pesquisar
 <<<<<<< e1afcb9ee26601e0bea4857f83e43c8e3944ccbf
@@ -456,12 +460,17 @@ window.alert("Seja bem vindo(a).");
 >>>>>>> algumas alterações
 =======
 >>>>>>> sem barra de pesquisar
+=======
+
+	
+>>>>>>> sem barra pesquisar
 $(document).ready(function(){
 	
-	$(".fonteitalico").slideUp();
-	$("#flip").click(function(){
-		$("#flip>.fonteitalico").stop().slideToggle("slow");
+	function inicio(){
+		$("#menu").hide();
+		$("#menu").fadeIn("slow");
 	});
+<<<<<<< 3b1269ab2c12a7edc55ac9e7ff89d3791f75dbe6
 <<<<<<< 76f30c652bf9385fd58f27dba8a9c8fa2e6a6b39
 <<<<<<< e1afcb9ee26601e0bea4857f83e43c8e3944ccbf
 >>>>>>> com icone mudado
@@ -470,3 +479,7 @@ $(document).ready(function(){
 =======
 });
 >>>>>>> sem barra de pesquisar
+=======
+
+	inicio();}
+>>>>>>> sem barra pesquisar
