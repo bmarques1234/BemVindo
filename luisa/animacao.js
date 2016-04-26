@@ -1,3 +1,4 @@
+<<<<<<< 010f60a196fbe26e9d446375b8e46a9db73465f3
 <<<<<<< dd404378605b49a16050516fc99b4a8b5823c918
 <<<<<<< 8a8e5c067ecf8275337f89668af207939c537f4f
 <<<<<<< 1126eadf80afe38499b31b1fbf941b9705aad711
@@ -59,6 +60,10 @@ $(document).ready(function(){
 */
 /*window.alert("Seja bem vindo(a).");*/
 	
+=======
+window.alert("Seja bem vindo(a).");
+	
+>>>>>>> algumas alterações
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
 		$("#flip").click(function(){
