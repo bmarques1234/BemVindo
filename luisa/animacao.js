@@ -1,3 +1,4 @@
+<<<<<<< be0e5f702b09ef7ca77489a6d664d8c689d13c50
 <<<<<<< 9e3ff34b7e8630e389b612e73b6eae9304c26bb5
 <<<<<<< 0f3fddc8a989da9d696600df76e65c729d532cc1
 <<<<<<< b7de73e9c943820b6104234448e3a8f98f6c0f5d
@@ -127,12 +128,17 @@ window.alert("Seja bem vindo(a).");
 	
 =======
 >>>>>>> sem barra de pesquisar
+=======
+
+	
+>>>>>>> sem barra pesquisar
 $(document).ready(function(){
 	
-	$(".fonteitalico").slideUp();
-	$("#flip").click(function(){
-		$("#flip>.fonteitalico").stop().slideToggle("slow");
+	function inicio(){
+		$("#menu").hide();
+		$("#menu").fadeIn("slow");
 	});
+<<<<<<< be0e5f702b09ef7ca77489a6d664d8c689d13c50
 <<<<<<< 9e3ff34b7e8630e389b612e73b6eae9304c26bb5
 <<<<<<< 0f3fddc8a989da9d696600df76e65c729d532cc1
 >>>>>>> com icone e animacao certo
@@ -141,3 +147,7 @@ $(document).ready(function(){
 =======
 });
 >>>>>>> sem barra de pesquisar
+=======
+
+	inicio();}
+>>>>>>> sem barra pesquisar
