@@ -14,24 +14,15 @@ section #close-content > div.close{width:30px; height:25px; background:#000; flo
 section #imagem {width:100%; height:580px; position:relative; text-align:center; background:#FFF; overflow:hidden;}
 section #imagem > img{width:100%;}
 section #imagem > div.mensagem{height:60px; position:absolute; top:100%; line-height:60px; font-weight:bold; text-align:center; background:#4DB920; color:#FFF;}
-section #imagem > div.fundo{width:100%; height:100%; position:absolute; background:#000; display:none; opacity:0.9; filter:alpha(opacity=90);}
-section #imagem > div.nomes{width:100%; height:100%; position:absolute; text-align:center; z-index:2; display:none;}
-section #imagem > div.nomes > #content-integrantes {position:relative; height:230px; top:50%; margin-top:-115px;}
-section #imagem > div.nomes > #content-integrantes > div.integrantes{width:160px; margin:0 auto; margin-bottom:10px; text-align:center; background:#4DB920;}
-section #imagem > div.nomes > #content-integrantes > div.integrantes a{padding:10px 20px 10px 20px; line-height:30px; text-decoration:none; color:#FFF; font-weight:bold;}
 
-section #imagem > .luisa{position:absolute; top:120px; left:-8px; width:155px; height:280px; background:transparent; border-style:transparent; cursor:pointer;}
-section #imagem > .luisa:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
-section #imagem > .geison{position:absolute; top:160px; left:255px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
-section #imagem > .geison:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
-section #imagem > .guinter{position:absolute; top:120px; left:385px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
-section #imagem > .guinter:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
-section #imagem > .valeria{position:absolute; top:220px; left:560px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
-section #imagem > .valeria:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
-section #imagem > .brunomarques{position:absolute; top:340px; left:265px; width:90px; height:110px; background:transparent; border-style:transparent; cursor:pointer;}
-section #imagem > .brunomarques:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
-section #imagem > .brunoklein{position:absolute; top:350px; left:490px; width:100px; height:115px; background:transparent; border-style:transparent; cursor:pointer;}
-section #imagem > .brunoklein:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .grupo{position:absolute; background:transparent; border-style:transparent; cursor:pointer;}
+section #imagem > .grupo:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .luisa{top:120px; left:-8px; width:155px; height:280px;}
+section #imagem > .geison{top:160px; left:255px; width:90px; height:110px;}
+section #imagem > .guinter{top:120px; left:385px; width:90px; height:110px;}
+section #imagem > .valeria{top:220px; left:560px; width:90px; height:110px;}
+section #imagem > .brunomarques{top:340px; left:265px; width:90px; height:110px;}
+section #imagem > .brunoklein{top:350px; left:490px; width:100px; height:115px;}
 
 footer{text-align:center;}
 footer p{margin:10px 0 10px 0;}
