@@ -4,6 +4,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< f56023b243ff363b8b9435a639dc43f65fb1f2af
 <<<<<<< 17293cd98d977d99c2532caa9402b82f93e0a259
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
@@ -11,6 +12,10 @@ $(document).ready(function(){
 	$("#showDivinity").hide();
 =======
 >>>>>>> ajuste videos
+=======
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
+>>>>>>> botoes play
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -37,6 +42,7 @@ $(document).ready(function(){
 		videoSoja.load();
 		$("#pauseSoja").hide();
 		$("#playSoja").show();
+<<<<<<< f56023b243ff363b8b9435a639dc43f65fb1f2af
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
@@ -73,4 +79,32 @@ $(document).ready(function(){
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
 	});
+=======
+	});
+	$("#playManeva").click(function(){
+		videoManeva.play();
+		$("#playManeva").hide();
+		$("#pauseManeva").show();
+	});
+	$("#pauseManeva").click(function(){
+		videoManeva.pause();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#replayManeva").click(function(){
+		videoManeva.load();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#clickBorder").click(function(){
+		$("#border").fadeToggle();
+		
+	});
+	$("#clickDivinit").click(function(){
+		$("#divinit").fadeToggle();
+		
+	});
+	var videoSoja=document.getElementById("soja");
+	var videoManeva=document.getElementById("maneva");
+>>>>>>> botoes play
 });
