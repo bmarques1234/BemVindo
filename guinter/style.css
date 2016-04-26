@@ -1,4 +1,4 @@
-h1	
+﻿h1	
 	{
 <<<<<<< 467aec82edf4b2f41afdd81fdbe98a426c697065
 <<<<<<< 6cd01aff873a4f0998e30083f159bce050d3c2bd
@@ -273,6 +273,7 @@ body
 	{
 		width:100%;		
 		text-align:center;
+<<<<<<< e19cd84191d059e8c8b1b55a1e2233dc7701b63d
 <<<<<<< 4441b0d2cc8ec88cf5800701c4ca6f1f4d78ae80
 <<<<<<< 6b4e5b76b11117e68ab14d4a64937bec7abe7610
 		width:100%;
@@ -349,11 +350,13 @@ body
 >>>>>>> ajustes para merge
 =======
 >>>>>>> arrumando alguns conflitos
+=======
+	}
+>>>>>>> alterando a acentuação
 	#imagem 
 		{
 			border-radius:2000px;
 		}
-	}
 #contato
 	{
 <<<<<<< 8e62f5df969a098f4139b07cbc1da9f3973d3238
