@@ -5,14 +5,39 @@ body {
 	color:gray;
 }
 
+iframe{
+	width:100%;
+	height:auto;
+	border-bottom:solid 2px #BBB;
+}
+
 #minhafoto {
 	width:100%; 
 	height:200px;
 	text-align:left;
+	position: relative;
+    -webkit-animation: mymove 5s; /* Chrome, Safari, Opera */
+    animation: mymove 5s;
+	-webkit-animation-timing-function: linear;
+	animation-timing-function: linear;
+	
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {left: 100%;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    from {left:100%;}
+    to {left: 0px;}
 }
 
 #minhafoto img{
 	height:100%;
+	border-radius:20px;
 }
 
 #meunome {
@@ -41,6 +66,7 @@ h1{
 	text-align:center;
 	width: 100%;
 	color:black;
+	border-radius: 15px;
 }
 
 .divisoes {
@@ -48,7 +74,7 @@ h1{
 	padding:3%;
 	width:100%;
 	border: 3px double #4DB920;
-	border-radius: 25px;
+	border-radius: 20px;
 	margin:8px;
 }
 
@@ -102,6 +128,7 @@ h1{
 		width: 100%;
 		color:black;
 		font-size:150%;
+		
 	}
 
 	li{
