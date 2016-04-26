@@ -1,3 +1,4 @@
+<<<<<<< 928fcd6c1f7b4f248ce44d3165c43811130eeb5f
 <<<<<<< 1efe27a1eaa2114bea3d64469673ce56ca8a153b
 <<<<<<< fed2b8d9506df406238d8b69501d25de059c6e1f
 <<<<<<< f15a110b53db05c82e72b0d879cebe6c4e7cabaa
@@ -66,6 +67,9 @@
 =======
 =======
 =======
+=======
+<<<<<<< 092483e8aa5289a79c4c0c386a48fc59c6d65aa3
+>>>>>>> sem barra de pesquisar
 <<<<<<< 6d4b6421c921f7f96b2149c3baa6bdea9da78ec9
 >>>>>>> algumas alterações
 <<<<<<< 3b1269ab2c12a7edc55ac9e7ff89d3791f75dbe6
@@ -501,13 +505,19 @@ $(document).ready(function(){
 >>>>>>> algumas alterações
 window.alert("Seja bem vindo(a).");
 	
+=======
+>>>>>>> sem barra de pesquisar
 $(document).ready(function(){
-		$(".fonteitalico").slideUp();
-		$("#flip").click(function(){
-			$("#flip>.fonteitalico").stop().slideToggle("slow");
-		});
+	
+	$(".fonteitalico").slideUp();
+	$("#flip").click(function(){
+		$("#flip>.fonteitalico").stop().slideToggle("slow");
 	});
+<<<<<<< 092483e8aa5289a79c4c0c386a48fc59c6d65aa3
 <<<<<<< 6d4b6421c921f7f96b2149c3baa6bdea9da78ec9
 >>>>>>> com icone e animacao certo
 =======
 >>>>>>> algumas alterações
+=======
+});
+>>>>>>> sem barra de pesquisar
