@@ -1,5 +1,6 @@
 $(document).ready(function(){
 	$('#header').hide();
+	$('#header').css('margin-top', '-5px');
 	$('#header>img').hide();
 	$('#infoPessoais').hide();
 	$('#infoCont').hide();
