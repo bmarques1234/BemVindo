@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< 40c310a98a25772f9a2e0184077f240273972401
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 <<<<<<< e8d44ae72a5f82a2fa39db97db4dec83720b8018
 	color:#4DB920;}
@@ -11,6 +12,9 @@ h1
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	color:#4db81a;}
+>>>>>>> div content
 iframe
 	{width:100%; 
 	height:55px; 
@@ -18,6 +22,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< 40c310a98a25772f9a2e0184077f240273972401
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 <<<<<<< e8d44ae72a5f82a2fa39db97db4dec83720b8018
 	background-color:#ebebe0;}
@@ -37,6 +42,14 @@ body
 >>>>>>> div content
 =======
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	}
+#content 
+	{background-color:#eaeae1;
+	width:780px;
+	margin:0 auto;}
+	}
+>>>>>>> div content
 #divfoto
 	{width:100%;		
 	text-align:center;}
@@ -44,6 +57,7 @@ body
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< 40c310a98a25772f9a2e0184077f240273972401
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 <<<<<<< e8d44ae72a5f82a2fa39db97db4dec83720b8018
 	{border-radius:2000px;
@@ -81,10 +95,21 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	{border-radius:2000px;}
+#contato
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;}
+#DadosPessoais
+	{font-family:verdana;
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 40c310a98a25772f9a2e0184077f240273972401
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 <<<<<<< e8d44ae72a5f82a2fa39db97db4dec83720b8018
 	border:3px solid #4DB920;}	
@@ -102,10 +127,16 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	border:3px solid black;}	
+#InformacoesAdicionais
+	{font-family:verdana;
+>>>>>>> div content
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 40c310a98a25772f9a2e0184077f240273972401
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 <<<<<<< e8d44ae72a5f82a2fa39db97db4dec83720b8018
 	border:3px solid #4DB920;}
@@ -159,10 +190,30 @@ span.detalhessubtitulos
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	border:3px solid black;}
+#DadosProfissionais
+	{font-family:verdana;
+	text-align:center;
+	font-size:125%;
+	color:black;
+	border:3px solid black;}
+#comeback 
+	{font-family:verdana;
+	font-size:125%;
+	text-align:center;
+	color:black;
+	line-height:50px;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	font-size:125%;
+	color:green;}
+>>>>>>> div content
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< 40c310a98a25772f9a2e0184077f240273972401
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 <<<<<<< e8d44ae72a5f82a2fa39db97db4dec83720b8018
 	color:#4DB920;}
@@ -172,3 +223,6 @@ span.detalhesfrases
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	color:green;}
+>>>>>>> div content
