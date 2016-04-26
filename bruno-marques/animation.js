@@ -155,6 +155,7 @@ $(document).ready(function(){
 >>>>>>> ajuste videos
 	$("#pauseSoja").hide();
 	$("#pauseManeva").hide();
+<<<<<<< ba5c8267ef44ca1d6e41c664ef2d539fc1c998e1
 <<<<<<< 4d62236d2ae18126b47904567b7939c73bb2ff83
 <<<<<<< 46170c1aa70248ecfe5b1d7bf282b9453d51b415
 >>>>>>> botoes play
@@ -165,6 +166,9 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 =======
 =======
+=======
+<<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
+>>>>>>> botao video e audio
 <<<<<<< 15ea8ce934e1bb78b823e5fae6181f87266d9f49
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
@@ -228,6 +232,10 @@ $(document).ready(function(){
 =======
 >>>>>>> botoes play
 >>>>>>> botoes play
+=======
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+>>>>>>> botao video e audio
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -697,16 +705,34 @@ $(document).ready(function(){
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
 	});
-	$("#clickBorder").click(function(){
-		$("#border").fadeToggle();
-		
+	$("#hideBorder").click(function(){
+		$("#border").fadeIn();
+		$("#hideBorder").hide();
+		$("#showBorder").show();
 	});
-	$("#clickDivinit").click(function(){
-		$("#divinit").fadeToggle();
-		
+	$("#showBorder").click(function(){
+		$("#border").fadeOut();
+		$("#hideBorder").show();
+		$("#showBorder").hide();
 	});
+	$("#hideDivinity").click(function(){
+		$("#divinit").fadeIn();
+		$("#hideDivinity").hide();
+		$("#showDivinity").show();
+	});
+	$("#showDivinity").click(function(){
+		$("#divinit").fadeOut();
+		$("#hideDivinity").show();
+		$("#showDivinity").hide();
+	});
+<<<<<<< 7ded62a50e0602f53b6ef38ef4968b985a72045c
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
 >>>>>>> botoes play
+<<<<<<< 9a3c904bc9cd5f3e6a79adf8eac2532fb3344744
 >>>>>>> botoes play
+=======
+=======
+>>>>>>> botao video e audio
+>>>>>>> botao video e audio
 });
