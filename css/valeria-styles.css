@@ -26,7 +26,7 @@ h1{background-color:#4DB920; text-align:center; width:100%; color:black;  border
 }
 #minhafoto img{height:100%; border-radius:20px;}
 #meunome {color:#4DB920; font-size:250%;}
-#seta {text-align:center;}
+#back {text-align:center;}
 #frase {position:relative; left:25px; top:20%; width:80%;}
 
 .content {width:780px; margin:0 auto; background-color:#EFEFEF; color:gray;}
@@ -42,7 +42,7 @@ h1{background-color:#4DB920; text-align:center; width:100%; color:black;  border
 	#minhafoto {width:100%; height:80px; text-align:left; margin:0;}
 	#minhafoto img{height:100%;}
 	#meunome {color:#4DB920; font-size:120%;}
-	#seta {text-align:center;}
+	#back {text-align:center;}
 
 	h1{background-color:#4DB920; text-align:center; width:100%; color:black; font-size:150%;}
 	li{margin:0 auto; font-size:90%;}
@@ -60,7 +60,7 @@ h1{background-color:#4DB920; text-align:center; width:100%; color:black;  border
 	#minhafoto {width:100%; height:100px; text-align:left; margin:0;}
 	#minhafoto img{height:100%;}
 	#meunome {color:#4DB920; font-size:170%;}
-	#seta {text-align:center;}
+	#back {text-align:center;}
 
 	h1{background-color:#4DB920; text-align:center; width: 100%; color:black; font-size:150%;}
 	li{margin:0 auto; font-size:90%;}
@@ -78,7 +78,7 @@ h1{background-color:#4DB920; text-align:center; width:100%; color:black;  border
 	#minhafoto {width:100%; height:120px; text-align:left; margin:0;}
 	#minhafoto img{height:100%;}
 	#meunome {color:#4DB920; font-size:200%;}
-	#seta {text-align:center;}
+	#back {text-align:center;}
 
 	h1{background-color:#4DB920; text-align:center; width:100%; color:black; font-size:150%;}
 	li{margin:0 auto; font-size:130%;}
@@ -96,7 +96,7 @@ h1{background-color:#4DB920; text-align:center; width:100%; color:black;  border
 	#minhafoto {width:100%; height:200px; text-align:left;}
 	#minhafoto img{height:100%;}
 	#meunome {color:#4DB920; font-size:250%;}
-	#seta {text-align:center;}
+	#back {text-align:center;}
 	#frase {position:relative; left:25px; top:20%; width:80%;}
 
 	li{margin:30px; font-size:130%;}
