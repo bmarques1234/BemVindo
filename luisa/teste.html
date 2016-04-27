@@ -1,16 +1,29 @@
 <html lang="pt-br">
 <head> 
+<link rel="stylesheet" href="index/css/styles.css">
 </head>
  <body>
 	<img src="estagiarios.jpg" ismap usemap="mapaestagiarios"/></a>
+	
 	<map name="mapaestagiarios">
-		<area coords = "0,135,144,360" href="luisa/index.html" shape="rect" title="Luisa Antoni" target ="_parent">
+		<area coords = "0,135,144,360" href="luisa/index.html" shape="rect" id="luisa" target ="_parent">
 		<area coords = "260,170,315,245" href="geison/index.html" shape="rect" title="Geison" target ="_parent">
 		<area coords = "380,120, 450,210" href="guinter/index.html" shape="rect" title="Guinter" target ="_parent">
 		<area coords = "540,220,600,300" href="valeria-mattos/index.html" shape="rect" title="Valéria" target ="_parent">
 		<area coords = "260,330,320,420" href="bruno-marques/index.html" shape="rect" title="Bruno Marques" target ="_parent">
 		<area coords = "470,320,540,440" href="brunoklein/index.html" shape="rect" title="Bruno Klein" target="_parent">
 	</map>
+
+	<script>
+	$(document).ready(function(){
+		$("#luisa").mouseover(function(){
+			$('body').css("background-color", "yellow");
+		});
+		$("#luisa").mouseout(function(){
+			$("#luisa").css("background-color", "lightgray");
+		});
+	});
+	</script>
  </div>
 </body>
 </html>
