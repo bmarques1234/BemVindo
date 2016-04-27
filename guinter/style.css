@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 <<<<<<< 51db85654fe407e96c18f2191387b225ac8c5c15
 <<<<<<< 1fd2cd29a2cd8d58642f5b8a1094c303fbfb8c82
 <<<<<<< 04c7174379c4ffd8531210d73577d012a842f942
@@ -123,6 +124,9 @@ h1
 	color:#4DB920;}
 >>>>>>> alteraçao cores, de novo
 >>>>>>> alteraçao cores, de novo
+=======
+	color:#4DB920;}
+>>>>>>> alterações rebases
 iframe
 	{width:100%; 
 	height:55px; 
@@ -130,6 +134,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 <<<<<<< 51db85654fe407e96c18f2191387b225ac8c5c15
 <<<<<<< 1fd2cd29a2cd8d58642f5b8a1094c303fbfb8c82
 <<<<<<< 04c7174379c4ffd8531210d73577d012a842f942
@@ -219,10 +224,18 @@ body
 >>>>>>> alteração de pastas e cores do fundo
 =======
 >>>>>>> alteraçao cores, de novo
+=======
+	background-color:#ebebe0;}
+#content 
+	{width:780px;
+	margin:0 auto;
+	background-color:#ebebe0;}
+>>>>>>> alterações rebases
 #divfoto
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 <<<<<<< 51db85654fe407e96c18f2191387b225ac8c5c15
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
@@ -258,17 +271,19 @@ body
 =======
 =======
 >>>>>>> alteraçao cores, de novo
+=======
+>>>>>>> alterações rebases
 	{border-radius:2000px;
 	border:4px solid #4DB920;}
 #contato
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
-	font-size:125%;
 	color:black;
 	margin:25px 0px 25px 0px;
 	border:3px solid #4DB920;}
 #DadosPessoais
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 <<<<<<< 51db85654fe407e96c18f2191387b225ac8c5c15
 <<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
@@ -442,10 +457,20 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteraçao cores, de novo
+=======
+	{background-color:#e6ffcc;
+	font-family:verdana;
 	text-align:center;
-	font-size:125%;
+	border:4px solid #4DB920;
+	margin-bottom:25px;}
+#InformacoesAdicionais
+	{background-color:#e6ffcc;
+	font-family:verdana;
+>>>>>>> alterações rebases
+	text-align:center;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 <<<<<<< 50bc31443384771fddcd3ba5c968f07e0f3fc96f
 >>>>>>> alteraçao cores, de novo
 <<<<<<< 592ffd6ac5bfa2e8a74fd684c823a7b6527d57b3
@@ -515,13 +540,17 @@ body
 	border:4px solid #4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
 #contato
+=======
+	border:3px solid #4DB920;}
+#DadosProfissionais
+>>>>>>> alterações rebases
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
-	font-size:125%;
 	color:black;
 	margin:25px 0px 25px 0px;
 	border:3px solid #4DB920;}
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 #DadosPessoais
 <<<<<<< ba85e62a3a2f7cdea6250a5d48f34ae1f7803f60
 	{font-family:verdana;
@@ -877,12 +906,16 @@ span.detalhessubtitulos
 	color:black;
 	border:3px solid #4DB920;}
 #comeback 
+=======
+#comeback
+>>>>>>> alterações rebases
 	{background-color:#e6ffcc;
 	text-align:center;
 	border:3px solid black;
 	margin:25px 0px 25px 0px;}
 #comeback2
 	{font-family:verdana;
+<<<<<<< 0a637ac21b558cedca2bf25fe2cfd31d22653ac2
 	font-size:125%;
 	color:black;}
 span.detalhessubtitulos
@@ -1182,3 +1215,13 @@ span.detalhesfrases
 	color:#4DB920;}
 >>>>>>> alteraçao cores, de novo
 >>>>>>> alteraçao cores, de novo
+=======
+	color:black;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	color:#4DB920;}
+span.detalhesfrases
+	{font-weight:bold;
+	font-style:italic;
+	color:#4DB920;}
+>>>>>>> alterações rebases
