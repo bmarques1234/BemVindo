@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
@@ -36,6 +37,9 @@ h1
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	color:#4DB920;}
+>>>>>>> alteraçao cores, de novo
 iframe
 	{width:100%; 
 	height:55px; 
@@ -43,6 +47,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
@@ -76,11 +81,13 @@ body
 =======
 	}
 =======
+=======
+>>>>>>> alteraçao cores, de novo
 	background-color:#ebebe0;}
->>>>>>> alteração de pastas e cores do fundo
 #content 
 	{width:780px;
 	margin:0 auto;}
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
 	}
 >>>>>>> div content
@@ -104,13 +111,13 @@ body
 =======
 >>>>>>> alteração de pastas e cores do fundo
 >>>>>>> alteração de pastas e cores do fundo
+=======
+>>>>>>> alteraçao cores, de novo
 #divfoto
-	{width:100%;		
-	text-align:center;}
-#foto
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
@@ -133,9 +140,10 @@ body
 =======
 	{border-radius:2000px;}
 =======
+=======
+>>>>>>> alteraçao cores, de novo
 	{border-radius:2000px;
 	border:4px solid #4DB920;}
->>>>>>> alteração de pastas e cores do fundo
 #contato
 	{background-color:#e6ffcc;
 	font-family:verdana;
@@ -145,6 +153,7 @@ body
 	margin:25px 0px 25px 0px;
 	border:3px solid #4DB920;}
 #DadosPessoais
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< 95ae149f1d54892df03e2c0e0e661b2a334deba4
 	{font-family:verdana;
 >>>>>>> div content
@@ -208,10 +217,15 @@ body
 	font-family:verdana;
 >>>>>>> alteração de pastas e cores do fundo
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	{background-color:#e6ffcc;
+	font-family:verdana;
+>>>>>>> alteraçao cores, de novo
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
@@ -262,10 +276,17 @@ body
 >>>>>>> div content
 =======
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	border:3px solid #4DB920;}
+#InformacoesAdicionais
+	{background-color:#e6ffcc;
+	font-family:verdana;
+>>>>>>> alteraçao cores, de novo
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
@@ -333,8 +354,9 @@ span.detalhessubtitulos
 =======
 	border:3px solid black;}
 =======
+=======
+>>>>>>> alteraçao cores, de novo
 	border:3px solid #4DB920;}
->>>>>>> alteração de pastas e cores do fundo
 #DadosProfissionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
@@ -354,6 +376,7 @@ span.detalhessubtitulos
 span.detalhessubtitulos
 	{font-weight:bold;
 	font-size:125%;
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
 	color:green;}
 >>>>>>> div content
@@ -395,10 +418,14 @@ span.detalhessubtitulos
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	color:#4DB920;}
+>>>>>>> alteraçao cores, de novo
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< ba82ef7f4b68bcacfa48a45645a0a52655f54e02
 <<<<<<< b9ca851bd70ab212c83254815a42d589616a15a9
 <<<<<<< aaa3a04d3d9f3780b8a8311d5c14364568de3a00
 <<<<<<< d832cf4a8b0cb957a3fbfb4bd748b4f1e862ccbd
@@ -430,3 +457,6 @@ span.detalhesfrases
 >>>>>>> div content
 =======
 >>>>>>> alteração de pastas e cores do fundo
+=======
+	color:#4DB920;}
+>>>>>>> alteraçao cores, de novo
