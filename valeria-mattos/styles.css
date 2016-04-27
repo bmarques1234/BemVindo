@@ -76,7 +76,34 @@ h1{
 	color:gray;
 }
 
-.divisoes {
+.dadosefoto {
+	background-color:white;
+	padding:3%;
+	width:100%;
+	border: 3px double #4DB920;
+	border-radius: 20px;
+	margin:8px;
+}
+
+.dadosprofissionais {
+	background-color:white;
+	padding:3%;
+	width:100%;
+	border: 3px double #4DB920;
+	border-radius: 20px;
+	margin:8px;
+}
+
+.informacoesadicionais {
+	background-color:white;
+	padding:3%;
+	width:100%;
+	border: 3px double #4DB920;
+	border-radius: 20px;
+	margin:8px;
+}
+
+.contatos {
 	background-color:white;
 	padding:3%;
 	width:100%;
