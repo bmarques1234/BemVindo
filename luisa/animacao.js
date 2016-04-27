@@ -3,6 +3,7 @@
 
 /*$(document).ready(function(){
 	
+<<<<<<< 0e3c3da057ae52b6ecb330ad85dd1a4dd98e64c2
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
@@ -19,10 +20,22 @@ window.alert("Seja bem vindo(a).");*/
 	
 >>>>>>> sem barra pesquisar
 $(document).ready(function(){
+=======
+/*$(document).ready(function(){
+>>>>>>> com icone e animacao certo
 	
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
 	});
 
-	inicio();}
+	inicio();}*/
+	
+window.alert("Seja bem vindo(a).");
+	
+$(document).ready(function(){
+		$(".fonteitalico").slideUp();
+		$("#flip").click(function(){
+			$("#flip>.fonteitalico").stop().slideToggle("slow");
+		});
+	});
