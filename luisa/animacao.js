@@ -7,9 +7,9 @@
 		$("#menu").fadeIn("slow");
 	});
 
-	inicio();}*/
+	inicio();}
 	
-window.alert("Seja bem vindo(a).");
+window.alert("Seja bem vindo(a).");*/
 	
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
