@@ -1,3 +1,4 @@
+<<<<<<< 0f5159f3ab38087908713e130ef09324787d66a7
 <<<<<<< 1f70548304cfe7c6f763986ca390a3ae4d2cd9c8
 <<<<<<< 824002d51dffec558a565f4c45dd9f7aaab51101
 =======
@@ -36,11 +37,17 @@ $(document).ready(function(){
 <<<<<<< 593ea16283392cea10c9ff26020fcf109fa386d7
 >>>>>>> barra menu
 >>>>>>> barra menu
+=======
+$(document).ready(function(){
+>>>>>>> ajuste conflitos
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
+	$("#border").hide();
+	$("#divinit").hide();
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< 0f5159f3ab38087908713e130ef09324787d66a7
 <<<<<<< 492c15ea11fe8ef5726d31e9d4c029a0d6800fa8
 <<<<<<< faa7ed3c1397ac5cb633f00915913ebe1d42d387
 <<<<<<< 15822305da5df763bbfce24836b5aff7b96e3653
@@ -1119,6 +1126,14 @@ $(document).ready(function(){
 >>>>>>> botoes play
 <<<<<<< c228c476b3280e43e2cbe534cef6fbdf98445857
 >>>>>>> botoes play
+=======
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+	$("#personal").click(function(){
+		$("#personalTitle>.content").stop().slideToggle("slow");
+>>>>>>> ajuste conflitos
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
@@ -1145,6 +1160,7 @@ $(document).ready(function(){
 		$("#hideBorder").show();
 		$("#showBorder").hide();
 	});
+<<<<<<< 0f5159f3ab38087908713e130ef09324787d66a7
 	$("#hideDivinity").click(function(){
 		$("#divinit").fadeIn();
 		$("#hideDivinity").hide();
@@ -1641,6 +1657,13 @@ $(document).ready(function(){
 <<<<<<< 15ea8ce934e1bb78b823e5fae6181f87266d9f49
 >>>>>>> botoes play
 >>>>>>> botoes play
+=======
+	$("#replaySoja").click(function(){
+		videoSoja.load();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+        $(this).rotate({angle:0,animateTo:180});
+>>>>>>> ajuste conflitos
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
@@ -1656,7 +1679,8 @@ $(document).ready(function(){
 		videoManeva.load();
 		$("#pauseManeva").hide();
 		$("#playManeva").show();
-	});
+        $(this).rotate({angle:0,animateTo:180});
+	});    
 	$("#hideBorder").click(function(){
 		$("#border").fadeIn();
 		$("#hideBorder").hide();
@@ -1677,6 +1701,7 @@ $(document).ready(function(){
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
 	});
+<<<<<<< 0f5159f3ab38087908713e130ef09324787d66a7
 <<<<<<< 03b3ebae205893be2b4a84863d9d69956ea5264a
 <<<<<<< 5f4b5e7dc3274e61ab707152404cd72e096cc79a
 	var videoSoja=document.getElementById("soja");
@@ -1819,4 +1844,6 @@ $(document).ready(function(){
         $("#hideDivinity").show();
         $("#showDivinity").hide();
     });
+=======
+>>>>>>> ajuste conflitos
 });
