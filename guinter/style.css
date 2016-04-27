@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 <<<<<<< 9a34fdeab00b4cd6747309afa7454ae8334b3ea0
 <<<<<<< 815b57edf4686f9b58b72e568508a32a2275b8b1
 <<<<<<< 2a940323a9b78b29d06cfa03a90c6efa37eda235
@@ -15,6 +16,9 @@ h1
 =======
 	color:#4db81a;}
 >>>>>>> div content
+=======
+	color:#4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
 iframe
 	{width:100%; 
 	height:55px; 
@@ -22,6 +26,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 <<<<<<< 9a34fdeab00b4cd6747309afa7454ae8334b3ea0
 <<<<<<< 815b57edf4686f9b58b72e568508a32a2275b8b1
 <<<<<<< 2a940323a9b78b29d06cfa03a90c6efa37eda235
@@ -44,12 +49,17 @@ body
 >>>>>>> alteração de pastas e cores do fundo
 =======
 	}
+=======
+	background-color:#ebebe0;}
+>>>>>>> alteração de pastas e cores do fundo
 #content 
-	{background-color:#eaeae1;
-	width:780px;
+	{width:780px;
 	margin:0 auto;}
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 	}
 >>>>>>> div content
+=======
+>>>>>>> alteração de pastas e cores do fundo
 #divfoto
 	{width:100%;		
 	text-align:center;}
@@ -57,6 +67,7 @@ body
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 <<<<<<< 9a34fdeab00b4cd6747309afa7454ae8334b3ea0
 <<<<<<< 815b57edf4686f9b58b72e568508a32a2275b8b1
 <<<<<<< 2a940323a9b78b29d06cfa03a90c6efa37eda235
@@ -97,18 +108,31 @@ body
 >>>>>>> alteração de pastas e cores do fundo
 =======
 	{border-radius:2000px;}
+=======
+	{border-radius:2000px;
+	border:4px solid #4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
 #contato
-	{font-family:verdana;
+	{background-color:#e6ffcc;
+	font-family:verdana;
 	text-align:center;
 	font-size:125%;
-	color:black;}
+	color:black;
+	margin:25px 0px 25px 0px;
+	border:3px solid #4DB920;}
 #DadosPessoais
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 	{font-family:verdana;
 >>>>>>> div content
+=======
+	{background-color:#e6ffcc;
+	font-family:verdana;
+>>>>>>> alteração de pastas e cores do fundo
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 <<<<<<< 9a34fdeab00b4cd6747309afa7454ae8334b3ea0
 <<<<<<< 815b57edf4686f9b58b72e568508a32a2275b8b1
 <<<<<<< 2a940323a9b78b29d06cfa03a90c6efa37eda235
@@ -132,10 +156,17 @@ body
 #InformacoesAdicionais
 	{font-family:verdana;
 >>>>>>> div content
+=======
+	border:3px solid #4DB920;}	
+#InformacoesAdicionais
+	{background-color:#e6ffcc;
+	font-family:verdana;
+>>>>>>> alteração de pastas e cores do fundo
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 <<<<<<< 9a34fdeab00b4cd6747309afa7454ae8334b3ea0
 <<<<<<< 815b57edf4686f9b58b72e568508a32a2275b8b1
 <<<<<<< 2a940323a9b78b29d06cfa03a90c6efa37eda235
@@ -192,27 +223,39 @@ span.detalhessubtitulos
 >>>>>>> alteração de pastas e cores do fundo
 =======
 	border:3px solid black;}
+=======
+	border:3px solid #4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
 #DadosProfissionais
-	{font-family:verdana;
+	{background-color:#e6ffcc;
+	font-family:verdana;
 	text-align:center;
 	font-size:125%;
 	color:black;
-	border:3px solid black;}
+	border:3px solid #4DB920;}
 #comeback 
+	{background-color:#e6ffcc;
+	text-align:center;
+	border:3px solid black;
+	margin:25px 0px 25px 0px;}
+#comeback2
 	{font-family:verdana;
 	font-size:125%;
-	text-align:center;
-	color:black;
-	line-height:50px;}
+	color:black;}
 span.detalhessubtitulos
 	{font-weight:bold;
 	font-size:125%;
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 	color:green;}
 >>>>>>> div content
+=======
+	color:#4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< c27c2ba8f9d4a003f583fbcc1d0d31414cb13b74
 <<<<<<< 9a34fdeab00b4cd6747309afa7454ae8334b3ea0
 <<<<<<< 815b57edf4686f9b58b72e568508a32a2275b8b1
 <<<<<<< 2a940323a9b78b29d06cfa03a90c6efa37eda235
@@ -226,3 +269,6 @@ span.detalhesfrases
 =======
 	color:green;}
 >>>>>>> div content
+=======
+	color:#4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
