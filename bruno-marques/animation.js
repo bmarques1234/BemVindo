@@ -486,6 +486,8 @@ $(document).ready(function(){
 =======
     var videoSoja=document.getElementById("soja");
     var videoManeva=document.getElementById("maneva");
+	$("#border").hide();
+	$("#divinit").hide();
     $("video").fadeOut();
     $(".content").hide();
     $(".content").slideUp();
@@ -519,6 +521,7 @@ $(document).ready(function(){
         videoSoja.load();
         $("#pauseSoja").hide();
         $("#playSoja").show();
+		$(this).rotate({angle:0,animateTo:180});
     });
     $("#playManeva").click(function(){
         videoManeva.play();
@@ -534,6 +537,7 @@ $(document).ready(function(){
         videoManeva.load();
         $("#pauseManeva").hide();
         $("#playManeva").show();
+<<<<<<< 952244b93310c8afb2f764632a43ce85cf03e67d
     });
     $("#hideBorder").click(function(){
         $("#border").fadeIn();
@@ -795,6 +799,10 @@ $(document).ready(function(){
         $("#pauseManeva").hide();
         $("#playManeva").show();
     });
+=======
+		$(this).rotate({angle:0,animateTo:180});
+    });	
+>>>>>>> videos arrumados
     $("#hideBorder").click(function(){
         $("#border").fadeIn();
         $("#hideBorder").hide();
