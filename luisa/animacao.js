@@ -62,6 +62,7 @@
 <<<<<<< 3b4b7bc590f1a6c540ba62d9667e2032e63a1988
 	
 /*$(document).ready(function(){
+<<<<<<< c862e1c05727a607493c6685b1c22c6e211b4966
 <<<<<<< e0a8daffe405c42d9886e1613c1119c3d2bd13d7
 <<<<<<< 3344712303bd2f4308a3d46ffc4d1944134c7f93
 	
@@ -85,6 +86,8 @@ window.alert("Seja bem vindo(a).");
 	
 >>>>>>> sem barra pesquisar
 $(document).ready(function(){
+=======
+>>>>>>> com icone e animacao certo
 	
 	function inicio(){
 		$("#menu").hide();
@@ -98,6 +101,7 @@ $(document).ready(function(){
 >>>>>>> sem barra de pesquisar
 =======
 
+<<<<<<< 2f5e25977961ccfcee734b35400a1794c9ac9a1e
 	inicio();}
 >>>>>>> sem barra pesquisar
 =======
@@ -376,4 +380,19 @@ $(document).ready(function(){
 
 	inicio();}
 >>>>>>> sem barra pesquisar
+<<<<<<< c862e1c05727a607493c6685b1c22c6e211b4966
 >>>>>>> sem barra pesquisar
+=======
+=======
+	inicio();}*/
+	
+window.alert("Seja bem vindo(a).");
+	
+$(document).ready(function(){
+		$(".fonteitalico").slideUp();
+		$("#flip").click(function(){
+			$("#flip>.fonteitalico").stop().slideToggle("slow");
+		});
+	});
+>>>>>>> com icone e animacao certo
+>>>>>>> com icone e animacao certo
