@@ -25,3 +25,7 @@ $(document).ready(function(){
 		aparecer();
 		aparecertexto();
 });
+
+$(window).load(function(){ 
+		$("#janelaModal").stop().reveal();
+});
