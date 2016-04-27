@@ -1,5 +1,6 @@
 <<<<<<< 2819af00efa40b9301c17ba08fc550c3e915662f
 $(document).ready(function(){
+<<<<<<< HEAD
 <<<<<<< 1eef6e9f461d653f890230669ad89b3f22c48db3
 <<<<<<< 3d0cdb58daea8d41e1555fada252deb702c89561
 <<<<<<< cb92b84a83038230adcb96981d057223c84a5b3f
@@ -484,6 +485,8 @@ $(document).ready(function(){
 >>>>>>> botao video e audio
 >>>>>>> botao video e audio
 =======
+=======
+>>>>>>> e0ec2d09577c8aca45fc01273173a5e69f61e509
     var videoSoja=document.getElementById("soja");
     var videoManeva=document.getElementById("maneva");
 	$("#border").hide();
@@ -537,6 +540,7 @@ $(document).ready(function(){
         videoManeva.load();
         $("#pauseManeva").hide();
         $("#playManeva").show();
+<<<<<<< HEAD
 <<<<<<< 0f513b518c5b7a094ffe7966900c3f5dde164864
     });
     $("#hideBorder").click(function(){
@@ -803,6 +807,10 @@ $(document).ready(function(){
 		$(this).rotate({angle:0,animateTo:180});
     });	
 >>>>>>> videos arrumados
+=======
+		$(this).rotate({angle:0,animateTo:180});
+    });	
+>>>>>>> e0ec2d09577c8aca45fc01273173a5e69f61e509
     $("#hideBorder").click(function(){
         $("#border").fadeIn();
         $("#hideBorder").hide();
