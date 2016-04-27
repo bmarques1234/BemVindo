@@ -5,6 +5,7 @@
 <<<<<<< 2819af00efa40b9301c17ba08fc550c3e915662f
 >>>>>>> ajuste iframe
 $(document).ready(function(){
+<<<<<<< HEAD
 <<<<<<< 4cd86b42f4f97e069d8640898d4b495d4720db46
 <<<<<<< 7f19e8643d34ff9978ef73e96008f8e647fb4233
 <<<<<<< 488385556a52eade65ba729d10e930e617dfd58a
@@ -40,6 +41,8 @@ $(document).ready(function(){
 =======
 $(document).ready(function(){
 >>>>>>> ajuste conflitos
+=======
+>>>>>>> e35b506c5d3ddec812db90e8aafb9500ecab30ad
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
 	$("#border").hide();
@@ -47,6 +50,7 @@ $(document).ready(function(){
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
+<<<<<<< HEAD
 <<<<<<< 0f5159f3ab38087908713e130ef09324787d66a7
 <<<<<<< 492c15ea11fe8ef5726d31e9d4c029a0d6800fa8
 <<<<<<< faa7ed3c1397ac5cb633f00915913ebe1d42d387
@@ -442,6 +446,12 @@ $(document).ready(function(){
 	$("#showBorder").hide();
 	$("#showDivinity").hide();
 >>>>>>> botao video e audio
+=======
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+>>>>>>> e35b506c5d3ddec812db90e8aafb9500ecab30ad
 	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
@@ -458,6 +468,7 @@ $(document).ready(function(){
 		videoSoja.play();
 		$("#playSoja").hide();
 		$("#pauseSoja").show();
+<<<<<<< HEAD
 	});
 	$("#pauseSoja").click(function(){
 		videoSoja.pause();
@@ -1665,6 +1676,20 @@ $(document).ready(function(){
         $(this).rotate({angle:0,animateTo:180});
 >>>>>>> ajuste conflitos
 	});
+=======
+	});
+	$("#pauseSoja").click(function(){
+		videoSoja.pause();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+	});
+	$("#replaySoja").click(function(){
+		videoSoja.load();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+        $(this).rotate({angle:0,animateTo:180});
+	});
+>>>>>>> e35b506c5d3ddec812db90e8aafb9500ecab30ad
 	$("#playManeva").click(function(){
 		videoManeva.play();
 		$("#playManeva").hide();
@@ -1700,6 +1725,7 @@ $(document).ready(function(){
 		$("#divinit").fadeOut();
 		$("#hideDivinity").show();
 		$("#showDivinity").hide();
+<<<<<<< HEAD
 	});
 <<<<<<< 0f5159f3ab38087908713e130ef09324787d66a7
 <<<<<<< 03b3ebae205893be2b4a84863d9d69956ea5264a
@@ -1846,4 +1872,7 @@ $(document).ready(function(){
     });
 =======
 >>>>>>> ajuste conflitos
+=======
+	});
+>>>>>>> e35b506c5d3ddec812db90e8aafb9500ecab30ad
 });
