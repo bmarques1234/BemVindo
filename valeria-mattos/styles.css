@@ -1,26 +1,27 @@
-body {
-	width:780px;
-	margin:0 auto;
+html, body {
+	width:100%;
 	background-color:#EFEFEF;
-	color:gray;
+	margin:0 auto;
 }
 
 iframe{
-	width:100%;
-	height:auto;
-	border-bottom:solid 2px #BBB;
+	width:100%; 
+	height:55px; 
+	border:none; 
+	background:#FFF;
 }
 
-#minhafoto {
-	width:100%; 
-	height:200px;
-	text-align:left;
-	position: relative;
-    -webkit-animation: mymove 5s; /* Chrome, Safari, Opera */
-    animation: mymove 5s;
-	-webkit-animation-timing-function: linear;
-	animation-timing-function: linear;
-	
+li{
+	margin:30px;
+	font-size:130%;
+}
+
+h1{
+	background-color:#4DB920;
+	text-align:center;
+	width: 100%;
+	color:black;
+	border-radius: 15px;
 }
 
 /* Chrome, Safari, Opera */
@@ -33,6 +34,18 @@ iframe{
 @keyframes mymove {
     from {left:100%;}
     to {left: 0px;}
+}
+
+#minhafoto {
+	width:100%; 
+	height:200px;
+	text-align:left;
+	position: relative;
+    -webkit-animation: mymove 2s; /* Chrome, Safari, Opera */
+    animation: mymove 2s;
+	-webkit-animation-timing-function: linear;
+	animation-timing-function: linear;
+	
 }
 
 #minhafoto img{
@@ -56,20 +69,41 @@ iframe{
 	width:80%;
 }
 
-li{
-	margin:30px;
-	font-size:130%;
+.content {
+	width:780px;
+	margin:0 auto;
+	background-color:#EFEFEF;
+	color:gray;
 }
 
-h1{
-	background-color:#4DB920;
-	text-align:center;
-	width: 100%;
-	color:black;
-	border-radius: 15px;
+.dadosefoto {
+	background-color:white;
+	padding:3%;
+	width:100%;
+	border: 3px double #4DB920;
+	border-radius: 20px;
+	margin:8px;
 }
 
-.divisoes {
+.dadosprofissionais {
+	background-color:white;
+	padding:3%;
+	width:100%;
+	border: 3px double #4DB920;
+	border-radius: 20px;
+	margin:8px;
+}
+
+.informacoesadicionais {
+	background-color:white;
+	padding:3%;
+	width:100%;
+	border: 3px double #4DB920;
+	border-radius: 20px;
+	margin:8px;
+}
+
+.contatos {
 	background-color:white;
 	padding:3%;
 	width:100%;
@@ -95,7 +129,7 @@ h1{
 } 
 
 @media only screen and (min-width: 200px) and (max-width: 349px){
-	body {
+	.content {
 		width:85%;
 		margin:0;
 		background-color:#EFEFEF;
@@ -155,7 +189,7 @@ h1{
 }
 
 @media only screen and (min-width: 350px) and (max-width: 480px){
-	body {
+	.content {
 		width:90%;
 		margin:0;
 		background-color:#EFEFEF;
@@ -214,7 +248,7 @@ h1{
 }
 
 @media only screen and (min-width: 481px) and (max-width: 801px){
-	body {
+	.content  {
 		width:90%;
 		margin:0;
 		background-color:#EFEFEF;
@@ -273,7 +307,7 @@ h1{
 }
 
 @media only screen and (min-width: 802px) and (max-width: 2000px){
-	body {
+	.content  {
 		width:780px;
 		margin:0 auto;
 		background-color:#EFEFEF;
