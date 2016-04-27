@@ -146,6 +146,7 @@ $(document).ready(function(){
 /*$(document).ready(function(){
 >>>>>>> algumas alterações
 	
+<<<<<<< 0e3c3da057ae52b6ecb330ad85dd1a4dd98e64c2
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
@@ -175,6 +176,9 @@ window.alert("Seja bem vindo(a).");*/
 	
 >>>>>>> sem barra pesquisar
 $(document).ready(function(){
+=======
+/*$(document).ready(function(){
+>>>>>>> com icone e animacao certo
 	
 	function inicio(){
 		$("#menu").hide();
@@ -188,5 +192,18 @@ $(document).ready(function(){
 >>>>>>> sem barra de pesquisar
 =======
 
+<<<<<<< 3b0798b43770bfe46e132ad4efee73e36ada4351
 	inicio();}
 >>>>>>> sem barra pesquisar
+=======
+	inicio();}*/
+	
+window.alert("Seja bem vindo(a).");
+	
+$(document).ready(function(){
+		$(".fonteitalico").slideUp();
+		$("#flip").click(function(){
+			$("#flip>.fonteitalico").stop().slideToggle("slow");
+		});
+	});
+>>>>>>> com icone e animacao certo
