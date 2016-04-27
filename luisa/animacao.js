@@ -1,3 +1,4 @@
+<<<<<<< 1180d59a88418b08cff3e039a8caea9deb484e8e
 <<<<<<< dcc36b43d877d7c4f99551c5c0e8a122c4b299d6
 <<<<<<< 38451f1042716544e239fbfde96ebbc9294994b4
 <<<<<<< c7f40fa2da01f9c97ef153dfb1c2c26d60755607
@@ -49,6 +50,9 @@
 <<<<<<< e0a8daffe405c42d9886e1613c1119c3d2bd13d7
 <<<<<<< 3344712303bd2f4308a3d46ffc4d1944134c7f93
 	
+=======
+/*$(document).ready(function(){
+>>>>>>> consertando mais erros
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
@@ -159,6 +163,7 @@ $(document).ready(function(){
 >>>>>>> algumas alterações
 window.alert("Seja bem vindo(a).");
 	
+<<<<<<< 1180d59a88418b08cff3e039a8caea9deb484e8e
 =======
 >>>>>>> sem barra de pesquisar
 =======
@@ -292,6 +297,8 @@ $(document).ready(function(){
 	inicio();}*/
 	
 window.alert("Seja bem vindo(a).");
+=======
+>>>>>>> consertando mais erros
 	
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
