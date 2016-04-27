@@ -9,6 +9,7 @@
 
 /*$(document).ready(function(){
 	
+<<<<<<< 7c77a5d82511655b4e8ea282322eba1c51e6b33a
 <<<<<<< 074b5c7045771101785d787612c3a78660c7ea43
 <<<<<<< 0e3c3da057ae52b6ecb330ad85dd1a4dd98e64c2
 	function inicio(){
@@ -73,10 +74,22 @@ window.alert("Seja bem vindo(a).");
 	
 >>>>>>> sem barra pesquisar
 $(document).ready(function(){
+=======
+/*$(document).ready(function(){
+>>>>>>> com icone e animacao certo
 	
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
 	});
 
-	inicio();}
+	inicio();}*/
+	
+window.alert("Seja bem vindo(a).");
+	
+$(document).ready(function(){
+		$(".fonteitalico").slideUp();
+		$("#flip").click(function(){
+			$("#flip>.fonteitalico").stop().slideToggle("slow");
+		});
+	});
