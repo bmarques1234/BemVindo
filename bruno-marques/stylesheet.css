@@ -45,10 +45,15 @@ video{
 	margin-top: -65px;
 	margin-right:3px;
 }
+.iframe{
+	width:320px;
+	height:180px;
+	display:block;
+}
 span{
 	display:inline-block;
 }
 @media only screen and (max-width:420px){
 	#img{height:150px;width:150px}
-	video{height:90px;width:170px}
+	.iframe{height:90px;width:170px;display:block;}
 }
