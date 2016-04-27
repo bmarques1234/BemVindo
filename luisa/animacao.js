@@ -1,3 +1,4 @@
+<<<<<<< 3e6574500dd65c2210382cfee3013cfa10d32356
 <<<<<<< 145790430eb590e299d608c292c5efc1f8f7739a
 <<<<<<< 0ac9a9ac30e2974664dc01fc87894908bc037437
 <<<<<<< a3782333ddee30869b88cdc8824ed9ff696cebe2
@@ -49,6 +50,9 @@
 <<<<<<< f964acb0df28aff76d1709b39eea2bc6471591e5
 <<<<<<< 9ffacb6b6a59fa014e26b0db6c070168a2167ce3
 	
+=======
+/*$(document).ready(function(){
+>>>>>>> consertando mais erros
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
@@ -159,6 +163,7 @@ $(document).ready(function(){
 >>>>>>> algumas alterações
 window.alert("Seja bem vindo(a).");
 	
+<<<<<<< 3e6574500dd65c2210382cfee3013cfa10d32356
 =======
 >>>>>>> sem barra de pesquisar
 =======
@@ -292,6 +297,8 @@ $(document).ready(function(){
 	inicio();}*/
 	
 window.alert("Seja bem vindo(a).");
+=======
+>>>>>>> consertando mais erros
 	
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
