@@ -158,6 +158,7 @@ $(document).ready(function(){
 /*$(document).ready(function(){
 >>>>>>> algumas alterações
 	
+<<<<<<< 074b5c7045771101785d787612c3a78660c7ea43
 <<<<<<< 0e3c3da057ae52b6ecb330ad85dd1a4dd98e64c2
 	function inicio(){
 		$("#menu").hide();
@@ -221,6 +222,9 @@ window.alert("Seja bem vindo(a).");
 	
 >>>>>>> sem barra pesquisar
 $(document).ready(function(){
+=======
+/*$(document).ready(function(){
+>>>>>>> com icone mudado
 	
 	function inicio(){
 		$("#menu").hide();
@@ -235,4 +239,16 @@ $(document).ready(function(){
 =======
 
 	inicio();}
+<<<<<<< 52978a218ec19dcdd18f81be9d714f9a697b3fdc
 >>>>>>> sem barra pesquisar
+=======
+*/
+/*window.alert("Seja bem vindo(a).");*/
+	
+$(document).ready(function(){
+		$(".fonteitalico").slideUp();
+		$("#flip").click(function(){
+			$("#flip>.fonteitalico").stop().slideToggle("slow");
+		});
+	});
+>>>>>>> com icone mudado
