@@ -1482,6 +1482,8 @@ $(document).ready(function(){
 =======
     var videoSoja=document.getElementById("soja");
     var videoManeva=document.getElementById("maneva");
+	$("#border").hide();
+	$("#divinit").hide();
     $("video").fadeOut();
     $(".content").hide();
     $(".content").slideUp();
@@ -1515,6 +1517,7 @@ $(document).ready(function(){
         videoSoja.load();
         $("#pauseSoja").hide();
         $("#playSoja").show();
+		$(this).rotate({angle:0,animateTo:180});
     });
     $("#playManeva").click(function(){
         videoManeva.play();
@@ -1530,6 +1533,7 @@ $(document).ready(function(){
         videoManeva.load();
         $("#pauseManeva").hide();
         $("#playManeva").show();
+<<<<<<< 0f513b518c5b7a094ffe7966900c3f5dde164864
     });
     $("#hideBorder").click(function(){
         $("#border").fadeIn();
@@ -1791,6 +1795,10 @@ $(document).ready(function(){
         $("#pauseManeva").hide();
         $("#playManeva").show();
     });
+=======
+		$(this).rotate({angle:0,animateTo:180});
+    });	
+>>>>>>> videos arrumados
     $("#hideBorder").click(function(){
         $("#border").fadeIn();
         $("#hideBorder").hide();
