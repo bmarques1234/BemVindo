@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
 		function aparecer(){
 		$('#page').fadeIn("slow");
 		$('#caixa').fadeIn("slow");
@@ -20,7 +21,7 @@ $(document).ready(function(){
 			$("#aperta2>#desliza2").stop().slideToggle("slow");
 		});
 		}
-		
+	
 		aparecer();
 		aparecertexto();
 });
