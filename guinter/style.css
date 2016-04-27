@@ -1506,6 +1506,7 @@ body
 >>>>>>> alteração de pastas e cores do fundo
 #content 
 	{width:780px;
+<<<<<<< d442a3520d03d92365c92b395b2fd09e20842272
 	margin:0 auto;}
 =======
 	}
@@ -1574,6 +1575,10 @@ body
 	margin:0 auto;
 	background-color:#ebebe0;}
 >>>>>>> alterações rebases
+=======
+	margin:0 auto;
+	background-color:#ebebe0;}
+>>>>>>> conflitos rebase
 #divfoto
 	{text-align:center;
 	width:100%;}
@@ -1602,7 +1607,10 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
+<<<<<<< d442a3520d03d92365c92b395b2fd09e20842272
 	font-size:125%;
+=======
+>>>>>>> conflitos rebase
 	color:black;
 	margin:25px 0px 25px 0px;
 	border:3px solid #4DB920;}
@@ -1622,6 +1630,7 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
+<<<<<<< d442a3520d03d92365c92b395b2fd09e20842272
 	color:black;
 	margin:25px 0px 25px 0px;
 	border:3px solid #4DB920;}
@@ -1713,6 +1722,14 @@ body
 =======
 	text-align:center;
 	font-size:125%;
+=======
+	border:4px solid #4DB920;
+	margin-bottom:25px;}
+#InformacoesAdicionais
+	{background-color:#e6ffcc;
+	font-family:verdana;
+	text-align:center;
+>>>>>>> conflitos rebase
 	color:black;
 	margin-bottom:25px;
 <<<<<<< 50bc31443384771fddcd3ba5c968f07e0f3fc96f
@@ -1828,10 +1845,14 @@ body
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
+<<<<<<< d442a3520d03d92365c92b395b2fd09e20842272
 	font-size:125%;
+=======
+>>>>>>> conflitos rebase
 	color:black;
 	margin:25px 0px 25px 0px;
 	border:3px solid #4DB920;}
+<<<<<<< d442a3520d03d92365c92b395b2fd09e20842272
 #DadosPessoais
 <<<<<<< ecac22497c1dfd5b3b0cad11bc2ae0c7fba36d45
 	{font-family:verdana;
@@ -1887,6 +1908,9 @@ body
 	border:3px solid #4DB920;}
 #DadosProfissionais
 >>>>>>> alterações rebases
+=======
+#comeback
+>>>>>>> conflitos rebase
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
@@ -1897,6 +1921,7 @@ body
 #DadosPessoais
 <<<<<<< ba85e62a3a2f7cdea6250a5d48f34ae1f7803f60
 	{font-family:verdana;
+<<<<<<< d442a3520d03d92365c92b395b2fd09e20842272
 >>>>>>> div content
 <<<<<<< 6630140a6de0176356538704f4dc003558d4c8e2
 >>>>>>> div content
@@ -2640,3 +2665,13 @@ span.detalhesfrases
 	font-style:italic;
 	color:#4DB920;}
 >>>>>>> alterações rebases
+=======
+	color:black;}
+span.detalhessubtitulos
+	{font-weight:bold;
+	color:#4DB920;}
+span.detalhesfrases
+	{font-weight:bold;
+	font-style:italic;
+	color:#4DB920;}
+>>>>>>> conflitos rebase
