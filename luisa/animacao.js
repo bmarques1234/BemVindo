@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 7c7dc780b2e06a023600f92258ecf1c319cec004
 <<<<<<< 5d063de341d2a81243eece025fa0e94c04cb9e7a
 <<<<<<< 0d9ee7dd09539807e0e9ae250d12d8e96d8cda1d
@@ -312,10 +313,14 @@ $(document).ready(function(){
 <<<<<<< 7c77a5d82511655b4e8ea282322eba1c51e6b33a
 <<<<<<< 074b5c7045771101785d787612c3a78660c7ea43
 <<<<<<< 0e3c3da057ae52b6ecb330ad85dd1a4dd98e64c2
+=======
+/*$(document).ready(function(){
+>>>>>>> 83d2ca80c003e272078cfe310964b1bf4e61c5b2
 	function inicio(){
 		$("#menu").hide();
 		$("#menu").fadeIn("slow");
 	});
+<<<<<<< HEAD
 <<<<<<< be0e5f702b09ef7ca77489a6d664d8c689d13c50
 <<<<<<< 9e3ff34b7e8630e389b612e73b6eae9304c26bb5
 <<<<<<< 0f3fddc8a989da9d696600df76e65c729d532cc1
@@ -718,12 +723,17 @@ window.alert("Seja bem vindo(a).");
 =======
 >>>>>>> consertando mais erros
 =======
+=======
+>>>>>>> 83d2ca80c003e272078cfe310964b1bf4e61c5b2
 
 	inicio();}
 
 window.alert("Seja bem vindo(a).");*/
 	
+<<<<<<< HEAD
 >>>>>>> teste de erros
+=======
+>>>>>>> 83d2ca80c003e272078cfe310964b1bf4e61c5b2
 	
 $(document).ready(function(){
 		$(".fonteitalico").slideUp();
@@ -731,7 +741,10 @@ $(document).ready(function(){
 			$("#flip>.fonteitalico").stop().slideToggle("slow");
 		});
 	});
+<<<<<<< HEAD
 <<<<<<< 7c7dc780b2e06a023600f92258ecf1c319cec004
 >>>>>>> com icone e animacao certo
 =======
 >>>>>>> teste de erros
+=======
+>>>>>>> 83d2ca80c003e272078cfe310964b1bf4e61c5b2
