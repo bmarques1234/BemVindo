@@ -1,18 +1,20 @@
 ﻿<!DOCTYPE html lang="pt-br">
 <html>
 	<head>
-		<iframe src="../../index/comum/links.html"></iframe>`
+		<link rel="stylesheet" href="index/css/styles.css">
 		<title>Bruno Marques</title>
 		<link rel="stylesheet" href="stylesheet.css" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script src="animation.js"></script>
-		<link href="img/dd.png" rel="icon" type="image/gif">
+		<script type="text/javascript" src="http://beneposto.pl/jqueryrotate/js/jQueryRotateCompressed.js"></script>
+		<link href="img/dd.png" rel="icon" type="image/png">
 	</head>
 	<body>
+		<iframe src="../index/comum/links.html"></iframe>
 		<div class="info">
 			<div id="personalTitle">
-				<h1 class="topic"><em>Dados Pessoais</em></h1>
+				<h1 class="topic" id="personal"><em>Dados Pessoais</em></h1>
 				<div class="content" id="personalContent">
 					<div id="img-box"><img src="img/foto.jpg" id="img" /></div>
 					<ul>
@@ -26,7 +28,7 @@
 		</div>
 		<div class="info">
 			<div id="professionalTitle">
-				<h1 class="topic"><em>Dados Profissionais</em></h1>
+				<h1 class="topic" id="professional"><em>Dados Profissionais</em></h1>
 				<div class="content" id="professionalContent">
 					<ul>
 						<li>Instituição de Ensino: Fundação Liberato Salzano Vieira da Cunha</li>
@@ -41,24 +43,30 @@
 		</div>
 		<div class="info">
 			<div id="hobbyTitle">
-				<h1 class="topic"><em>Informações adicionais</em></h1>
+				<h1 class="topic" id="hobby"><em>Informações adicionais</em></h1>
 				<div class="content" id="hobbyContent">
 					<ul>
 						<li>Bandas preferidas:</li>
 							<ul>
-								<li id="sojaVideo">SOJA (clique para ouvir)</li>
-								<li id="manevaVideo">Maneva (clique para ouvir)</li>
+								<li class="video" id="sojaVideo">SOJA</li>
+									<img class="button" src="img/play.png" id="playSoja" />
+									<img class="button" src="img/pause.png" id="pauseSoja" />
+									<img class="button" src="img/replay.jpg" id="replaySoja" /></br>
+								<li class="video" id="manevaVideo">Maneva</li>
+									<img class="button" src="img/play.png" id="playManeva" />
+									<img class="button" src="img/pause.png" id="pauseManeva" />
+									<img class="button" src="img/replay.jpg" id="replayManeva" /></br>
 							</ul>
 						<li>Jogos preferidos:</li>
 							<ul>
-								<li class="clickBorder">Borderlands 2 (clique para ver)</li>
-								<video id="border" width="320px" height="180px" controls>
-									<source src="video/border2.mp4" type="video/mp4" />
-								</video >
-								<li class="clickDivinit">Divinity: Original Sin (clique para ver)</li>
-								<video id="divinit" width="320px" height="180px" controls>
-									<source src="video/divinity.mp4" type="video/mp4" />
-								</video>
+								<img class="button" src="img/play.png" id="hideBorder" />
+								<img class="button" src="img/show.png" id="showBorder" />
+								<li class="video" id="clickBorder">Borderlands 2</li>
+								<iframe class="iframe" id="border" width="320px" height="180px" src="https://www.youtube.com/embed/i_n18lovbss" frameborder="0" allowfullscreen></iframe></br>
+								<img class="button" src="img/play.png" id="hideDivinity" />
+								<img class="button" src="img/show.png" id="showDivinity" />
+								<li class="video" id="clickDivinit">Divinity: Original Sin</li>
+								<iframe class="iframe" id="divinit" width="320px" height="180px" src="https://www.youtube.com/embed/rxnApC7Uxik" frameborder="0" allowfullscreen></iframe></br>
 							</ul>
 						<li>Seriados preferidos:</li>
 							<ul>
@@ -78,7 +86,7 @@
 		</div>
 		<div class="info">
 			<div id="contactTitle">
-				<h1 class="topic"><em>Contato</em></h1>
+				<h1 class="topic" id="contact"><em>Contato</em></h1>
 				<a href="../index.html"><img src="img/back.jpg" id="back"/></a>
 				<div class="content" id="contactContent">
 					<ul>
@@ -90,10 +98,10 @@
 			</div>
 		</div>
 		<audio id="soja">
-			<source src="video/soja.mp4" type="video/mp4" />
+			<source src="audio/easier.mp3" type="audio/mp3" />
 		</audio>
 		<audio id="maneva">
-			<source src="video/maneva.mp4" type="video/mp4" />
+			<source src="audio/saudades.mp3" type="audio/mp3" />
 		</audio>
 	</body>
 </html>

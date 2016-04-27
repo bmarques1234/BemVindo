@@ -1,47 +1,77 @@
 $(document).ready(function(){
+	var videoSoja=document.getElementById("soja");
+	var videoManeva=document.getElementById("maneva");
+    $("#border").hide();
+    $("#divinit").hide();
 	$("video").fadeOut();
 	$(".content").hide();
 	$(".content").slideUp();
-	$("#personalTitle").click(function(){
+	$("#pauseSoja").hide();
+	$("#pauseManeva").hide();
+	$("#showBorder").hide();
+	$("#showDivinity").hide();
+	$("#personal").click(function(){
 		$("#personalTitle>.content").stop().slideToggle("slow");
 	});
-	$("#professionalTitle").click(function(){
+	$("#professional").click(function(){
 		$("#professionalTitle>.content").stop().slideToggle("slow");
 	});
-	$("#hobbyTitle").click(function(){
+	$("#hobby").click(function(){
 		$("#hobbyTitle>.content").stop().slideToggle("slow");
 	});
-	$("#contactTitle").click(function(){
+	$("#contact").click(function(){
 		$("#contactTitle>.content").stop().slideToggle("slow");
 	});
-	$("#sojaVideo").click(function(){
-		playSoja();
+	$("#playSoja").click(function(){
+		videoSoja.play();
+		$("#playSoja").hide();
+		$("#pauseSoja").show();
 	});
-	$("#manevaVideo").click(function(){
-		playManeva();
+	$("#pauseSoja").click(function(){
+		videoSoja.pause();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
 	});
-	$(".clickBorder").click(function(){
-		$("#border").fadeToggle();
-		
+	$("#replaySoja").click(function(){
+		videoSoja.load();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
+        $(this).rotate({angle:0,animateTo:180});
 	});
-	$(".clickDivinit").click(function(){
-		$("#divinit").fadeToggle();
-		
+	$("#playManeva").click(function(){
+		videoManeva.play();
+		$("#playManeva").hide();
+		$("#pauseManeva").show();
 	});
-	var videoSoja=document.getElementById("soja");
-	var videoManeva=document.getElementById("maneva");
-	function playSoja(){
-		if(videoSoja.paused){
-			videoSoja.play();
-			videoManeva.pause();
-		}
-		else videoSoja.pause();
-	}
-	function playManeva(){
-		if(videoManeva.paused){
-			videoManeva.play();
-			videoSoja.pause();
-		}
-		else videoManeva.pause();
-	}
+	$("#pauseManeva").click(function(){
+		videoManeva.pause();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+	});
+	$("#replayManeva").click(function(){
+		videoManeva.load();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
+        $(this).rotate({angle:0,animateTo:180});
+	});    
+	$("#hideBorder").click(function(){
+		$("#border").fadeIn();
+		$("#hideBorder").hide();
+		$("#showBorder").show();
+	});
+	$("#showBorder").click(function(){
+		$("#border").fadeOut();
+		$("#hideBorder").show();
+		$("#showBorder").hide();
+	});
+	$("#hideDivinity").click(function(){
+		$("#divinit").fadeIn();
+		$("#hideDivinity").hide();
+		$("#showDivinity").show();
+	});
+	$("#showDivinity").click(function(){
+		$("#divinit").fadeOut();
+		$("#hideDivinity").show();
+		$("#showDivinity").hide();
+	});
 });
