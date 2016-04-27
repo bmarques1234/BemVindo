@@ -2,6 +2,7 @@ h1
 	{font-family:verdana;
 	font-weight:bold;
 	text-align:center;
+<<<<<<< 2605732517a784ec62140604872dd6064b23633c
 <<<<<<< b345a21c64f9dd9c10cf5dfaeca04f6c9f980cc7
 <<<<<<< cddb830e4130723028c6d15b2c24953598851ee3
 <<<<<<< 488c928b5795715f31458f06199301bb7d2d5759
@@ -69,6 +70,9 @@ h1
 =======
 =======
 =======
+=======
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 620f157aa365052b1a0d6bdd67da15f9833ac69c
 >>>>>>> div content
 <<<<<<< ecac22497c1dfd5b3b0cad11bc2ae0c7fba36d45
@@ -1205,6 +1209,9 @@ span.detalhesfrases
 <<<<<<< 1b5f7f7def10ec1f6f5e3da3788bdb8e8860c9bd
 >>>>>>> div content
 =======
+=======
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 >>>>>>> div content
 	color:#4DB920;}
@@ -1346,7 +1353,11 @@ span.detalhesfrases
 =======
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
+<<<<<<< 2605732517a784ec62140604872dd6064b23633c
 <<<<<<< cd89b74223c91b77238fd7810114357a360a5f2e
+>>>>>>> alteração de pastas e cores do fundo
+=======
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 >>>>>>> alteração de pastas e cores do fundo
 =======
 =======
@@ -1368,6 +1379,8 @@ span.detalhesfrases
 >>>>>>> alteração de pastas e cores do fundo
 =======
 >>>>>>> div content
+=======
+>>>>>>> alteração de pastas e cores do fundo
 iframe
 	{width:100%; 
 	height:55px; 
@@ -1375,6 +1388,7 @@ iframe
 	background:#FFF;}
 body 
 	{width:100%;
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 <<<<<<< 620f157aa365052b1a0d6bdd67da15f9833ac69c
 <<<<<<< ecac22497c1dfd5b3b0cad11bc2ae0c7fba36d45
 <<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
@@ -1559,6 +1573,9 @@ body
 	}
 =======
 =======
+=======
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 >>>>>>> div content
 	background-color:#ebebe0;}
@@ -1568,12 +1585,17 @@ body
 	margin:0 auto;}
 =======
 	}
+=======
+	background-color:#ebebe0;}
+>>>>>>> alteração de pastas e cores do fundo
 #content 
-	{background-color:#eaeae1;
-	width:780px;
+	{width:780px;
 	margin:0 auto;}
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
 	}
 >>>>>>> div content
+=======
+>>>>>>> alteração de pastas e cores do fundo
 #divfoto
 	{width:100%;		
 	text-align:center;}
@@ -1581,6 +1603,7 @@ body
 	{text-align:center;
 	width:100%;}
 #imagem 
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
 <<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	{border-radius:2000px;
 	border:4px solid #4DB920;}
@@ -1604,19 +1627,35 @@ body
 =======
 =======
 	{border-radius:2000px;}
+=======
+	{border-radius:2000px;
+	border:4px solid #4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
 #contato
-	{font-family:verdana;
+	{background-color:#e6ffcc;
+	font-family:verdana;
 	text-align:center;
 	font-size:125%;
-	color:black;}
+	color:black;
+	margin:25px 0px 25px 0px;
+	border:3px solid #4DB920;}
 #DadosPessoais
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
 	{font-family:verdana;
 >>>>>>> div content
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 >>>>>>> div content
+=======
+=======
+	{background-color:#e6ffcc;
+	font-family:verdana;
+>>>>>>> alteração de pastas e cores do fundo
+>>>>>>> alteração de pastas e cores do fundo
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 <<<<<<< 620f157aa365052b1a0d6bdd67da15f9833ac69c
 <<<<<<< ecac22497c1dfd5b3b0cad11bc2ae0c7fba36d45
 <<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
@@ -1662,6 +1701,9 @@ body
 >>>>>>> alteração de pastas e cores do fundo
 =======
 =======
+=======
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 >>>>>>> div content
 	border:3px solid #4DB920;}	
@@ -1688,19 +1730,26 @@ body
 #InformacoesAdicionais
 	{font-family:verdana;
 >>>>>>> div content
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 <<<<<<< 620f157aa365052b1a0d6bdd67da15f9833ac69c
+=======
+>>>>>>> alteração de pastas e cores do fundo
 =======
 	border:3px solid #4DB920;}	
 #InformacoesAdicionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
 >>>>>>> alteração de pastas e cores do fundo
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 =======
 >>>>>>> div content
+=======
+>>>>>>> alteração de pastas e cores do fundo
 	text-align:center;
 	font-size:125%;
 	color:black;
 	margin-bottom:25px;
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 <<<<<<< 620f157aa365052b1a0d6bdd67da15f9833ac69c
 <<<<<<< ecac22497c1dfd5b3b0cad11bc2ae0c7fba36d45
 <<<<<<< 4fc43e8eab91522552a803d7d89adab1c5591adf
@@ -1775,6 +1824,9 @@ span.detalhessubtitulos
 =======
 >>>>>>> alteraçao cores, de novo
 =======
+=======
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 >>>>>>> div content
 	border:3px solid #4DB920;}
@@ -1876,28 +1928,43 @@ span.detalhessubtitulos
 =======
 =======
 	border:3px solid black;}
+=======
+	border:3px solid #4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
 #DadosProfissionais
-	{font-family:verdana;
+	{background-color:#e6ffcc;
+	font-family:verdana;
 	text-align:center;
 	font-size:125%;
 	color:black;
-	border:3px solid black;}
+	border:3px solid #4DB920;}
 #comeback 
+	{background-color:#e6ffcc;
+	text-align:center;
+	border:3px solid black;
+	margin:25px 0px 25px 0px;}
+#comeback2
 	{font-family:verdana;
 	font-size:125%;
-	text-align:center;
-	color:black;
-	line-height:50px;}
+	color:black;}
 span.detalhessubtitulos
 	{font-weight:bold;
 	font-size:125%;
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
 	color:green;}
 >>>>>>> div content
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 >>>>>>> div content
+=======
+=======
+	color:#4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
+>>>>>>> alteração de pastas e cores do fundo
 span.detalhesfrases
 	{font-weight:bold;
 	font-style:italic;
 	font-size:125%;
+<<<<<<< 2605732517a784ec62140604872dd6064b23633c
 <<<<<<< b345a21c64f9dd9c10cf5dfaeca04f6c9f980cc7
 <<<<<<< cddb830e4130723028c6d15b2c24953598851ee3
 <<<<<<< 488c928b5795715f31458f06199301bb7d2d5759
@@ -1924,6 +1991,9 @@ span.detalhesfrases
 =======
 =======
 =======
+=======
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 620f157aa365052b1a0d6bdd67da15f9833ac69c
 >>>>>>> div content
 <<<<<<< ecac22497c1dfd5b3b0cad11bc2ae0c7fba36d45
@@ -1997,9 +2067,18 @@ span.detalhesfrases
 	color:#4DB920;}
 >>>>>>> alteração de pastas e cores do fundo
 =======
+=======
+<<<<<<< 223098a6eb2ab49adb869696f32a242541b44c5b
+>>>>>>> alteração de pastas e cores do fundo
 <<<<<<< 51f03c1b28a98fbcdd8f162cf2b959f6d1aa18dd
 	color:#4DB920;}
 =======
 	color:green;}
 >>>>>>> div content
+<<<<<<< 0f0007a2010723c19987c266653084480823eca3
 >>>>>>> div content
+=======
+=======
+	color:#4DB920;}
+>>>>>>> alteração de pastas e cores do fundo
+>>>>>>> alteração de pastas e cores do fundo
