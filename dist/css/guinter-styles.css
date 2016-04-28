@@ -27,31 +27,41 @@ body
 	text-align:center;
 	color:black;
 	margin:25px 0px 25px 0px;
-	border:3px solid #4DB920;}
+	border-radius:100px;
+	border:3px solid #4DB920;
+	padding:10px;}
 #DadosPessoais
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
-	border:4px solid #4DB920;
-	margin-bottom:25px;}
+	border-radius:100px;
+	border:3px solid #4DB920;
+	margin-bottom:25px;
+	padding:10px;}
 #InformacoesAdicionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
 	color:black;
 	margin-bottom:25px;
-	border:3px solid #4DB920;}
+	border-radius:100px;
+	border:3px solid #4DB920;
+	padding:10px;}
 #DadosProfissionais
 	{background-color:#e6ffcc;
 	font-family:verdana;
 	text-align:center;
 	color:black;
-	border:3px solid #4DB920;}
+	border-radius:100px;
+	border:3px solid #4DB920;
+	padding:10px;}
 #back
 	{background-color:#e6ffcc;
 	text-align:center;
+	border-radius:100px;
 	border:3px solid #4DB920;
-	margin:25px 0px 25px 0px;}
+	margin:25px 0px 25px 0px;
+	padding:10px;}
 #comeback2
 	{font-family:verdana;
 	color:black;}
