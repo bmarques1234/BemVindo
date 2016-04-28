@@ -1,7 +1,7 @@
 /*stylesheet*/
 iframe{width:100%; height:55px; border:none; background:#FFF;}
 body{
-	background-image: url("../image/brunomarques-background.jpg");
+	background-image: url("../img/brunomarques-background.jpg");
 	background-attachment: fixed;
 }
 .info{
