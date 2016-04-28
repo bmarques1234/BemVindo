@@ -17,7 +17,7 @@ $(document).ready(function(){
 	descer();
 	
 	$('.luisa').click(function(){
-		$(window.document.location).attr('href','luisa/index.html');
+		$(window.document.location).attr('href','perfil/luisa/index.html');
 	});
 	$('.luisa').mouseover(function(){
 		$('#imagem > .mensagem').html("Clique aqui para mais informações sobre Luisa.");
@@ -27,7 +27,7 @@ $(document).ready(function(){
 	});
 	
 	$('.geison').click(function(){
-		$(window.document.location).attr('href','geison/index.html');
+		$(window.document.location).attr('href','perfil/geison/index.html');
 	});
 	$('.geison').mouseover(function(){
 		$('#imagem > .mensagem').html("Clique aqui para mais informações sobre Geison.");
@@ -37,7 +37,7 @@ $(document).ready(function(){
 	});
 	
 	$('.guinter').click(function(){
-		$(window.document.location).attr('href','guinter/index.html');
+		$(window.document.location).attr('href','perfil/guinter/index.html');
 	});
 	$('.guinter').mouseover(function(){
 		$('#imagem > .mensagem').html("Clique aqui para mais informações sobre Guinter.");
@@ -47,7 +47,7 @@ $(document).ready(function(){
 	});
 	
 	$('.valeria').click(function(){
-		$(window.document.location).attr('href','valeria-mattos/index.html');
+		$(window.document.location).attr('href','perfil/valeria-mattos/index.html');
 	});
 	$('.valeria').mouseover(function(){
 		$('#imagem > .mensagem').html("Clique aqui para mais informações sobre Valéria.");
@@ -57,7 +57,7 @@ $(document).ready(function(){
 	});
 	
 	$('.brunomarques').click(function(){
-		$(window.document.location).attr('href','bruno-marques/index.html');
+		$(window.document.location).attr('href','perfil/bruno-marques/index.html');
 	});
 	$('.brunomarques').mouseover(function(){
 		$('#imagem > .mensagem').html("Clique aqui para mais informações sobre Bruno Marques.");
@@ -67,7 +67,7 @@ $(document).ready(function(){
 	});
 	
 	$('.brunoklein').click(function(){
-		$(window.document.location).attr('href','bruno-klein/index.html');
+		$(window.document.location).attr('href','perfil/bruno-klein/index.html');
 	});
 	$('.brunoklein').mouseover(function(){
 		$('#imagem > .mensagem').html("Clique aqui para mais informações sobre Bruno Klein.");
