@@ -1,11 +1,10 @@
 $(document).ready(function(){
-
-		function aparecer(){
+	function aparecer(){
 		$('#page').fadeIn("slow");
 		$('#caixa').fadeIn("slow");
-		}
-		
-		function aparecertexto(){
+	}
+	
+	function aparecertexto(){
 		$(".fonteitalico").slideUp();
 		$("#flip").click(function(){
 			$("#flip>.fonteitalico").stop().slideToggle("slow");
@@ -20,12 +19,11 @@ $(document).ready(function(){
 		$("#aperta2").click(function(){
 			$("#aperta2>#desliza2").stop().slideToggle("slow");
 		});
-		}
-	
-		aparecer();
-		aparecertexto();
+	}
+	aparecer();
+	aparecertexto();
 });
 
 $(window).load(function(){ 
-		$("#janelaModal").stop().reveal();
+	$("#janelaModal").stop().reveal();
 });
