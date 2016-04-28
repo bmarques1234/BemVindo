@@ -6,7 +6,7 @@ $(document).ready(function(){
 	$('#infoCont').hide();
 	$('#infoProf').hide();
 	$('#infoAdic').hide();
-	$('#backtoindex').hide();
+	$('#back').hide();
 	$('.content-lists > div').hide();
 	
 	$('#header').slideDown(300,function(){
@@ -16,7 +16,7 @@ $(document).ready(function(){
 					$('#infoProf').slideDown(300, function(){
 						$('#infoAdic').slideDown(300, function(){
 							$('.content-lists > div').fadeIn(500);
-							$('#backtoindex').slideDown(300);
+							$('#back').slideDown(300);
 						});
 					});
 				});
