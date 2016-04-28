@@ -2,14 +2,14 @@ $(document).ready(function(){
     $(".dados").hide();
     $(".dados").slideUp();
     $("#DadosPessoais").click(function(){
-        $("#DadosPessoais>.dados").stop().slideToggle();
+        $("#DadosPessoais>.dados").stop().slideDown();
     });
     
      $("#InformacoesAdicionais").click(function(){
-        $("#InformacoesAdicionais>.dados").stop().slideToggle();
+        $("#InformacoesAdicionais>.dados").stop().slideDown();
     });
     
      $("#DadosProfissionais").click(function(){
-        $("#DadosProfissionais>.dados").stop().slideToggle();
+        $("#DadosProfissionais>.dados").stop().slideDown();
     });
 });
