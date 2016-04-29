@@ -67,6 +67,7 @@ html, body, #header, #headerCont, #infoAdic .content-lists{width:100%;}
 }
 
 @media only screen and (min-width: 800px) and (max-width: 5500px){
+	#content iframe{height:60px;}
 	#content{width:768px; height:1487px;}
 	#content div.bloco > .imagemPerfil{width:150px; height:150px; background:#EFEFEF; float:left; margin-right:30px; overflow:hidden;}
 	#content div.bloco > .imagemPerfil img{height:100%;}
