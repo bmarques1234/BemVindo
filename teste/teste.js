@@ -1,3 +1,27 @@
+function click (name,time){
+	driver.findElement(By.className(name)).click();
+	driver.sleep(time);
+}
+function voltar(){
+	driver.findElement(By.id('back')).click();
+	driver.sleep(2000);
+}
+function slideContent(name,time){
+	driver.findElement(By.id(name)).click();
+	driver.sleep(time);
+}
+function switchIframe(name){
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
+	driver.findElement(By.id(name)).click();
+	driver.sleep(2000);
+}
+function resizeWindow(){
+	driver.manage().window().setSize(550,700);
+	driver.sleep(3000);
+	driver.manage().window().maximize();
+}
+
 var webdriver = require('selenium-webdriver'),
 	By = require('selenium-webdriver').By,
         until = require('selenium-webdriver').until;
@@ -10,91 +34,47 @@ var driver = new webdriver.Builder()
 	driver.get('file:///D:/Bruno%20Klein/BemVindo/dist/index.html');
 	
 	
-	driver.findElement(By.className('grupo valeria')).click();
-	driver.sleep(2000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('grupo geison')).click();
-	driver.sleep(4000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('grupo guinter')).click();
-	driver.sleep(2000);
-	driver.findElement(By.id('DadosPessoais')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('InformacoesAdicionais')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('DadosProfissionais')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('grupo luisa')).click();
-	driver.sleep(3000);
-	driver.findElement(By.className('close-reveal-modal')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('fotoluisa')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('aperta')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('aperta2')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('close-reveal-modal')).click();
-	driver.sleep(2000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('grupo brunomarques')).click();
-	driver.sleep(2000);
-	driver.findElement(By.id('personalTitle')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('professionalTitle')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('hobbyTitle')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('contactTitle')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('grupo brunoklein')).click();
-	driver.sleep(2000);
-	driver.findElement(By.id('animacaopessoais')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('animacaoprofissionais')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('animacaoadicionais')).click();
-	driver.sleep(3000);
-	driver.findElement(By.id('back')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('grupo brunoklein')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('brunomarques')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('brunoklein')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('geison')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('guinter')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('valeria')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('luisa')).click();
-	driver.sleep(2000);
-	driver.findElement(By.className('close-reveal-modal')).click();
-	driver.sleep(2000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
-	driver.findElement(By.id('inicio')).click();
-	driver.sleep(2000);
+	click('grupo valeria',3000);
+	resizeWindow();
+	voltar();
+	click('grupo geison',4000);
+	resizeWindow();
+	voltar();
+	click('grupo guinter',3000);
+	resizeWindow();
+	slideContent('DadosPessoais',3000);
+	slideContent('InformacoesAdicionais',3000);
+	slideContent('DadosProfissionais',3000);
+	voltar();
+	click('grupo luisa',3000);
+	click('close-reveal-modal',2000);
+	resizeWindow();
+	click('fotoluisa',3000);
+	resizeWindow();
+	slideContent('aperta',3000);
+	slideContent('aperta2',3000);
+	voltar();
+	click('close-reveal-modal',2000);
+	voltar();
+	click('grupo brunomarques',3000);
+	resizeWindow();
+	slideContent('personalTitle',3000);
+	slideContent('professionalTitle',3000);
+	slideContent('hobbyTitle',3000);
+	slideContent('contactTitle',3000);
+	voltar();
+	click('grupo brunoklein',3000);
+	resizeWindow();
+	slideContent('animacaopessoais',3000);
+	slideContent('animacaoprofissionais',3000);
+	slideContent('animacaoadicionais',3000);
+	voltar();
+	click('grupo brunoklein',3000);
+	switchIframe('brunomarques');
+	switchIframe('brunoklein');
+	switchIframe('geison');
+	switchIframe('guinter');
+	switchIframe('valeria');
+	switchIframe('luisa');
+	click('close-reveal-modal',2000);
+	switchIframe('inicio');
