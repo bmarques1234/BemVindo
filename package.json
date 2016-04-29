@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Digitaldesk-Labs/BemVindo#readme",
   "dependencies": {
     "selenium-webdriver": "^2.53.1"
-  }  
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
 }
