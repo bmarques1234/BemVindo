@@ -2,6 +2,7 @@
 html, body, div, a, ul, li{margin:0; padding:0;}
 html, body{width:100%; font-family: 'Open Sans', sans-serif; background:#FFF;}
 html,body{height:auto;}
+<<<<<<< HEAD
 #menu{width:100%; height:55px; background:#FFF; overflow:hidden; border-bottom:solid 2px #9DD881;}
 @media only screen and (min-width: 100px) and (max-width: 800px){
 	#menu .content_menu{display:none;}
@@ -15,6 +16,20 @@ html,body{height:auto;}
 	#menu .content_menuresponsive{display:none;}
 	#menu .content_menuresponsive a{padding:10px 15px 10px 15px; line-height:30px; background:#4DB920; color:#FFF; text-decoration:none; font-weight:bold; border-radius:8px; border-top:solid 2px #9DD881; border-bottom:solid 2px #666;}
 	#menu .content_menuresponsive a:hover{background:#9DD881; border-top:solid 2px #AAA; border-bottom:solid 2px #CAEABB;}
+=======
+#menu{width:100%; height:100%; background:#FFF; overflow:hidden; border-bottom:solid 2px #9DD881;}
+@media only screen and (min-width: 100px) and (max-width: 800px){
+	#menu .content_menu{display:none;}
+	#menu .content_menuresponsive{width:100%; height:auto; margin:0 auto; padding-top:5px; display:block;}
+	#menu .content_menuresponsive #btn_cont{width:100%; height:55px; text-align:right;}
+	#menu .content_menuresponsive #btn_cont > ul{width:45px; height:45px; background:#4DB920; margin-right:10px; border-radius:8px; display:inline-block; overflow:hidden;}
+	#menu .content_menuresponsive #btn_cont > ul li{width:70%; height:5px; background:#FFF; margin:7px auto;}
+	#menu .content_menuresponsive #btn_cont > a{width:45px; height:45px; background:#4DB920; border-radius:8px; display:inline-block; overflow:hidden; text-align:center;}
+	#menu .content_menuresponsive #btn_cont > a img{width:70%; height:70%; margin-top:5px;}
+	#menu .content_menuresponsive #list_menu{width:100%; height:210px; text-align:left;}
+	#menu .content_menuresponsive #list_menu > a{display:block; width:100%; line-height:33px; background:#FFF; padding:0 0 0 10px; color:#4DB920; border-bottom:solid 2px #9DD881; text-decoration:none;}
+	#menu .content_menuresponsive #list_menu > a:hover{background:#9DD881; color:#FFF;}
+>>>>>>> 9bf611b5414f6cef1cd4eb244cf88ffa4059c14c
 }
 
 @media only screen and (min-width: 801px) and (max-width: 5500px){
