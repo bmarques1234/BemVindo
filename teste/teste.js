@@ -7,25 +7,45 @@ var driver = new webdriver.Builder()
 		.build();
 	
 	driver.manage().window().maximize();
-	driver.get('http://www.traineedigitaldesk.pe.hu');
+	driver.get('file:///D:/Bruno%20Klein/BemVindo/dist/index.html');
 	
 	
 	driver.findElement(By.className('grupo valeria')).click();
-	driver.sleep(1000);
+	driver.sleep(2000);
 	driver.findElement(By.id('back')).click();
+	driver.sleep(2000);
 	driver.findElement(By.className('grupo geison')).click();
+	driver.sleep(4000);
+	driver.findElement(By.id('back')).click();
+	driver.sleep(2000);
+	driver.findElement(By.className('grupo guinter')).click();
+	driver.sleep(2000);
+	driver.findElement(By.id('DadosPessoais')).click();
+	driver.sleep(3000);
+	driver.findElement(By.id('InformacoesAdicionais')).click();
+	driver.sleep(3000);
+	driver.findElement(By.id('DadosProfissionais')).click();
 	driver.sleep(3000);
 	driver.findElement(By.id('back')).click();
-	driver.findElement(By.className('grupo guinter')).click();
-	driver.sleep(1000);
-	driver.findElement(By.id('back')).click();
+	driver.sleep(2000);
 	driver.findElement(By.className('grupo luisa')).click();
 	driver.sleep(3000);
 	driver.findElement(By.className('close-reveal-modal')).click();
-	driver.sleep(1000);
+	driver.sleep(2000);
+	driver.findElement(By.className('fotoluisa')).click();
+	driver.sleep(3000);
+	driver.findElement(By.id('aperta')).click();
+	driver.sleep(3000);
+	driver.findElement(By.id('aperta2')).click();
+	driver.sleep(3000);
 	driver.findElement(By.id('back')).click();
-	driver.sleep(1000);
+	driver.sleep(2000);
+	driver.findElement(By.className('close-reveal-modal')).click();
+	driver.sleep(2000);
+	driver.findElement(By.id('back')).click();
+	driver.sleep(2000);
 	driver.findElement(By.className('grupo brunomarques')).click();
+	driver.sleep(2000);
 	driver.findElement(By.id('personalTitle')).click();
 	driver.sleep(3000);
 	driver.findElement(By.id('professionalTitle')).click();
@@ -35,7 +55,9 @@ var driver = new webdriver.Builder()
 	driver.findElement(By.id('contactTitle')).click();
 	driver.sleep(3000);
 	driver.findElement(By.id('back')).click();
+	driver.sleep(2000);
 	driver.findElement(By.className('grupo brunoklein')).click();
+	driver.sleep(2000);
 	driver.findElement(By.id('animacaopessoais')).click();
 	driver.sleep(3000);
 	driver.findElement(By.id('animacaoprofissionais')).click();
@@ -43,28 +65,36 @@ var driver = new webdriver.Builder()
 	driver.findElement(By.id('animacaoadicionais')).click();
 	driver.sleep(3000);
 	driver.findElement(By.id('back')).click();
-	driver.sleep(1000);
+	driver.sleep(2000);
 	driver.findElement(By.className('grupo brunoklein')).click();
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('brunomarques')).click();
-	driver.sleep(1000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('brunoklein')).click();
-	driver.sleep(1000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('geison')).click();
-	driver.sleep(1000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('guinter')).click();
-	driver.sleep(1000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('valeria')).click();
-	driver.sleep(1000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('luisa')).click();
-	driver.sleep(1000);
+	driver.sleep(2000);
 	driver.findElement(By.className('close-reveal-modal')).click();
-	driver.sleep(1000);
-	driver.switchTo().frame(driver.findElement(By.id("ifrm")))
+	driver.sleep(2000);
+	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
+	driver.sleep(2000);
 	driver.findElement(By.id('inicio')).click();
-	driver.sleep(1000);
+	driver.sleep(2000);
