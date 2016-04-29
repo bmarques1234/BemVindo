@@ -24,8 +24,11 @@ $(document).ready(function(){
 	});
 	$("#playSoja").click(function(){
 		videoSoja.play();
+		videoManeva.pause();
 		$("#playSoja").hide();
 		$("#pauseSoja").show();
+		$("#pauseManeva").hide();
+		$("#playManeva").show();
 	});
 	$("#pauseSoja").click(function(){
 		videoSoja.pause();
@@ -40,8 +43,11 @@ $(document).ready(function(){
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
+		videoSoja.pause();
 		$("#playManeva").hide();
 		$("#pauseManeva").show();
+		$("#pauseSoja").hide();
+		$("#playSoja").show();
 	});
 	$("#pauseManeva").click(function(){
 		videoManeva.pause();
