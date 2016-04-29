@@ -8,7 +8,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 		<script src="js/links-JS.js"></script>
 	</head>
-	<body>
+	<body onload="alturaIframe();">
 		<div id="menu">
 			<div class="content_menu">
 				<a id="inicio" href="index.html" target="_top"><img src="img/home.svg"></img></a>
@@ -20,9 +20,9 @@
 				<a id="valeria" href="perfil/valeria-mattos/index.html" target="_top">Valéria</a>
 			</div>
 			<div class="content_menuresponsive">
-				<div id="btn_menu">
+				<div id="btn_cont">
 					<a id="inicio" href="index.html" target="_top"><img src="img/home.svg"></img></a>
-					<ul onclick="atualizaIframe();">
+					<ul id="btn_menu" onclick="atualizaIframe();">
 						<li></li>
 						<li></li>
 						<li></li>
