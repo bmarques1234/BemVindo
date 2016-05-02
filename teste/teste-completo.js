@@ -33,7 +33,6 @@ var driver = new webdriver.Builder()
 	driver.manage().window().maximize();
 	driver.get('file:///D:/Bruno%20Klein/BemVindo/dist/index.html');
 	
-	
 	click('grupo valeria',3000);
 	resizeWindow();
 	voltar();
