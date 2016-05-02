@@ -1,3 +1,13 @@
+function hideShow(hide,show){
+	$(hide).hide();
+	$(show).show();
+}
+function reload(hide,show,replay){
+		$(hide).hide();
+		$(show).show();
+        $(replay).rotate({angle:0,animateTo:180});
+}
+
 $(document).ready(function(){
 	var videoSoja=document.getElementById("soja");
 	var videoManeva=document.getElementById("maneva");
@@ -25,59 +35,45 @@ $(document).ready(function(){
 	$("#playSoja").click(function(){
 		videoSoja.play();
 		videoManeva.pause();
-		$("#playSoja").hide();
-		$("#pauseSoja").show();
-		$("#pauseManeva").hide();
-		$("#playManeva").show();
+		hideShow("#playSoja","#pauseSoja");
+		hideShow("#pauseManeva","#playManeva");
 	});
 	$("#pauseSoja").click(function(){
 		videoSoja.pause();
-		$("#pauseSoja").hide();
-		$("#playSoja").show();
+		hideShow("#pauseSoja","#playSoja");
 	});
 	$("#replaySoja").click(function(){
 		videoSoja.load();
-		$("#pauseSoja").hide();
-		$("#playSoja").show();
-        $(this).rotate({angle:0,animateTo:180});
+		reload("#pauseSoja","#playSoja",this);
 	});
 	$("#playManeva").click(function(){
 		videoManeva.play();
 		videoSoja.pause();
-		$("#playManeva").hide();
-		$("#pauseManeva").show();
-		$("#pauseSoja").hide();
-		$("#playSoja").show();
+		hideShow("#playManeva","#pauseManeva");
+		hideShow("#pauseSoja","#playSoja");
 	});
 	$("#pauseManeva").click(function(){
 		videoManeva.pause();
-		$("#pauseManeva").hide();
-		$("#playManeva").show();
+		hideShow("#pauseManeva","#playManeva");
 	});
 	$("#replayManeva").click(function(){
 		videoManeva.load();
-		$("#pauseManeva").hide();
-		$("#playManeva").show();
-        $(this).rotate({angle:0,animateTo:180});
+		reload("#pauseManeva","#playManeva",this);
 	});    
 	$("#hideBorder").click(function(){
 		$("#border").fadeIn();
-		$("#hideBorder").hide();
-		$("#showBorder").show();
+		hideShow("#hideBorder","#showBorder");
 	});
 	$("#showBorder").click(function(){
 		$("#border").fadeOut();
-		$("#hideBorder").show();
-		$("#showBorder").hide();
+		hideShow("#showBorder","#hideBorder");
 	});
 	$("#hideDivinity").click(function(){
 		$("#divinit").fadeIn();
-		$("#hideDivinity").hide();
-		$("#showDivinity").show();
+		hideShow("#hideDivinity","#showDivinity");
 	});
 	$("#showDivinity").click(function(){
 		$("#divinit").fadeOut();
-		$("#hideDivinity").show();
-		$("#showDivinity").hide();
+		hideShow("#showDivinity","#hideDivinity");
 	});
 });
