@@ -119,7 +119,7 @@ p.espaçolista{
 	display: none;
 }
 
-@media only screen and (min-width: 200px) and (max-width:339px){
+@media only screen and (min-width: 100px) and (max-width:339px){
 	div.caixafoto{ margin:10px auto; padding: 5px; width: auto; background-color: lightgrey;
 	}
 	div.caixafoto2{background-color: white; position: relative; margin: 35px auto; width:50%; height: auto;	padding: 40px; border: 5px double grey; text-align: center; 
