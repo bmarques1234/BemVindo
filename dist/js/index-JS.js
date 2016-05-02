@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	
 	function subir(){
 		$('#imagem > div.mensagem').css('display', 'block');
 		$('#imagem').mouseover(function(){

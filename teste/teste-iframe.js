@@ -2,11 +2,11 @@ function click (name,time){
 	driver.findElement(By.className(name)).click();
 	driver.sleep(time);
 }
-function switchIframe(name){
+function switchIframe(name,time){
 	driver.switchTo().frame(driver.findElement(By.id("ifrm")));
-	driver.sleep(2000);
+	driver.sleep(time);
 	driver.findElement(By.id(name)).click();
-	driver.sleep(2000);
+	driver.sleep(time);
 }
 var webdriver = require('selenium-webdriver'),
 	By = require('selenium-webdriver').By,
@@ -17,14 +17,14 @@ var driver = new webdriver.Builder()
 		.build();
 	
 	driver.manage().window().maximize();
-	driver.get('file:///D:/Bruno%20Klein/BemVindo/dist/index.html');
+	driver.get('file:///D:/Bruno%20Klein/BemVindo/dist/index.html'); 
 	
-	click('grupo brunoklein',3000);
-	switchIframe('brunomarques');
-	switchIframe('brunoklein');
-	switchIframe('geison');
-	switchIframe('guinter');
-	switchIframe('valeria');
-	switchIframe('luisa');
+	click('grupo brunoklein',2000);
+	switchIframe('brunomarques',2000);
+	switchIframe('brunoklein',2000);
+	switchIframe('geison',3000);
+	switchIframe('guinter',2000);
+	switchIframe('valeria',2000);
+	switchIframe('luisa',2000);
 	click('close-reveal-modal',2000);
 	switchIframe('inicio');
