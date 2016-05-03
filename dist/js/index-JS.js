@@ -35,7 +35,6 @@ $(document).ready(function(){
 });
 
 function subir(){
-	$('#imagem > div.mensagem').css('display', 'block');
 	$('#imagem').mouseover(function(){
 		$('#imagem > div.mensagem').stop().animate({top: '90%'}),100;
 	});
@@ -46,3 +45,4 @@ function descer(){
 		$('#imagem > div.mensagem').stop().animate({top: '100%'}),100;
 	});
 }
+

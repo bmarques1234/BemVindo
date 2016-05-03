@@ -1,5 +1,5 @@
 html{margin:0; padding:0; background:#EFEFEF;}
-body{width:780px; margin:20px auto; padding:0 10px 0 10px; background:#FFF; font-family:sans-serif;}
+body{margin:20px auto; padding:0 10px 0 10px; background:#FFF; font-family:sans-serif;}
 html{height:100%;}
 body{height:auto; box-shadow:0 0 20px #444;}
 html, section, section h1, section h2, section div, footer{width:100%;}
@@ -15,6 +15,7 @@ section #imagem > div.mensagem{height:60px; position:absolute; top:100%; line-he
 
 section #imagem > .grupo{position:absolute; background:transparent; border-style:transparent; cursor:pointer;}
 section #imagem > .grupo:hover{border:solid 5px #FFF; box-shadow:0 0 20px #444;}
+section #imagem > .grupo > span{display:none;}
 section #imagem > .luisa{top:120px; left:-8px; width:155px; height:280px;}
 section #imagem > .geison{top:160px; left:255px; width:90px; height:110px;}
 section #imagem > .guinter{top:120px; left:385px; width:90px; height:110px;}
@@ -22,18 +23,23 @@ section #imagem > .valeria{top:220px; left:560px; width:90px; height:110px;}
 section #imagem > .brunomarques{top:340px; left:265px; width:90px; height:110px;}
 section #imagem > .brunoklein{top:350px; left:490px; width:100px; height:115px;}
 
-section #imagem_responsiva {display:none;}
-
 footer{text-align:center;}
 footer p{margin:10px 0 10px 0;}
 footer p a{line-height:39px; margin:0; font-weight:bold; text-decoration:none; color:#4DB920;}
 
+@media only screen and (min-width: 100px) and (max-width: 349px){
+	header {width:100%;}
+	header img{width:80%; margin:20px 0 20px 0;}
+}
+
 @media only screen and (min-width: 100px) and (max-width: 800px){
-	section #imagem{display:none;}
-	section #imagem_responsiva {width:90%; height:100%; margin:0 auto; padding-top:5px; display:block;}
-	section #imagem_responsiva > div.mensagem{ top: 100%; line-height:15px;font-size:50%;}
-	section #imagem_responsiva img {width:90%;} /*arrumar largura da imagem*/
-	section #imagem_responsiva #list_menu{width:100%; height:200px;}
-	section #imagem_responsiva #list_menu a {display:block; width:100%; line-height:32px; padding:0 0 0 10px; color:#4DB920; text-decoration:none; text-align:center;}	
+	body{width:90%; margin:20px auto; padding:0 10px 0 10px; background:#FFF; font-family:sans-serif;}
+	section #imagem{width:100%; height:auto; position:relative; text-align:center; background:#FFF;}
+	section #imagem > .mensagem{display:none;}
+	section #imagem > img{display:block;}
+	section #imagem > .grupo{position:relative; display:block; top:5px; left:0px; width:100%; height:30px; line-height:30px; background:#4DB920; border-top:solid 5px #FFF; border-bottom:solid 5px #FFF; color:#FFF;}
+	section #imagem > .grupo:hover{border-top:solid 5px #FFF; border-bottom:solid 5px #FFF; left:0px; box-shadow:none; background:#9DD881; color:#000;}
+	section #imagem > .grupo span{display:block;}
+	footer{width:100%;}
 }
 
