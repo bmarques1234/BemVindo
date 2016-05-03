@@ -1,6 +1,5 @@
 ﻿var gulp = require('gulp');
 var webserver = require('gulp-webserver');
-<<<<<<< HEAD
  
 var server = {
   host: 'localhost', //192.168.1.195
@@ -14,16 +13,6 @@ gulp.task('webserver', function() {
       host: server.host,
       port: server.port
     }));
-
-gulp.task('webserver', function() {
-=======
-
-gulp.task('webserver', function() {
->>>>>>> 87ebccd2c11d34ede396ef0918d9cf507f555f21
- gulp.src('dist')
-   .pipe(webserver({
-     fallback: 'dist/index.html'
-   }));
 });
 
 gulp.task('minify-html', function () {
