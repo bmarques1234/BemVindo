@@ -1,4 +1,4 @@
-var gulp = require('gulp');
+﻿var gulp = require('gulp');
 var webserver = require('gulp-webserver');
 <<<<<<< 1b4ce248094b807c11928def809aab00ea341a0f
  
@@ -46,8 +46,8 @@ var user = process.env.FTP_USER;
 var password = process.env.FTP_PWD;  
 var host = 'traineedigitaldesk.pe.hu';  
 var port = 21;  
-var localFilesGlob = ['./dist/'];  
-var remoteFolder = 'public_html';
+var localFilesGlob = ['D:/Projetos/BemVindo/public_html/perfil/bruno-marques'];
+var remoteFolder = '/';
 
 
 // helper function to build an FTP connection based on our configuration
