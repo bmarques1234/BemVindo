@@ -46,7 +46,7 @@ var user = process.env.FTP_USER;
 var password = process.env.FTP_PWD;  
 var host = 'traineedigitaldesk.pe.hu';  
 var port = 21;  
-var localFilesGlob = ['D:/Projetos/BemVindo/public_html/perfil/bruno-marques'];
+var localFilesGlob = ['D:/Projetos/BemVindo/public_html/**'];
 var remoteFolder = '/';
 
 
